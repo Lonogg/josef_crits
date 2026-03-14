@@ -1,0 +1,168 @@
+{
+  "damageType": "crushing",
+  "location": "head",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 3,
+      "severity": "T",
+      "wounds": "T",
+      "description": "I Felt The Draft. Passing close enough to your face to make You suffer a penalty of -10 to your next rolled Test. your eyelashes flutter, you get away from this close encounter with your opponent\u2019s weapon with just a good scare.",
+      "effects": []
+    },
+    {
+      "min": 4,
+      "max": 6,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Noggin\u2019 Rung. The blow barely grazes your head, unsettling If completely bareheaded you must pass a Challenging (+0) your headgear.                                             Endurance Test or gain Stunned (1). If wearing a hat, Leather Skullcap, Mail Coif or Open Helm you gain Blinded (1) as it settles across your eyes. A good full Helm is fitted and strapped on well enough to avoid any effects at all except a ringing noise as the weapon glances off.",
+      "effects": []
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Black Eye. Your foe\u2019s weapon glances off your cheekbone, You gain Blinded (2). making you see stars and leaving you with a black eye.",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 15,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Broken Nose. You are blinded with pain as your nose is You gain Stunned (1). Make sure to play up any attempts to compressed beyond its breaking point.                  set it straight after the fight for maximum laughs.",
+      "effects": []
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Mashed Ear. Your ear is half torn away by a near miss Gain Stunned (1), as well as a -5 penalty to Fellowship intended to smash your head in.                       whenever your mangled ear is obvious. A nice hat or a new haircut is an obvious solution to your unsightliness.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Scalp Flap. Your opponent\u2019s weapon connects with your Gain Bleeding (1). Also, you gain Blinded (1), which cannot be head, leaving a large flap of scalp dangling and in need of removed until the bleeding Condition is removed, due to the reattachment.                                               copious amounts of blood running into your face.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burst Eardrum. A solid blow to the side of your head bursts Gain Stunned (1). Also, pass an Average (+20) Endurance your eardrum.                                               Test or suffer a permanent -10 penalty to all hearing-based Perception Tests due to bothersome tinnitus.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Neck Smash. Your opponent\u2019s weapon smashes into the Pass a Challenging (+0) Endurance Test or go Prone. Also, meat of your neck, straining the large neck muscles. due to your wrenched neck you suffer a penalty of -10 to your Agility for the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Face Crunch. The blow crumples one cheekbone and Pass an Easy (+40) Endurance Test or go Unconscious. fractures part of the maxillary bone, making your previously Otherwise gain Stunned (2). flawless face a bit lopsided to look at.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Teeth. Your ivories crunch and shatter under your Gain Stunned (2). Lose 1d10 teeth \u2013 Amputation (Easy). foe\u2019s blow, causing you to spit blood and shards.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Busted Jaw. You suffer a mandibular bone fracture as your Pass an Average (+20) Endurance Test or go Unconscious. opponent connects with either your chin or your jawline.  Otherwise gain Stunned (2). Regardless, you suffer a Broken Bone (Minor).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Crushed Larynx. The blow slams into your Adam\u2019s Apple, You gain Fatigued (1) and will gain another level of Fatigued at distorting the cartilage of your windpipe and closing your the end of each of your subsequent turns until the cartilage is airways. You start to choke.                               popped back into place. This requires either a Hard (-20) Heal Test by yourself or a Challenging (+0) Heal Test by someone else. If successful all Fatigued Conditions are removed but you won\u2019t be able to speak for a week. If you reach Fatigued (10) you go Unconscious and die from suffocation in another Toughness Bonus rounds.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Concussion. A powerful wallop causes your poor brain to Pass a Difficult (-10) Endurance Test or go Unconscious. rattle around inside your skull in an unhealthy manner. Otherwise gain Fatigued (2) for the rest of the day and vomit heavily at the end of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Whip-Lash Trauma. Your head is whipped violently to one         You gain Fatigued (1), which goes away normally after a rest. side, wrenching neck muscles and nerves. Headaches and          After the end of the encounter you will again gain Fatigued (1) tense muscles will plague you for a long time, even after the   any time you do anything physically strenuous (like fighting battle.                                                         or an Athletics Test). At the end of each month from now you\u2019ll get to take a Hard (-20) Endurance Test to make this effect go away spontaneously. Alternatively, successful use of Surgery will get you a good neck brace that will clear it up in a couple of weeks, but while wearing it you\u2019ll be at -20 to your Agility.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Fractured Skull. An unwholesome crack resounds across Pass a Hard (-20) Endurance Test or go Unconscious. the battlefield as your skull is broken.              Regardless, you also gain Fatigued (2) which will last until the plates of your skull have set again in 30 minus your Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Fractured Orbit. The bony parts of your eye-socket crumple, Gain Stunned (3). Surgery will be required or you\u2019ll lose the trapping the muscles responsible for eye movement, resulting eye (see under Amputated Parts) permanently. in double vision and a risk of permanent damage to the eye.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Burst Eye. Your eyeball goes squish as your opponent Your gain Stunned (3) and your eye is lost \u2013 Amputation (Hard). smashes his weapon into your face, leaving clear gelatinous liquid mixed with blood running down your cheek. Painful!",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 94,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Depressed Skull Fracture. Your foe\u2019s weapon crunches into You go Unconscious and will stay that way until Surgery your skull, shards pressing down on your brain and a large removes the offending bone-shard and clears away the subdural hematoma forming.                                 large clot to relieve the pressure on the brain. This process is known as trepanation, and tends to take a full day. It is often attended by a large crowd of onlookers eager to see the latest in scientific medical advances. Should the surgery be successful you\u2019ll still have to pass a Challenging (+0) Endurance Test or contract Blood Rot from resulting meningitis. If Surgery never becomes available you could conceivably last a long time with the right care, just uselessly comatose.",
+      "effects": []
+    },
+    {
+      "min": 95,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. Something essential was destroyed, or You go Unconscious. Roll once on the Mental Corruption a piece of your soul went flying off through the cracks\u2026 Table when you wake up. This does not lose you any regardless of cause, you\u2019re just not you anymore.        Corruption Points nor does it count towards your Corruption Limit.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Splattered All Over The Place. Depending on the GM\u2019s mercy, You are quite dead and ready for a closed casket funeral. you either die instantly from a smashed skull or in a couple of turns, choking on your own blood as your lower jaw is completely torn off.",
+      "effects": []
+    }
+  ]
+}

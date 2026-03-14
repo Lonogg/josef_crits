@@ -1,0 +1,45 @@
+{
+  "id": "wfrp4e-josef-crits",
+  "title": "WFRP4e - Josef Tham Expanded Criticals",
+  "version": "0.2.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "Implements Josef Tham's Expanded Critical Effects for WFRP4e as Foundry RollTables and provides optional integration with the WFRP4e combat system to automatically roll and apply these tables.",
+  "authors": [
+    {
+      "name": "Shane"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "compatibility": {
+          "minimum": "5",
+          "verified": "6"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "packs": [
+    {
+      "name": "josef-crits-tables",
+      "label": "Josef Expanded Critical Tables",
+      "system": "wfrp4e",
+      "path": "packs/josef-crits-tables.db",
+      "type": "RollTable"
+    }
+  ]
+}

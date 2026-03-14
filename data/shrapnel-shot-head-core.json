@@ -1,0 +1,208 @@
+{
+  "damageType": "shrapnel-shot",
+  "location": "head",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Buzz! Shrapnel and shot go whistling and thrumming through Pass a Challenging (+0) Cool Test or suffer a penalty of -10 to the air around your head. You flinch like a wuss!          your next rolled Test.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "You Blinked! A small projectile removes several eyelashes You gain Blinded (1). and nicks one eyebrow.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Where\u2019s My Hat? You duck as small fragments pepper A Hat, Leather Skullcap or Open Helm goes flying 1d10 yards. your face and scalp, a larger piece going so close that any A Mail Coif robs you of one extra Wound as mail links dig headgear you are wearing gets caught.                       into your scalp. An enclosed Helm gains you Deafened (2) as the sound of a fistful of leadshot thrown into a metal bucket assaults your ears! If you are bareheaded you lose a single point of Fellowship due to minor facial scarring. If you\u2019re wearing Flexible layered armor only the outermost piece counts.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Torn Ear. A chunk of your ear goes spinning through the air.      Gain Deafened (2). Pass an Easy (+40) Cool Test to avoid dropping anything held in your primary hand to clap it to your wounded ear. You can take an Action normally after that. Roll 1d10-5; if the result is positive that is the penalty to your Fellowship whenever your mangled ear is obvious.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Facial Wound. Your head snaps back, blood flying as your Gain Blinded (1) and Bleeding (1). The resulting scar will be cheek is sliced to the bone, barely missing your eye.    impressive without being disfiguring, gaining you +1 SL on any Intimidate Test against a target likely to be frightened by such things. You can only gain this benefit once.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Neck Wound. A swirling fragment opens up a good-sized Although now exposed to the public, both your jugular and hole in the side of your neck. Anyone curious enough for a carotid survived this close call. Smaller vessels still gain you closer look can actually see one of the major blood vessels Bleeding (2). beating in there!",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Grazed Forehead. Your forehead takes a gash, causing blood Gain Bleeding (1). You also gain Blinded (2) which cannot be to run into your eyes.                                     removed until the Bleeding Condition has been removed.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Eat This! You literally eat a faceful of shrapnel. You spit blood, Gain Stunned (2) and lose 1d10/2 teeth \u2013 Amputation tooth fragments and shot!                                          (Average).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Scalp Flap. A hail of shrapnel glances off your skull, lightly Gain Stunned (2) and Bleeding (1). Each turn for the rest of concussing you and leaving a palm-sized piece of scalp the encounter there is a 20% risk the flap will get in your eyes, dangling.                                                      gaining you Blinded (1) as well. After the encounter you need to pass an Easy (+40) Toughness Test or gain a prominent bald spot as the lacerated scalp fails to heal in an esthetic manner.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Jaw. A projectile smashes into your chin, breaking Pass an Average (+20) Endurance Test or go Prone. Gain your jaw.                                                 Stunned (2) and suffer a Broken Bone (Minor).",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Mangled Face. A blast of shrapnel removes chunks from one Gain Stunned (3). Lose one ear \u2013 Amputation (Average). side of your face, including one ear and quite a bit of cheek, Also, the extensive scarring gains you a penalty of -5 to your leaving white jawbone visible through the rents.               Fellowship in any situation where a handsome exterior is imperative.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Jammed Jaw. A piece of shot or shrapnel jams itself into the      Gain Stunned (2). You suffer a Broken Bone (Minor), except hinge that is the temporomandibular joint, connecting your        the bone can\u2019t begin to mend until the projectile is removed. lower jaw to your skull. You find yourself unable to close your   Until that happens you\u2019ll also constantly have Fatigued (1) mouth or even to open it much further without severe pain.        due to the agonizing pain of having the fragment keeping your mouth jammed open. Removal requires a Hard (-20) Heal Test and a steady hand.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Damaged Jugular. Your jugular vein eats a fragment, causing Gain Bleeding (3). a cascade of dark blood to pour down your side.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Eye Injury. You take a hail of fragments to the face. One nicks   Gain Stunned (2) and Blinded (3). You\u2019ll need Surgery within a the edge of your orbital cavity, ripping its way through one of   week or you\u2019ll lose the eye (see under Amputated Parts) and the rectus muscles controlling eye movements, finally lodging     gain a Festering Wound as the fragment lacerates both eye somewhere behind the eye near the optic nerve. Your other         and optic nerve. eye gets away with a subconjunctival hemorrhage, which            The surgery will require you to be either unconscious or have looks nasty with the redness and all, but is quite harmless.      nerves of steel as the surgeon will have to get his instruments hooked around the eyeball and push it aside to locate and extract the fragment by feel. Anyone watching the procedure will have to pass a Difficult (-10) Cool Test or be violently sick. Even a successful operation will leave you with a lazy eye due to the damaged eye muscles.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lost Nose. An errant fragments departs along with a Gain Stunned (2) and Blinded (2) as pain radiates from the significant portion of your nose. Left side, right side, upper fractured and torn remains of your dearly departed nose. part or lower part; it matters not as the result is an unsightly Also, you lose the nose \u2013 Amputation (Average). hole in the middle of your face. The impact also leaves you with two black eyes, which unlike your nose is only a temporary inconvenience.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lost Eye. A piece of shrapnel or shot pulps one eye, causing a Gain Stunned (3). Lose the eye \u2013 Amputation (Difficult). small rivulet of clear gel mixed with blood to run slowly down your cheek.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Destroyed Face! You roll around on the ground, both hands Gain Prone and Broken. You suffer a Broken Bone (Major) clasped to the ruin of your face.                         and also lose various parts \u2013 Amputation (Hard). Roll three times and ignore but don\u2019t reroll any multiples of an already rolled result:",
+      "effects": []
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "severity": "1d10",
+      "wounds": "1d10",
+      "description": "teeth",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. The blast sends a piece of your skull flying,       Pass a Challenging (+0) Endurance Test or go Unconscious; fragments of shot or bone penetrating into your brain. You        otherwise gain Stunned (3). Regardless, once recovered now have a hole in your head! Enough intact scalp remains         from either Condition you instead gain Fatigued (1) that will for the opening to close, but you\u2019ll have a soft indention over   remain for a full week before you stop feeling dizzy. the missing piece of skull forever more\u2026 Roll 1d10 for long-term effects:",
+      "effects": []
+    },
+    {
+      "min": 1,
+      "max": 5,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: Roll once on the Mental Corruption Table. This does not lose you any Corruption Points nor does it count towards your Corruption Limit.",
+      "effects": []
+    },
+    {
+      "min": 6,
+      "max": 7,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You become very forgetful and your Int is reduced by -10.",
+      "effects": []
+    },
+    {
+      "min": 8,
+      "max": 9,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You suffer what is called expressive aphasia, effectively losing spoken speech (see under Amputated Parts - Tongue).",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You gain Blinded (1) except the Condition is permanent as your ability to perceive visual input is impaired.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Torn Throat. Multiple fragments tear through your neck,           Gain Prone and Bleeding (3), the latter of which can only be ripping apart windpipe and muscle, nicking a carotid artery       removed through Surgery. Should you fail to bleed to death and damaging your lower jaw. You start choking on blood           you\u2019ll still suffer extensive damage to your voice apparatus, and torn flesh as even more crimson gushes out in rhythmic        effectively losing use of your tongue (see under Amputated spurts through the ragged wounds.                                 Parts).",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Brain Spill! The blast takes off the top of your skull, sending Head all hollowed out, it\u2019s pretty certain you\u2019re dead as a brain matter, hair and bone shards flying. Whatever remains doorknob. of your poor brain sloshes out of the opened brainpan to spill on the ground as you collapse, limp like a boned fish.",
+      "effects": []
+    }
+  ]
+}

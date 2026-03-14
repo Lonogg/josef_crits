@@ -1,0 +1,168 @@
+{
+  "damageType": "shrapnel-shot",
+  "location": "leg",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Dance, Tenderfoot! Shrapnel whine and ricochet around You take your next Action last in the Turn. your feet, forcing you to jump!",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Too Close For Comfort! You realize that the draft you\u2019re feeling Pass an Easy (+40) Cool Test or suffer a penalty of -20 to your is due to a new set of holes in your garments somewhere in next rolled Test as you try to push the thought of what have the vicinity of your crotch.                                     happened to the back of your mind.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Shin Whack. A pellet or fragment whacks your shin, You suffer a penalty of -10 to any Agility Tests for the next procuring a yelp and some minor stumbling.         1d10 turns.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Perforated Thigh. Several projectiles embed themselves in You suffer a Torn Muscle (Minor). The small projectiles do the muscle of your thigh. Although individually minor injuries, not need extraction and will become encapsulated in fibrous together they\u2019re enough to provide you with a proper limp.      tissue over time.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pierced Patella. A fragment sticks out like a bent nail from Gain Stunned (1) and Prone. You need to take a full Action to your kneecap. Any breeches, skirt or thigh-high boots you dislodge the annoying fragment before you can get upright were wearing are now nailed to your knee!                    again.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Calf Wound. A spinning piece of metal whacks into the side Gain Bleeding (1) and suffer a penalty of -1 to your M for the of your calf, carving up a deep bleeding wound.            rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Did That One Just Come Out Of My..?! A projectile slams Gain Stunned (1) and Bleeding (1). For the next 1d10 days you into the side of your thigh, high up near the hip. It burrows also suffer a penalty of -1 to your M and will have problems through the meat and then exits at the back just above the sitting down. You now also have a hole in your pants. gluteal sulcus (the crease separating thigh from buttock) in a spray of blood.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bleeding Wound. Clipping you high up near the back of your Gain Bleeding (2). Should you attempt any Athletics Test knee, a piece of shot barely misses your vital popliteal artery requiring steady footing before you\u2019ve had a chance to but still severs the great saphenous vein. Your footwear empty out your boot you\u2019ll suffer a penalty of -10 to the Test. quickly starts filling up with dark blood!",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Torn Lower Leg. Shrapnel pierces your lower leg, leaving Gain Bleeding (1) and suffer a Torn Muscle (Minor). You also a couple of good-sized exit wounds as they slice their way need to pass an Average (+20) Athletics Test or go Prone. out through your calf. A virtual Latin library of muscles (gastrocnemius, peronueus longus, soleus) find themselves with a lot fewer working fibers.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lost Toe. Dust and debris swirl around you as a hail of Lose one toe \u2013 Amputation (Easy). shrapnel pelt the ground around your feet. You have just congratulated yourself on a good dodge when your attention is drawn to one bit of debris in particular flying past your face\u2026it\u2019s suspiciously toe-shaped?",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Fractured Fibula. A chunk of metal sails through your fibula, Gain Stunned (2). Your M will be reduced to 1 and you\u2019ll splintering it. This is a non-weight-bearing bone of the lower suffer a penalty of -30 to your Agility until you\u2019ve had the leg, but you\u2019ll still hobble your way through life for a while! leg properly and tightly bound up after the encounter, after which it\u2019ll count as a Torn Muscle (Major).",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Major Thigh Wound. The blast almost separates the large Gain Stunned (2), Bleeding (2) and Prone. You suffer a Torn quadriceps muscles at the front of your thigh from their Muscle (Major), except the leg will be useless (see under attachments to bone and tendons. The whole bleeding mass Amputated Parts) until at least partially healed. of muscle looks disturbingly wobbly and loose.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Knee Injury. A fragment lodges inside your knee joint, ripping Gain Stunned (2) and Prone. You also suffer a Broken Bone the meniscus and tearing cruciform ligaments. The offending (Major), except you\u2019ll automatically fail any Tests for long- fragment will continue making a nuisance of itself until term penalties. Unless you receive Surgery to remove the removed. You\u2019ll never dance in the top tier again!             fragment that penalty will be increased to halving your M (round up) and -20 to Agility Tests as the fragment keeps jamming the joint.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Crippled Foot. A well-placed blast makes a mess of your foot,    Gain Stunned (3), Bleeding (1) and Prone. Lose 1d10/5 fracturing tarsal and metatarsal bones, sending toes flying!     toes \u2013 Amputation (Average), and suffer a Broken Bone What remains bears a closer resemble to a puzzle than a          (Major), except you\u2019ll automatically fail all Tests for long- foot!                                                            term penalties. Also, you\u2019ll need to pass an Average (+20) Endurance Test or gain a Festering Wound.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Fractured Tibia. A piece of shrapnel takes a large fragment      Gain Stunned (3) and Prone. The leg is useless (see under off your tibia, the long weight-bearing bone of your lower       Amputated Parts), and will remain so unless your receive leg. The new structural weakness quickly makes itself felt       Surgery within a week. If you do it\u2019ll count as a Broken as your weight causes the tibia to snap, a broken-off jagged     Bone (Major), except any Test for long-term penalties end tearing out through the skin, sending you crashing to the    automatically fail. Regardless, you also contract a Festering ground howling with pain.                                        Wound due to the open fracture.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Femoral Artery Severed. Projectiles savage the inside of Gain Bleeding (4) and suffer a Torn Muscle (Minor). your thigh, clipping your femoral artery. Bright arterial blood starts spraying in rhythmic spurts! You start feeling faint as your blood pressure drops rapidly.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Blown-Off Foot. The blast hits you in the ankle, neatly Gain Stunned (2), Bleeding (2) and Prone. Also, lose the foot severing your foot from its attachments to the rest of the \u2013 Amputation (Challenging). leg. Depending on the grouping of the projectiles hitting you, enough tissue may remain for the foot to dangle from the torn lower leg but that\u2019s a purely temporary state of things as the foot is quite deceased and will either fall off on its own or part from you courtesy of a sharp blade (a pair of scissors would do the trick nicely).",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Destroyed Knee. In the grand tradition of organized crime Gain Stunned (3), Bleeding (2) and Prone. The leg is useless everywhere, a blast to the kneecap tends to settle even the \u2013 Amputation (Hard), and will have to come off within a week fiercest argument. Whether your foe is a member of any (requiring Surgery) or you\u2019ll also contract Blood Rot as such association matters little, as you find yourself all out of gangrene sets in. arguments regardless.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Leg. Either a very large and sharp piece of shrapnel Gain Stunned (1), Bleeding (4) and Prone. You lose the leg \u2013 or a very nice and tight grouping of shot completely severs Amputation (Hard), which will land 1d10/2 yards away in a your leg above the knee. The gory stump immediately starts random direction. spurting blood everywhere.",
+      "effects": []
+    },
+    {
+      "min": 0,
+      "max": 0,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Destroyed Pelvis. The burst of projectiles practically After such a severe violation of bodily integrity, you are very explodes your pelvis, turning the bones into a storm of much dead and departed! fragments that tear up multiple internal organs, nerves and major blood vessels, including the bladder, hypogastric plexus and both iliac arteries. You expire quickly from the sheer shock.",
+      "effects": []
+    }
+  ]
+}

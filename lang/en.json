@@ -1,0 +1,28 @@
+{
+  "name": "Josef Crits",
+  "settings.defaultRuleset.name": "Default Josef Crits Ruleset",
+  "settings.defaultRuleset.hint": "Select which ruleset (Core or Up In Arms) is used by default.",
+  "settings.userOverrideRuleset.name": "Josef Crits Ruleset Override",
+  "settings.userOverrideRuleset.hint": "Override the default ruleset for this user only.",
+  "settings.integrationMode.name": "Josef Crits Integration Mode",
+  "settings.integrationMode.hint": "Choose how the Josef crit tables integrate with the WFRP4e system.",
+  "settings.debugMode.name": "Josef Crits Debug Mode",
+  "settings.debugMode.hint": "Enable debug logging for Josef crit rolls.",
+  "settings.defaultDamageType.name": "Default Damage Type",
+  "settings.defaultDamageType.hint": "Used when a vanilla critical lacks a damage type; determines which Josef table to roll.",
+  "settings.dryRunMode.name": "Josef Crits Dry Run",
+  "settings.dryRunMode.hint": "When enabled, the module will not actually apply injuries or conditions; instead it will post what would happen.",
+  
+  "JOSEFCRITS.settings.defaultRuleset.name": "Default Josef Crits Ruleset",
+  "JOSEFCRITS.settings.defaultRuleset.hint": "Select which ruleset (Core or Up In Arms) is used by default.",
+  "JOSEFCRITS.settings.userOverrideRuleset.name": "Josef Crits Ruleset Override",
+  "JOSEFCRITS.settings.userOverrideRuleset.hint": "Override the default ruleset for this user only.",
+  "JOSEFCRITS.settings.integrationMode.name": "Josef Crits Integration Mode",
+  "JOSEFCRITS.settings.integrationMode.hint": "Choose how the Josef crit tables integrate with the WFRP4e system (Off, Replace Default, Side By Side).",
+  "JOSEFCRITS.settings.debugMode.name": "Josef Crits Debug Mode",
+  "JOSEFCRITS.settings.debugMode.hint": "Enable debug logging for Josef crit rolls.",
+  "JOSEFCRITS.settings.defaultDamageType.name": "Default Damage Type",
+  "JOSEFCRITS.settings.defaultDamageType.hint": "Used when a vanilla critical lacks a damage type; determines which Josef table to roll.",
+  "JOSEFCRITS.settings.dryRunMode.name": "Josef Crits Dry Run",
+  "JOSEFCRITS.settings.dryRunMode.hint": "When enabled, the module will not actually apply injuries or conditions; instead it will post what would happen."
+}

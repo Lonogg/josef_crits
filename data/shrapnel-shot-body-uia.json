@@ -1,0 +1,168 @@
+{
+  "damageType": "shrapnel-shot",
+  "location": "body",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Shredded Clothes. Your jacket/vest/tabard/whatever is Pass an Average (+20) Cool Test or be very annoyed, taking turned into a right shredded mess. You\u2019ll find pieces of shot a penalty of -10 to your next rolled Test. in your pockets, underwear and shoes for weeks! If, for some odd reason, you went into battle naked, you\u2019ll lose one additional Wound as you take some cuts from spent fragments.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Peppered! You feel like you\u2019ve ended up at the centre of a You gain Blinded (1) as you duck your head and raise an arm, swarm of angry bees as fragments and shot whistle past you. shield or other object to protect your face. You feel like a You flinch as one piece makes a small cut near your neck and wuss! other spent fragments pelt your chest.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Raked Ribs. A piece of shot tears across your chest, making You take a penalty of -20 to your next rolled Test. a gash across a couple of ribs.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "BBQ Time! A fiery hot fragment digs into your flank. There is Until you\u2019ve removed the fragment you\u2019ll suffer a penalty of extreme discomfort as it lodges there, smoking and possibly -20 to all Tests taken. Removal requires one Action, a free also sizzling a bit!                                          hand to expose the wound and some object held in the other hand to dig it out. A small sharp object like a dagger or a utensil would be perfect, but bulkier stuff like a Hand Weapon requires an Average (+20) Dexterity Test. If you\u2019re running out of hands you need to take one Action each for exposing and digging, respectively.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Heroic Rib! A projectile that would have punched through You gain Fatigued (1) for the rest of the encounter, after to lacerate your kidney instead ricochets off a floating rib, which you can bind your chest tightly to function almost which pays for its heroism by snapping in two.                normally despite the discomfort.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Stunt Man Dive! Your shield, cuirass, pauldron or simply a Gain Prone. A credulous foe may believe you dead, should good-sized belt buckle takes the brunt of the hit, spinning you you encourage such gullible thinking. An Opposed Test of around to take a dramatic looking fall.                         Perform versus Perception may be in order\u2026",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Abdominal Pain. Several fragments rip into your glorious            For the rest of the encounter you\u2019ll have to pass a Challenging heroic six-pack. You double over and then find the experience       (+0) Endurance Test at the beginning of each of your turns or of trying to straighten up a very painful one, as each such         suffer a penalty of -20 to all physical Actions and Tests as movement feels like you\u2019re tearing your belly apart!                well as halved M for the rest of that turn.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "What the..?! Whatever your opponent had in his nasty filthy         Gain Stunned (1). Also, whatever just dug into your torso little pocket (piece of string, a half-eaten fig, a clipped brass   will have to be extracted within 48 hours or you\u2019ll contract penny, the One Ring\u2026), he clearly stuffed down the barrel           a Festering Wound. This\u2019ll require Surgery (Easy) and will before pulling the trigger!                                         reveal whatever horror the GM or the other players can come up with that could conceivably fit into a Blunderbuss barrel or Bomb.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Horrific Chest Injury. A blast of shrapnel tears skin and flesh Gain Stunned (2) and Bleeding (1). Pass an Average (+20) from your upper body, exposing ribs and chest muscles. Athletics Test or also gain Prone. You\u2019re a frightful sight, but luckily the wounds are of shallow depth and there was no penetration to your thoracic cavity. If the GM is enforcing the Infection rules you\u2019ll have to pass an Easy (+40) Endurance Test or contract a Minor Infection due to the major loss of skin to act as an antibacterial barrier.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Shredded Shoulder. You twist around to dodge the hail Gain Stunned (2) and Bleeding (2). Roll randomly for side, of fragments, which still catches you on the back of the right or left \u2013 the arm on that side suffers a Torn Muscle shoulder. Multiple pellets strip the flesh from your shoulder (Minor). blade, spattering the side of your face with shreds of flesh and spent fragments!",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Gored Glutes. Shrapnel tear across the soft tissues just Your gait becomes a bit odd and lopsided; gaining you a Torn below the iliac crest in the back, ripping the upper part of Muscle (Major) with the effect is halving your M (round your gluteus medius muscle, weakening the function of the up) and a penalty of -20 to your Agility, with partial healing hip.                                                         reducing the penalty to -1 to your M and -10 to Agility.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Groin Gash. You sink to your knees as you press one hand Drop whatever you held in one of your hands. Gain Prone to your groin where a sharp fragment just went in, causing and Bleeding (2). Pass a Challenging (+0) Endurance Test plentiful bleeding.                                        or also gain Stunned (2). You may use the hand normally on your next Turn.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Busted Ribcage. Several pieces of shot bust two or three Suffer a Broken Bone (Minor). Pass a Challenging (+0) of your ribs and tear up the cartilage attaching others to Endurance Test or go Prone. your breastbone. With your ribcage so badly broken every movement and breath turns into sheer agony!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Pierced Lung. Projectiles hammer your chest, one of them           Gain Fatigued (3). For healing purposes, count as Torn piercing your chest wall and damaging one lung, which starts       Muscle (Major), with partial healing reducing your Condition to partially collapse as blood starts filling the pleural space.   from Fatigued (3) to Fatigued (1), which will be removed once You find yourself with a severely diminished respiratory           fully healed. capacity!",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Internal Organ Grievance. You take a burst of shot to the Gain Stunned (3). You also contract Blood Rot. solar plexus. One of the pellets penetrate further than its Unless you receive Surgery you won\u2019t be able to recover two compatriots, holing something you\u2019d rather keep intact\u2026 of your lost Wounds. stomach content, gall, fecal matter or some other foulness start leaking into your abdominal cavity. Next stop peritonitis! If you\u2019re singularly unlucky you\u2019ll encounter a surgeon who will insist on testing his theories of digestion through the hole in your stomach before (maybe) sewing you up. (Note to GM: Look up the story of Canadian trapper Alexis St Martin for inspiration.)",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Not As Wide As A Temple Door, Nor As Deep As A Well\u2026 Gain Bleeding (1) which can only be removed through But It Will Do. A fragment punches in just beneath a floating Surgery. rib, penetrating deeply and lacerating something with a good blood supply, like the liver, spleen or a minor branch of the \u201cA plague on both your houses!\u201d abdominal aorta. You start bleeding out, leaving just enough -Tilean Duelist Mercutio, expressing great disappointment time for a memorable quote or two.                             that someone brought a Blunderbuss to a swordfight\u2026",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Double Pneumothorax. You take the full blast to your chest,        Gain Prone and Broken. Also gain Fatigued (4), which for shrapnel and shot puncturing both lungs! You cough blood           healing purposes will be treated as a Torn Muscle (Major) and gasp for air as your respiratory apparatus collapses.          with partial healing reducing your Conditions from Fatigued With the pleural spaces filling with air and blood there\u2019s no      (4) to Fatigued (2). However, even when fully healed you\u2019ll room for your lungs to expand to draw in that life-sustaining      still have Fatigued (1) which will be permanent. oxygen!",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 110,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Disembowelment. Merciless metal carves open your You must use one hand to try to hold your escape-prone stomach to spill your guts! Loops of intestine start dribbling intestines inside for the rest of the encounter. This is out the ghastly hole in your abdomen.                          regardless of any medical attention gained; you won\u2019t trust just a flimsy bandage to hold your guts in place! You also Your foe appears to be equal parts thrilled and nauseated at gain Bleeding (2), Broken and contract Blood Rot. Your injury the display!                                                   requires Surgery to heal properly; 3 of your lost Wounds cannot be recovered unless healed by a surgeon and until that happens any Critical Hit to your Body will have a 25% risk of causing you to contract Blood Rot again.",
+      "effects": []
+    },
+    {
+      "min": 111,
+      "max": 115,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Catastrophic Bleeding. Numerous pieces of metal violate            Gain Bleeding (3), which can only be removed through your body, one of them finding its way to some structure           magical healing. Ordinary Surgery is no good, as the surgeon with an awful lot of blood passing through; like a kidney, a       would have to dig into you in a way that would only speed pulmonary artery or some equally vital anatomical detail.          your passing. Loss of blood is next best thing to explosive!",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Kablooie! A burst of shrapnel blasts open your ribcage, Being able to see your spine through your chest cavity ripping heart and lungs to pieces, killing you instantly in an should convince anyone that you\u2019re very much dead. explosion of gore.",
+      "effects": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "damageType": "cutting",
+  "location": "body",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Torn Clothing. Your foe\u2019s blade tears through the front of your If for some reason you entered the fight bare-chested, you shirt/vest/jacket/tabard, ruining it quite thoroughly.          suffer one extra Wound as the blade instead slices your skin.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Ooomph! The flat of your enemy\u2019s blade slams into your Gain Fatigued (1) which lasts until you pass an Average (+20) stomach, temporarily winding you.                      Endurance Test, rolling at the end of each of your turns.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Shallow Gash. Whether diagonal, vertical or horizontal, it is Gain Bleeding (1). quite painful and bleeds freely.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pectoral Injury. The proud bulge of your chest muscles gains Roll randomly for side, left or right. Any blows struck with a deep gash, leaving you with a few less muscle strands to the arm on that side suffer a penalty of -1 to your Strength work your shoulder with on that side. Your pecs are indeed Bonus, until healed. For healing purposes, count it as a Torn quite important for those heroic swings and mighty blows, as Muscle (Minor) with no other effect but the Strength Bonus you quickly discover to your chagrin.                        penalty.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Cut To The Hip. Your opponent aims low, sinking his weapon      Gain Bleeding (1). Unless you pass an Average (+20) into the bony iliac crest high on your hip. Despite a nasty     Endurance Test you are also Stunned (1), except you\u2019ll not crunch your pelvis is only lightly chipped, your mobility       suffer any Fatigued Condition to replace it once removed. An unimpaired.                                                     Impressive Failure (-4 SL or more) will also leave you Prone.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Back-Smash. Your attempt to duck and weave results in you Gain Prone and Bleeding (1). taking a heavy cut across your back, smashing you to the ground in agony.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Tummy Slice. Your six-pack becomes a nine-pack as your For the rest of the encounter you\u2019ll have to pass a abdominal muscles are badly slashed, leaving you doubled Challenging (+0) Endurance Test at the beginning of each over and unable to straighten up properly for the pain.  of your turns or suffer a penalty of -20 to all physical Actions and Tests as well as halved M for the rest of that turn.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Groin Job. A low blow. Although your codpiece, You gain Bleeding (1). Unless you pass a Hard (-20) undergarments or a quick twist to the side saves your nether Endurance Test you\u2019ll also gain Stunned (2). regions from mutilation you still take a frightful blow and the wealth of blood vessels in that area doesn\u2019t help much either.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Shoulder Injury. As you try to twist away from your foe\u2019s Roll randomly for side, left or right. You suffer a Torn Muscle blade, it still slams into the back of your shoulder, almost (Minor) for the arm on that side. cracking the scapula and leaving your arm badly weakened.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Exposed Ribs. A long shallow gash exposes gleaming yellow You gain Bleeding (2) and Stunned (1). bone as your chest is badly lacerated. A ghastly-looking injury!",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Severed Ribs. Although failing to enter your chest cavity, your You gain Stunned (1) and suffer a Broken Bone (Minor). opponent\u2019s blade still manages to cleave through several ribs, leaving you very discomforted as every breath you take grinds their broken ends against each other.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Pneumothorax. One of your lungs collapse as your chest wall Gain Fatigued (3). For healing purposes, count as Torn is penetrated, either by your enemy\u2019s blade or the broken Muscle (Major), with partial healing reducing your Condition ribs it left in its wake. You find yourself suddenly very short from Fatigued (3) to Fatigued (1), which will be removed of breath.                                                      once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cracked Sternum. Your foe sinks his blade into your chest,      Gain Fatigued (3). For healing purposes, count as Broken splitting your sternum. As the breastbone is what holds the     Bone (Major), with the Fatigued Conditions removed ribs together and moving in synch, this makes breathing both    once healed, except that any permanent long-term effect a difficult and painful proposition for you.                    remaining will be an enduring Fatigued (1) which can never be removed.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Liver Laceration. Your foe\u2019s weapon cuts through a lower Gain Bleeding (1) which can only be removed by Surgery. floating rib to gash your liver. Internal bleeding and any Make a Challenging (+0) Endurance Test; failure means you resulting infection may be the end of your misspent existence. contract Blood Rot, otherwise gaining a Festering Wound.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Holed Intestine. You take your opponent\u2019s blade square in Gain Stunned (3). You contract Blood Rot. The injury requires the belly, piercing the abdominal wall and damaging your gut. Surgery to heal properly; 2 Wounds cannot be recovered Fecal matter leak into your abdominal cavity, causing serious unless healed by a surgeon. infection.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Sucking Chest Wound. You suffer what is called a tension          You gain Fatigued (1), gaining another level at the end of pneumothorax, meaning your lung collapses as air enters the       each of your subsequent turns. When you have reached pleural space between lung and chest wall, each breath you        Fatigued (10) you expire. This accumulation can only be try to take causing further air to enter but not get out as the   stopped using Surgery. If you survive you return to Fatigued edges of the wound act as a valve. As air builds up it starts     (3) after the encounter. For healing purposes, count as Torn obstructing the workings of the other lung and heart.             Muscle (Major) with partial healing reducing your Condition from Fatigued (3) to Fatigued (1) which will be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Lower Spine Injury. Your foe hacks into your lower back, You suffer the loss of the use of both legs \u2013 effectively a damaging your spinal column, hurling you to the ground and double Amputation (Hard) but roll only once. If you get possibly also injuring your spinal cord.                   successful Surgery the lost function of the legs instead change to Broken Bone (Major) affecting both limbs as the surgeon manages to brace your back in such a way that your battered but un-severed spinal cord can recover. (A failure would possibly indicate a good brace but that the spinal cord really was severed after all.)",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Spilled Entrails. Your enemy guts you, splitting open your        You must use one hand to try to hold your escape-prone belly and causing your entrails to spill out the gash. You        intestines inside for the rest of the encounter. This is desperately try to hold them inside while contemplating your      regardless of any medical attention gained; you won\u2019t trust probable near demise.                                             just a flimsy bandage to hold your guts in place! You also gain Bleeding (2), Broken and contract Blood Rot. Your injury requires Surgery to heal properly; 3 of your lost Wounds cannot be recovered unless healed by a surgeon and until that happens any Critical Hit to your Body will have a 25% risk of causing you to contract Blood Rot again.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Split Open. A mighty slash opens up your chest, cutting You go Unconscious and gain Bleeding (3), the latter of through bone and muscle, severing one of the major arteries which can only be removed through Surgery. If you survive leading from the aortic arc to neck or arm. Bright blood the encounter you suffer the effects of Broken Bone (Major) sprays straight up from the angle of neck and body like a to your body and Torn Muscle (Major) to one random arm. beautiful red fountain.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Red Ruin. Red ruin flops at your opponent\u2019s feet as he splits You are quite messily dead. you in half. From shoulder to hip or horizontally; the angle of it doesn\u2019t really matter, as most of your vital organs are bisected regardless.",
+      "effects": []
+    }
+  ]
+}

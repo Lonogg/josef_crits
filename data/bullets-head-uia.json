@@ -1,0 +1,200 @@
+{
+  "damageType": "bullets",
+  "location": "head",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 3,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Parted Hair. The bullet misses your skull but messes up your If you fail a Challenging (+0) Cool Test your next Action may haircut, which may or may not be an improvement.             not be an attack.",
+      "effects": []
+    },
+    {
+      "min": 4,
+      "max": 6,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Holed Hat. A few inches lower and your opponent would A Hat, Leather Skullcap or Open Helm goes flying 1d10 yards. have drilled you between the eyes\u2026but now he instead drills A Mail Coif or Helm robs you of one extra Wound as mail links your headgear.                                              dig into your scalp or your ears start ringing from the impact. If you\u2019re wearing Flexible layered armor only the outermost piece counts. If you were bareheaded, count this roll as the Parted Hair result instead.",
+      "effects": []
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Nicked Ear. The bullet removes a piece of your ear, along You gain Deafened (2). Roll 1d10-5; if the result is positive that with any earring in its path. The resulting asymmetry may is the penalty you suffer to your Fellowship whenever your impair your beauty somewhat.                              mangled ear is visible.",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 15,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Scratched Face. Your nose, cheek, chin or some other             You suffer a penalty of -10 to any Tests you take until the end protruding part of your facial features has a close encounter    of your next Turn. with the bullet, resulting in the loss of skin and some minor amount of blood.                                                 No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Grazed Scalp. The bullet parts not just your hair but your       Gain Bleeding (1). scalp. Like most scalp wounds it bleeds profusely! No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Engraved Forehead. The bullet grazes your forehead, possibly Gain Stunned (1), Bleeding (1) and Blinded (2), the latter of removing part of an eyebrow. Blood starts running into your which cannot be removed until the Bleeding Condition has eyes and mouth in a very distracting manner.                 first been removed.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Cheek. Your mouth fills with blood and tooth Gain Stunned (2). Also, lose 1d10/2 teeth \u2013 Amputation fragments, courtesy of a bullet that went through one or both (Average). cheeks, connecting with some of your teeth on the way. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cracked Jaw. The bullet tears a furrow along the line of your Gain Stunned (2) and suffer a Broken Bone (Minor). lower jaw, causing a fracture before ricocheting off. You feel mildly disturbed as you discover your upper and lower rows No Extraction is necessary. of teeth no longer quite line up.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Facial Wound. The bullet crunches into your face, crumpling Pass an Average (+20) Endurance Test or gain Unconscious, part of the maxillary and cheek bones, rearranging the otherwise gain Stunned (2). You also suffer a -5 penalty to symmetry of your face. Hey, at least your nose is still attached! your Fellowship due to the scarring and asymmetry of your new face.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Smashed Mouth. The bullet goes in through your open mouth. Gain Stunned (3) and Bleeding (1). For healing purposes It lacerates your tongue and soft palate before it exits behind count it as a Broken Bone (Major) except long-term effects the angle of your jaw in a spray of spittle and blood.          are automatic as you\u2019ll never be able to speak properly again.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Neck Wound. The bullet tears across the side of your neck, Gain Bleeding (2). You must also pass a Challenging (+0) leaving quite a trench but fortunately a shallow one, missing Cool or Endurance Test to avoid dropping whatever you are the carotid artery and spine.                                 carrying in your primary hand and clap it to your wound. (You can still let go and take an Action normally on your Turn.)",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Grazed Skull. The bullet impacts your skull at an acute angle,   Gain Stunned (2). When the Stunned Condition is removed failing to penetrate before glancing off. It still manages to    it\u2019ll be replaced by Fatigued (1) which will last for 1d10 days. cause a minor skull fracture and a solid concussion that you\u2019ll feel for a while.                                         No Extraction Is necessary.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lost Eye. The bullet shatters the bony orbit of one eye. The     Gain Stunned (2). You lose the eye \u2013 Amputation (Challenging). squishy eyeball in its path is simply obliterated.               You must also pass a Challenging (+0) Endurance Test or contract a Festering Wound in the ruin that was your peeper.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Stunned Spinal Cord. The bullet goes in through the side of         You are temporarily paralyzed from the neck down, effectively your neck, leaving an impressive hole as it starts tumbling         gaining the Unconscious Condition except you are awake while digging its way through your sternocleidomastoid              and aware the whole time. Roll at the beginning of each muscle, missing your carotid artery by a hair. It finally lodges,   of your subsequent turns, needing to pass a Difficult (-10) nestled up against your cervical spine, punching it hard            Toughness Test to recover, removing the Condition. enough to temporarily stun your spinal cord. Surgery (Challenging) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Zygomatic Arc. The bullet glances off your Gain Stunned (3). When the Stunned Conditions have been cheekbone, shattering it. The impact is so powerful a hairline removed they\u2019ll be replaced by Fatigued (2) which will last crack forms at the base of your skull as your temporal bone is for 1d10 days. smashed inward, causing a small cerebral hemorrhage. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Broken Jaw. The bullet hits you square on the chin, Gain Stunned (3) and Bleeding (1). You also suffer a Broken shattering bone and teeth before tearing through the base Bone (Major) and lose your tongue and 1d10 teeth \u2013 of your tongue and floor of the mouth, finally lodging at the Amputation (Challenging). back of your throat. Your shattered lower jaw is left dangling and bleeding.                                                  Surgery (Difficult) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Cerebral Hemorrhage. The bullet pierces your skull and tears Gain Unconscious. When you wake up you are hemiplegic. through one hemisphere of your brain, front to back, causing Roll randomly for side, left or right. The arm and leg on that significant bleeding. An instant of sharp pain is followed by side are useless (see under Amputated Parts). If you\u2019re lucky darkness. When you wake up you find yourself not quite up enough to find a particularly knowledgeable Surgeon (GM\u2019s to scratch anymore\u2026                                            decision) or a priestess or healer of Shallya she\u2019ll realize the damage may not be totally permanent as you still have one intact hemisphere to pick up the slack \u2013 after one full month of proper rehabilitation and training you\u2019ll be down to a -10 penalty to any Tests using that arm as well as -1 to your M and -10 to Agility.*",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 94,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. The bullet removes a piece of your skull as it        Pass a Challenging (+0) Endurance Test or go Unconscious; passes just a little too close for your comfort, taking a piece     otherwise gain Stunned (3). Regardless, once recovered of the underlying brain with it. You now have a hole in your        from either Condition you instead gain Fatigued (1) that will head! Better cover it up quickly! Enough intact scalp remains       remain for a full week before you stop feeling dizzy. for the opening to close, but you\u2019ll have a soft indention over the missing skull piece forever more\u2026                               Roll 1d10 for long-term effects:",
+      "effects": []
+    },
+    {
+      "min": 0,
+      "max": 0,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: Roll once on the Mental Corruption Table. This does not lose you any Corruption Points nor does it count towards your Corruption Limit.",
+      "effects": []
+    },
+    {
+      "min": 0,
+      "max": 0,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You become very forgetful and your Int is reduced by -10.",
+      "effects": []
+    },
+    {
+      "min": 0,
+      "max": 0,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You suffer what is called expressive aphasia, effectively losing spoken speech (see under Amputated Parts - Tongue).",
+      "effects": []
+    },
+    {
+      "min": 0,
+      "max": 0,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You gain Blinded (1) except the Condition is permanent as your ability to perceive visual input is impaired.",
+      "effects": []
+    },
+    {
+      "min": 95,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Rattle-Rattle! The bullet pierces your temple, but instead of       You go Unconscious. Anyone seeing the bullet entry hole boring through your brain it veers off and takes a trip along       will assume you\u2019re quite dead, needing to pass a Hard (-20) the inside of your skull, between bone and cortex. Mimicking        Perception Test to notice you\u2019re still breathing. You need to a daredevil motorcycle rider in a Globe of Death Cage it tours      pass a Challenging (+0) Endurance Test (rolling once daily) to most of the circumference of the inside of your cranium,            wake up again. Once you wake you\u2019ll need to pass the same finally coming to a stop somewhere in the back.                     Test again to avoid contracting Blood Rot from meningitis. If you pass you\u2019ll still be Fatigued (2) for another 1d10 days.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Bull\u2019s Eye! Small entry wound. Massive exit wound. Lots of With most of your brainpan emptied out there\u2019s not much that splatter. \u2018Nuff said.                                      can be done about your extreme state of deadness\u2026",
+      "effects": []
+    }
+  ]
+}

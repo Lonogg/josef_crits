@@ -1,0 +1,168 @@
+{
+  "damageType": "unarmed",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Failed Grab. A quick snatch at your sleeve fails but still Pass an Average (+20) Cool Test or your next Action may not makes you flinch!                                          be an attack.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Shoulder Bash. You take a jarring blow to the shoulder.            You suffer a penalty of -10 to your next rolled Test.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Knuckles. Bone slams into bone and yours come off You suffer a penalty of -10 to any Tests using that hand until worse!                                                    the end of your next turn.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Tug-Of-War! Your foe manages to grab whatever you are Roll an Opposed Strength Test. Success or a draw means holding in that hand and starts pulling!              your enemy lets go. Loss by 1-4 SL means you lose your next Action but retain the item. Loss by 5+ SL means you drop what you held in that hand and your foe takes possession of it. If you were carrying it in both hands (like a two-handed weapon) you get to roll twice and pick the best result.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bruised Muscle. An elbow or heel slams hard into your You suffer a penalty of -10 to any Tests using that arm for the biceps muscle, bruising it badly.                     rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Twisted Wrist. Your wrist is badly wrenched and sprained.          Your hand is useless for 1d10/3 turns (see under Amputated Parts) but you do not drop anything held in it.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bruised Collarbone. Your opponent makes a vicious chop at You suffer a Torn Muscle (Minor) except it heals in half the your collarbone, bruising but not breaking it.            usual time.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Funny-Bone Injury. Your ulnar nerve at the elbow is smacked You drop anything held in that hand, and the arm is useless hard, causing your hand to spasm.                           for the next 1d10/2 turns (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Finger. Your foe manages to get hold of one of your One finger is useless (see under Amputated Parts) for 30 fingers, bending it backwards savagely until the bone snaps. minus your Toughness Bonus days when the broken bone will have mended, possibly a bit on the crooked side but still functional.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Temporary Paralysis. You find yourself transported in time Gain Stunned (1). You drop anything held in that hand and the back to your childhood when your older brother would arm us useless for the next 1d10 turns (see under Amputated suddenly yell \u201cFree shoulder punch!\u201d and slam his knuckles Parts). into your deltoid shoulder muscle so hard your whole arm went numb\u2026thanks to your friendly opponent you now get to relive those happy childhood memories!",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Collarbone. A heavy blow to the angle between Although strictly speaking a fracture the injury counts as a shoulder and neck fractures your collarbone. You can still Torn Muscle (Minor). move your arm but feel the broken bone ends grinding against each other!",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Boxer\u2019s Fracture. Your hand gets slammed, fracturing a You suffer a Broken Bone (Minor). couple of the metacarpals, the long bones between wrist and fingers, a classical \u201cboxer\u2019s fracture\u201d usually caused by punching something too hard.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Dislocated Thumb. Your foe twists your thumb, bending it at You gain Stunned (1) from the severe pain. It counts as a an unfortunate angle, causing it to be dislocated. Not only Broken Bone (Minor) except that the absence of Medical very painful but also quite tricky to pop back in place!    Attention within one week of receiving the injury will cause you to automatically fail the Endurance Test for long-term effects.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Dislocated Shoulder. Your enemy grabs you and throws you           Gain Prone. Your arm is useless (see under Amputated over his hip, slamming you into the ground. You land on your       Parts) and the pain so severe you suffer a -10 penalty to shoulder with a crunch, your entire weight coming down on          all Tests. You can try to pop it back in place yourself, which the joint and dislocating it!                                      is a Hard (-20) Test for either Cool, Endurance or Heal, depending on your method (which can consist of simply slamming yourself into something solid at a hopeful angle\u2026 or something slightly more scientific). Alternately, a friend or ally can attempt a Challenging (+0) Heal Test. This puts your arm back in action again without penalties. Otherwise the shoulder will pop back in place spontaneously during your next long rest, but will be sore enough for a -10 penalty to any Tests performed with that arm for the next 24 hours.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Torn Hand. Your opponent grabs two of your fingers in each         Gain Stunned (2). The hand is useless for the rest of the hand and violently tears the two pairs in different directions,    encounter (see under Amputated Parts), but will count as a ripping your hand in half lengthwise, splitting it almost to the   Torn Muscle (Major) after the encounter when you\u2019ve had wrist! Although the metacarpals and tendons are intact, your       a chance to wrap the two halves of the split hand together hand now looks like a grotesque lobster claw.                      again with a bandage or rag.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Dislocated Elbow. Your elbow is dislocated with a nasty pop     Your arm is useless (see under Amputated Parts) and the as your foe either gives it a mighty yank or manages to trap    pain so severe you suffer a -10 penalty to all Tests for the your forearm and then slams down on it hard enough for the      rest of the encounter. The arm will remain useless until joint to pop. This exceedingly painful dislocation leaves you   given Medical Attention after the encounter, which requires with a useless arm and great discomfort!                        a Challenging (+0) Heal Test to pop it back, which can be repeated once per day. If successful it\u2019ll count as a Torn Muscle (Minor) rather than a lost limb.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Snapped Wrist. Your foe manages to snap your wrist, making Gain Stunned (1) and suffer a Broken Bone (Minor). the hand stand out at an odd angle.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Snapped Elbow. Your enemy grapples your arm and then Gain Stunned (2) and suffer a Broken Bone (Major). brings up a knee to slam into the elbow joint, snapping the elbow with a loud crack.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Crushed Shoulder. You are picked up bodily and slammed You gain Prone and Stunned (3). You also lose all function in into either the ground or some unfortunately placed corner, the arm permanently (see under Amputated Parts). piece of furniture or tree. Your shoulder takes the full impact and breaks, the blow also tearing the brachial nerve plexus, leaving your arm paralyzed.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Crash Landing! As you try to take a swing at him, your You are dead due to an unfortunate and fatal landing! foe grabs your arm and uses your momentum to drag you toward him, and then roll backwards as he puts a foot in your (If you are a Dwarf in full Plate, and thus extremely unlikely stomach, hurling you over his head. You land with a crash, to be tossed, you instead gain Unconscious.) snapping your neck or crushing your skull!",
+      "effects": []
+    }
+  ]
+}

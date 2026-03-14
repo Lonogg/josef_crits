@@ -1,0 +1,168 @@
+{
+  "damageType": "sling",
+  "location": "leg",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Skipping Stone. The sling bullet skips over the ground, You take your next Action last in the turn. forcing you to make an undignified leap into the air to avoid it.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Ricochet! The sling bullet ricochets off the ground to hit you Luckily for you, its force was spent. You still flinch and miss a perilously close to your groin.                                step, so you must halve your M (round up) on your next turn.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Shin. You take it on the shin, the projectile bouncing You suffer a penalty of -1 to your M and -10 to your Agility for off your lower leg.                                            the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Battered Toes. The sling bullet slams into the tip of your foot, 1d10/2 of your toes become useless for the rest of the mercilessly battering your toes.                                 encounter (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Sprained Ankle. The sling bullet smacks your lateral For the next 1d10/2 days, any time you roll for a Dodge or malleolus, the prominence on the outer side of your ankle, Athletics Test, you automatically fail on an uneven roll on the bruising it badly. With all the tendons attached to it, this is unit die, as your battered ankle betrays you. effectively a really nasty sprain.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "You Go High, It Goes Low! The projectile comes in just barely Gain Prone. If you aren\u2019t wearing any footwear you also above the ground and slams your foot sideways. You take a suffer the effects of the Sprained Ankle result above. bit of a tumble.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Thigh Whack! The sling bullet gives you a painful whack high You squeeze your thighs together hard and reduce your M up on the inside of your thigh as it passes between your legs. to 1 on your next turn, also missing your next Action as you whimper pitifully.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bone Bruise. A solid hit results in the mother of all bone You suffer a Torn Muscle (Minor). bruises. The impact site swells up painfully as blood starts pooling between cartilage and underlying bone.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Torn Tendon. The sling bullet slams into your leg just You suffer a Torn Muscle (Major). above the knee, the impact causing a rupture in the large quadriceps tendon. You suddenly find it difficult to straighten the leg properly!",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lost Toe. One of your toes makes the ultimate sacrifice. A You lose one toe \u2013 Amputation (Average). Lead Bullet takes the heroic digit off cleanly, possibly leaving it dangling by a scrap of tissue. A Stone Bullet simply If you\u2019re equipped with the iconic Small But Vicious Dog you squashes it flat. Even if it heals it\u2019ll be flat and useless like a can always give it to the dog\u2026 small fleshy pancake.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Dislocated Kneecap. The projectile hits your kneecap,            You gain Prone and Stunned (1). Also, your leg is useless (see coming in from the side and neatly dislocating it from its       under Amputated Parts) until the kneecap has been popped groove over the knee joint in a most agonizing fashion. Your     back into place. You can try to pop it back in place yourself, poor patella now stands out from the side of your knee like a    which is a Very Hard (-30) Test for either Cool, Endurance big ugly bump under the skin, effectively locking your leg in    or Heal, depending on your method (which can consist of a painful bent position.                                         simply slamming your knee into something solid at a hopeful angle\u2026or a slightly more scientific proposal). Alternately, a friend or ally can attempt a Challenging (+0) Heal Test. After a successful pop, you\u2019ll instead count as having suffered a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Ankle Fracture. The sling bullet hits the side of your foot, You gain Prone and suffer a Broken Bone (Minor). fracturing the malleolus. Although the fracture Is a stable nondisplaced break, you can\u2019t out your weight on that foot!",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cracked Fibula. The projectile impacts the outside of            Gain Stunned (2). Your M will be reduced to 1 and you\u2019ll your lower leg, fracturing the shaft of the long fibula bone.    suffer a penalty of -30 to your Agility until you\u2019ve had the Although not a weight-bearing bone, this injury still makes      leg properly and tightly bound up after the encounter, after walking a painful business.                                      which it\u2019ll count as a Torn Muscle (Major).",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Groin Strike! With unerring accuracy, the sling bullet slams Gain Stunned (4) and Prone as you double up in extreme into your nether regions like it had been guided there!      agony and vomit helplessly. If male, there is a risk you\u2019ll also end up having problems procreating.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Catastrophic Knee Damage. The projectile strikes your knee       Gain Stunned (3) and Prone. For healing purposes it counts with devastating force. A Stone Bullet simply shatters the       as a Broken Bone (Major), except even when healed you heads of both the femur and tibia into multiple fragments.       suffer a permanent halved M (round up) and -20 to your A Lead Bullet rips through the kneecap and wrecks the            Agility for any Tests requiring use of the leg. cruciform ligaments and other inner structures of the knee joint. Regardless, your knee is pretty much history as a meaningful and valued member of this team.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Toasted Tibia. Your tibia is toast. A hard-flung projectile You gain Stunned (3) and Prone, also suffering a Broken makes a direct hit to the front of your shin, fracturing the Bone (Major) and contracting a Festering Wound due to the bone to pieces, some fragments penetrating through the skin. open fracture. The leg is still reasonably straight thanks to an intact fibula (the other long bone in your lower leg) but the tibia was the weight-bearing part of the duo.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruined Foot. The sling bullet shatters your midfoot, making You gain Stunned (2) and Prone. You also permanently lose a mess of the complicated puzzle of tarsal bones in that part function in the foot \u2013 Amputation (Challenging). of the foot. Tendons and nerves are also ravaged. If the sling bullet was a Lead Bullet it actually penetrates all the way through to your sole! Regardless, your foot is a ruin.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Time Bomb! What appeared to be a deep bone bruise is                You gain Stunned (1) and suffer a Torn Muscle (Minor). actually a lot worse! The femur of your thigh is cracked            However, any time you do a Melee Attack, Athletics Test lengthwise. When weight is put on it, it\u2019ll shatter as a diagonal   (including Running) or Dodge, there is a 25% chance the leg fracture, with the sharp ends doing horrific damage as the          will break. The downward-pointing fragment will poke out of leg suddenly and unexpectedly compresses and shortens               your leg near the knee in a spray of blood, while the upward- underneath you!                                                     pointing fragment will rip up into the pelvic area, severing the femoral nerve. You\u2019ll gain Bleeding (2) and the leg will be permanently paralyzed \u2013 Amputation (Hard).",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Between A Rock And A Hard Place. The sling bullet breaks You gain Stunned (3), Prone and Bleeding (2). You also your tibia in half. As your whole weight comes down on your permanently lose function in the foot \u2013 Amputation (Hard), shattered lower leg, the fibula snaps as well, leaving nothing and the leg will have to come off below the knee, requiring but broken bones and jagged shards that tear through the Surgery within one week or you\u2019ll contract Blood Rot as soft tissues of your leg when you collapse. The arteries and gangrene sinks its teeth into the lifeless extremity. nerves supplying your foot are severed, leaving the broken- off end of your lower leg cold, numb and lifeless.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "What follows is a series of unlikely events unfolding\u2026              (I do apologize for this mess, but figuring out how being hit by a stone on the leg can kill you required quite a bit of effort!) If the projectile was a Lead Bullet at least it makes some sense that deep penetration was a contributing factor, Whether by bleeding out or courtesy of a fatty embolus, you with the fast-moving and spinning almond-shaped heavy are very much expired. bullet smashing into your groin where the thigh meets the abdomen and punching through skin and soft tissue to tear your femoral artery in half.",
+      "effects": []
+    }
+  ]
+}

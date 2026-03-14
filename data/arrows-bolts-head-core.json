@@ -1,0 +1,192 @@
+{
+  "damageType": "arrows-bolts",
+  "location": "head",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Grazed Cheek. The point grazes your cheek, leaving a line of        Once healed, the scar provides a bonus of +1 SL in appropriate red that will result in a thin, straight and quite heroic looking   social Tests. You can only gain this benefit once. scar. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Ear Slap. The shaft smacks your ear as it thrums past close         You gain Deafened (2). No Extraction is necessary. enough to remove skin.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Neck Wound. The arrow digs a shallow groove in the side             You must pass an Average (+20) Cool or Endurance Test to of your neck. You are absolutely horrified, for a moment            avoid dropping whatever you are carrying in your primary believing you just took your death wound! What was your             hand and clap it to your wound. (You can still let go and take Dooming again?                                                      an Action normally on your Turn.) No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Splinter Damage. The arrow deflects off a piece of armor or         You suffer a -20 penalty to your next rolled Test. No other equipment at the base of your neck, the shaft shattering and peppering the underside of your chin and face with              Extraction is necessary. splinters.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Scraped Eye. The fletching (or vanes if a crossbow bolt) of         Gain Blinded (2). the projectile lacerate your cornea as the arrow flashes past fast enough that you blinking reflex fails to close the eye. The    No Extraction is necessary. pain is quite excruciating!",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Slashed Face. The arrow point slashes your face to the bone.        Gain Bleeding (1). Also, roll 1d10-5 with any positive number Whether cheekbone, jaw bone or chin, the ensuing scar will          being the penalty to your Fellowship whenever your new be a real doozy!                                                    scar is obvious.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Muscle. The arrow pierces one of the large muscles,         Gain Bleeding (1). Also, until Extraction of the arrow, its like the trapezoid at the back or sternocleidomastoid at the        presence protruding from both front and back of your cervical side of your neck. Half the arrow\u2019s length is sticking out the      area will inconvenience you enough for a -10 penalty to all other side. The increasing volume of your cursing at least          Tests. indicates neither windpipe nor carotid was harmed during the shooting of this projectile.                                Extraction will be Challenging (+0). Should you attempt it while still engaged in combat each attempt will require one Action and both hands.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "A Bleeder! The arrow slams into your forehead at an angle, Gain Stunned (1) and Bleeding (1). You also gain Blinded (2) scouring your skull before glancing off. Like all head wounds, which cannot be removed until the Bleeding Condition has this one is a bleeder and your eyes fill with the blood pouring been removed. No Extraction is necessary. down your face!",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Gurgle! The arrow buries itself to the fletching in your neck, Gain Stunned (2) and Bleeding (1). Also, you now effectively coming out the other side. You gurgle and spit blood, but have a Broken Bone (Minor), able to neither speak nor eat although it looks exceedingly dramatic neither major blood properly, except that the injury will be healed immediately vessels nor spine were in the arrow\u2019s path.                     once Extraction has been performed. You\u2019ll still have to roll an Endurance Test to avoid long-term effects.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Jammed Jaw. The arrow scrapes across the zygomatic arc              Gain Stunned (2). You suffer a Broken Bone (Minor), except to jam itself into the hinge that is the temporomandibular joint    the bone can\u2019t begin to mend until the arrow is Extracted. connecting your lower jaw to your skull. You find yourself          Until Extraction happens you\u2019ll also constantly have Fatigued unable to close your mouth or even open it further.                 (1) due to the agonizing pain of having an arrowhead keeping your mouth jammed open.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lodged Deep! The arrow hits you in the back of the neck.            Gain Stunned (1) and pass a Challenging (+0) Endurance Test Although your spinal cord is intact, the arrowhead is lodged        or go Prone. Also, after the end of the encounter you will gain deep in the bone, either in a cervical vertebrae or the thick       Fatigued (1) any time you do anything physically strenuous base of the skull. Arrowheads stuck in bone are notoriously         (like fighting or an Athletics Test). This will keep happening difficult to extract, so you may be looking at a life of pain and   until the arrow is Extracted. discomfort. Surgery (Hard) will be required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Open Wide! The arrow goes in through your mouth, cracking Gain Stunned (2) and Bleeding (2). Lose 1d10 teeth \u2013 teeth and lacerating your tongue, before poking out behind Amputation (Challenging). If you fail the Endurance Test for the angle of your jaw. You spray a mist of blood around the the Amputation you\u2019ll also lose the tongue. shaft sticking out through your mouth as you shout with pain. Just beneath and behind your ear the arrowhead protrudes Extraction will be Challenging (+0). rudely, dripping with more of your precious blood.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Face Hit! The arrow crunches into your face, punching              Gain Stunned (3). Also, you contract a Festering Wound, through the thin walls of the maxillary sinus to lodge its point   where you will suffer a -20 penalty to all Endurance Tests somewhere by the base of your skull. The arrow head then           required by the Infection until Extraction has been performed. has the temerity to detach itself from the shaft, leaving itself embedded deep inside your poor head. Extraction will be         Surgery (Difficult) will be required for Extraction. tricky\u2026                                                         (Check YouTube for \u201cHenry V arrow removal\u201d to see a couple of videos on how that might be accomplished.)",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Nicked Carotid Artery. Blood starts spraying everywhere Gain Bleeding (3). No Extraction is necessary. as one of the major arteries in your neck is clipped by the arrow\u2019s passing. You quickly start feeling faint as your life gushes away\u2026",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lost Eye. The arrow slams into the bony orbit of the eye. It Gain Stunned (3). Also, lose the eye \u2013 Amputation (Difficult). doesn\u2019t quite penetrate into your brain but the eye itself is a total loss!                                                     Extraction will be Easy (+40) as you cannot possibly do any more damage to the already ruined eye as you yank the shaft What do you think will look best? A glass eye or an eye patch? out.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Penetrated Skull. The arrowhead crunches into your skull, Gain Stunned (3). Each turn there is 10% chance you\u2019ll cracking the bone and causing a subdural hematoma. go Unconscious. Once that has happened you\u2019ll stay Although the arrow didn\u2019t penetrate into your brain, the point Unconscious until Extraction has been performed. and the depressed fragments of skull will press down on it and exacerbate the bleeding until removed.                      Surgery (Challenging) will be required for Extraction, which will also involve so called trepanation to remove the pieces of skull and drain the bleeding.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Ruined Face. The arrow comes in from the side, going in at the Gain Stunned (3). Also, lose one eye, the nose and 1d10 teeth edge of your eye socket, damaging the eyeball, then punches \u2013 Amputation (Hard). through facial bones and sinuses, completely wrecking most of your upper jaw including the nasal cavity. It finally knocks Extraction will be Challenging (+0). If not performed within out a couple of teeth before poking out through the opposite one week you\u2019ll also contract a Festering Wound. cheek. This wound will leave your facial features between the level of your eyes and your mouth somewhat\u2026irregular.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Choking! The arrow goes in either through your larynx or You gain Stunned (1), Fatigued (2) and Bleeding (2), the latter your mouth, tearing through at least one large blood vessel. of which requires Surgery to remove. Also, regardless of You start choking on your own blood, coughing up great entry point you\u2019ll suffer a permanent penalty of -10 to any quantities of it, plenty of it spattering anyone unfortunate Fellowship Tests requiring smooth talking, due to damage to enough to stand too close.                                      either tongue or vocal cords.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. The arrow penetrates your skull deeply, Gain Unconscious. Once recovered from that Condition you slicing up brain tissue and blood vessels as it goes in. The instead gain Fatigued (1) that will remain for a full week as ensuing subarachnoid bleeding causes further damage. You you experience a powerful headache. black out from the pain! Roll 1d10 for long-term effects: Extracting of the arrow will require great care and a steady Frontal Lobe Damage: Roll once on the Mental Corruption hand in order not to worsen the damage. Pray for no Fumbles! 1-5 Table. This does not lose you any Corruption Points nor Simply leaving the arrow in place will involve sawing the does it count towards your Corruption Limit. shaft off as near your skull as possible, leaving a curious-",
+      "effects": []
+    },
+    {
+      "min": 6,
+      "max": 7,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You become very forgetful and looking stump protruding. your Int is reduced by -10.",
+      "effects": []
+    },
+    {
+      "min": 8,
+      "max": 9,
+      "severity": "Lobe",
+      "wounds": "Lobe",
+      "description": "Damage: You suffer what is called expressive aphasia, effectively losing spoken speech (see under Amputated Parts - Tongue).",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "severity": "Eye:",
+      "wounds": "Eye:",
+      "description": "You lose one eye (see under Amputated Parts) and will have to roll again, rerolling any additional",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "William Tell Injury. The arrow impales your skull, spitting it You are now a surprised-looking corpse. like an apple. Why bother with Extraction?",
+      "effects": []
+    }
+  ]
+}

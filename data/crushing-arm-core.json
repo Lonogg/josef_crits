@@ -1,0 +1,168 @@
+{
+  "damageType": "crushing",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Numbed Fingers. A whack across the fingers causes you to You may not use that hand for anything on your next turn but yelp loudly but you manage to hang on to anything held in you don\u2019t drop anything held in it. that hand.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Jarred Arm. A painful thump causes you to lose your grip and You drop anything held in that hand. anything you held in that hand goes flying.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Funny-Bone Injury. Your ulnar nerve at the elbow is smacked You drop anything held in that hand, and the arm is useless for hard, causing your hand to spasm.                           the next 1d10/2 turns (as in Amputated Parts but temporary).",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Muscle. Your biceps, deltoid or some other major Until you pass a Challenging (+0) Endurance Test to shake off arm muscle takes a heavy blow, giving you a real beauty of the pain, any Tests you do with that arm gains a -10 penalty. a bruise.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Mashed Fingers. Your knuckles are skinned and the tendons You suffer a Torn Muscle (Minor) which will heal in half the to your fingers badly bruised.                            usual time.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bone Bruise. Major muscles are crushed against You suffer a Torn Muscle (Minor). the underlying bone, causing a hairline fracture and subperiosteal bleeding.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Fingers. A couple of your fingers end up bent at odd You suffer a Broken Bone (Minor) which will heal in half the angles and a metacarpal or two is fractured, rendering your usual time. hand swollen and useless.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Wrist. Your opponent snaps your wrist, leaving it You suffer a Broken Bone (Minor). dangling at a decidedly dysfunctional angle. Don\u2019t worry; it looks worse than it is!",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Dislocated Thumb. Your foe hits your thumb at an unfortunate You gain Stunned (1) from the severe pain. It counts as a angle, causing it to be dislocated. Not only very painful but Broken Bone (Minor) except that the absence of Medical also tricky to pop back in place!                             Attention within one week of receiving the injury will cause you to automatically fail the Endurance Test for long-term effects.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Upper Arm. A clean break of your humerus (upper You suffer a Broken Bone (Minor). Also, until you\u2019ve spent arm bone) is accompanied by a sickening crack. The arm an Action (using your other arm) sticking the broken limb drops limply at your side. Your opponent is no doubt grinning. into an improvised mitella or otherwise accomplished some sort of makeshift immobilization (like tucking it into your belt), the dangling extremity will unbalance and discomfort you enough for a -10 penalty to all Agility Tests.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Dislocated Shoulder. The human shoulder joint is held in Your arm is useless (see under Amputated Parts) and the place with little but muscles and tendons\u2026except yours just pain so severe you suffer a -10 penalty to all Tests. You can took a hard enough blow to pop it out of its socket! A very try to pop it back in place yourself, which is a Hard (-20) ineffective design, sadly.                                  Test for either Cool, Endurance or Heal, depending on your method (which can consist of simply slamming yourself into something solid at a hopeful angle\u2026or something slightly more scientific). Alternately, a friend or ally can attempt a Challenging (+0) Heal Test. This puts your arm back in action again without penalties. Otherwise the shoulder will pop back in place spontaneously during your next rest, but will be sore enough for a -10 penalty to any Tests performed with that arm for the next 24 hours.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Forearm Fracture. Either your radius or your ulna (the two You suffer a Broken Bone (Major). long bones in your forearm) snaps in half. The arm stays straight but there are enough muscle attachments, tendons and nerves in the area to risk lasting damage.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Dislocated Elbow. Your foe\u2019s strike is so powerful your elbow Your arm is useless (see under Amputated Parts) and the is completely dislocated. This is incredibly painful!         pain so severe you suffer a -10 penalty to all Tests for the rest of the encounter. The arm will remain useless until given Medical Attention after the encounter, which requires a Challenging (+0) Heal Test, which can be repeated once per day. If successful it\u2019ll count as a Torn Muscle (Minor) rather than a lost limb.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Complicated Fracture. Your opponent shatters your upper You suffer a Broken Bone (Major). Also, until you\u2019ve spent arm, fracturing it into several pieces.                 an Action (using your other arm) sticking the broken limb into an improvised mitella or otherwise accomplished some sort of makeshift immobilization (like tucking it into your belt), the dangling extremity will unbalance and discomfort you enough for a -20 penalty to all Agility Tests.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Broken Elbow. The elbow really is a most marvelous and            You suffer a Broken Bone (Major) and gain Stunned (2). complex construction, but now sadly treated in a most             Surgery will be required within one week of receiving the destructible manner by your disrespectful foe. The elegant        injury or the Endurance Test for long-term effects will count joining of radius, ulna and humerus is turned into a splintered   as automatically failed. mess.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Severed Artery. Not only does your opponent break your You gain Bleeding (3) and suffer a Broken Bone (Major). arm; the splintered bone ends also tear open an artery!",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Broken Forearm. Both bones in the forearm snap somewhere You gain Stunned (2) and Bleeding (2). Your arm is useless between wrist and elbow. Shards poke out through the skin (see under Amputated Parts). If you receive Surgery it\u2019ll and delicate nerves and tendons are torn.                 count as a Broken Bone (Major) with automatic long-term penalties; otherwise the arm will remain useless. The open fracture will also cause a Festering Wound.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Crushed Hand. Your enemy\u2019s weapon comes down with Gain Stunned (2) and Bleeding (1). You lose the hand \u2013 terrible force, crushing your hand, splaying it out like an Amputation (Challenging). obscene flattened thing, every bone in it pulverized.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Ruined Shoulder. Your foe\u2019s strike descends on your shoulder, Gain Bleeding (2) which will require Surgery to remove. You dislocating and breaking every bone in the joint and nearly lose the function of the arm permanently \u2013 Amputation (Very tearing your whole arm off! Your subclavian artery is also Hard). torn, causing serious internal bleeding!",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Smashed! Your foe\u2019s weapon comes crashing in from the You expire in a suitably squashed manner. side, smashing your shoulder to pieces and continuing into your chest, driving splinters of bone into your lungs and heart.",
+      "effects": []
+    }
+  ]
+}

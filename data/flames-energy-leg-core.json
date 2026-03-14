@@ -1,0 +1,168 @@
+{
+  "damageType": "flames-energy",
+  "location": "leg",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Jump! You are forced to make an undignified leap to avoid You take your next Action last in the turn. the river of flame passing along the ground underneath you.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Outch-Outch-Outch! Your footwear briefly catches on fire.    Your M is halved on your next turn as you do a little dance to (Body hair, fur, leg bangles or pretty much anything will do put the fire out. for the unshod.)",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Foot Blister. The heat causes a huge fluid-filled blister to You suffer a penalty of -10 to any Agility Tests you take until form under the sole of your foot.                            the blister pops in 1d10 turns.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Licked By Flame! Flames lick your leg, crinkling hairs and You suffer a penalty of -10 to all Tests taken until the end of charring clothing.                                         your next turn.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Heat Blast. A blast of heat causes your thigh to cramp and You suffer a penalty of -1 to your M and -10 to Agility for the twitch, the flesh reddening and the skin peeling.          rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Baked Shoe. Your footwear takes a grilling, causing it to fail Gain Prone. If you\u2019re not wearing any footwear you also gain just as you put your foot down. The foot goes one way, the the effects of the \u201cFoot Blister\u201d result. sole of the footwear another!",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "A Proper Peeler! Dead skin and flesh peel from your lower You suffer a penalty of -2 to your M and -20 to any Agility leg, leaving exposed red tissue that seeps and sticks to Tests for one week, until some skin has started growing back. everything, forming crusts that constantly crack and bleed.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Yikes! A blast of flame passes between your legs, your inner Gain Stunned (1). thighs reddening and blistering.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burnt Leg. The outside of your thigh roasts from a glancing You suffer a Torn Muscle (Minor). hit by a ball of fire.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lost Toe. You only barely snatch your foot out of the way as You lose one toe \u2013 Amputation (Easy). a blast craters the ground/sets the floor on fire/ blackens the paving stones\u2026or maybe not entirely out of the way?",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Bathed In Fire. Flames wash over your legs, then start licking Gain Ablaze (1), or gain one additional level if you are already up over your torso as well, as they take hold on your clothes. Ablaze.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Burnt Foot. The upper side of your foot is torched, skin and You gain Stunned (2) and suffer a Torn Muscle (Minor). You tendons crinkling under the jet of flame.                    also contract a Minor Infection due to the deep burn and loss of skin.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Ankle. You try to leap aside as a ball of fire causes Gain Stunned (1) and Prone. You also suffer a Broken Bone a glancing hit, the near miss throwing you to the side. Your (Minor). ankle snaps as you land badly!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Fire Below! Flames engulf your whole leg, setting fire Gain Ablaze (1), or gain one additional level if you are already to clothing and footwear. Skin and muscle start charring, Ablaze. You also suffer a Torn Muscle (Major). shreds of blackened tissue and clothing sailing off on the wind.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Exploded Foot. Your foot is punched out from under you, Gain Prone. You lose 1d10/2 toes \u2013 Amputation (Average). causing an undignified crash as you tumble to the ground. When you look down at the foot it seems to be distinctly smaller than before\u2026",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Debridement Case! The back of your leg suffers severe           Gain Stunned (2) and Prone. Your leg is useless (see under burns, the large hamstrings muscles and the tendons at the      Amputated Parts) for the rest of the encounter. Afterwards back of the knee crisping and curling as they are eaten away    it\u2019ll count as having suffered a Torn Muscle (Major). However, by the ferocious flames.                                        unless you receive Surgery within one week to painfully debride (cut away dead tissue) and straighten contracted muscles and tendons, only partial healing will be possible.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Grilled Calf. Flames eat away a large part of your calf, You gain Stunned (2). You also suffer a Torn Muscle (Major), leaving your lower leg both blackened and markedly thinner except only partial healing is possible due to extensive than before.                                               tissue loss.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Burnt-Off Leg. Your knee gets in the way of deadly elemental Gain Stunned (3) and Prone. You lose the leg \u2013 Amputation energies and pays the price. For a moment your lower leg (Hard). The charred and skinless stump also causes you to remains attached to the upper, and then they part ways in contract a Festering Wound. a puff of ash!",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Compartment Syndrome. Your thigh takes a proper                   Gain Stunned (3) and Prone. The leg is useless (see under toasting, leaving it looking over-cooked and swollen.             Amputated Parts). If you don\u2019t receive Surgery within 48 Interstitial pressure starts building up inside a major fascial   hours to open up the compartment and relieve pressure compartment due to swelling and intramuscular edema.              you\u2019ll lose the leg permanently and contract Blood Rot as Insufficient blood supply leads to oxygen deprivation and         gangrene sets in. If you receive successful Surgery the necrosis!                                                         injury will count as a Torn Muscle (Major), although only partial healing will be possible.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Kablooie! Your leg is completely blown off at the hip by a You are broiled, shredded, unsightly and very much dead. blast of flame, the fire eating the flesh away from a large part of your pelvis. Boiling blood ruptures the roasted major arteries in your abdomen, causing an explosion of steaming blood as you drop to the ground, both broiled and shredded!",
+      "effects": []
+    }
+  ]
+}

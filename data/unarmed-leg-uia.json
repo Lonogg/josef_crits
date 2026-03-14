@@ -1,0 +1,168 @@
+{
+  "damageType": "unarmed",
+  "location": "leg",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Near Miss. You barely avoid a swipe at your leg, jumping You take your next Action last in the turn. backwards just in time.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Foot Swipe. Your foe attempts to kick your feet out from Your M is halved on your next turn as you steady yourself. under you.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Hip. You take a vicious blow to your hip.                You suffer a penalty of -20 to your next rolled Test.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Kicked In The Shin! You get kicked in the shin, which is both You suffer a penalty of -1 to your M and -10 to your Agility embarrassing and painful.                                     for 1d10 turns.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Toe Stomp! Your enemy stomps on your foot, catching your 1d10/2 of your toes become useless for the rest of the toes with such wicked force that you wail piteously in pain! encounter (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Jump Kick! Your opponent leaps into the air and kicks Pass an Average (+20) Endurance Test or go Prone. downwards, catching you on the thigh.                 Regardless, you suffer a penalty of -1 to your M and -10 to your Agility for the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Spin Kick! A ferocious kick to your hip spins you around and You gain Prone. knocks you to the ground.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bruised Thigh. Your quadriceps muscles are mashed against Your M is halved (round up) and you suffer a penalty of -2o to your thigh bone, and badly bruised.                       your Agility for the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "2",
+      "wounds": "2",
+      "description": "A Pain In The Patookas! There\u2019s no nice way of saying this\u2026 You gain Prone and anything held in your hands goes flying but you just got kicked in the butt. And kicked hard!       out of your grip. If the ground is suitably dirty, muddy or gravelly, you get a faceful of that as well!",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Sprained Ankle. You manage to hold your charging foe You suffer a Torn Muscle (Minor). back but your foot still twists under you as you push back, spraining your ankle.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Groin Kick. Your enemy proves that your good looks are no Gain Stunned (3). protection against a good ol\u2019 low blow!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Foot. A metatarsal bone, one of the long bones of the Gain Stunned (1). Your M is reduced to 1 and you suffer a midfoot, snaps as you suffer a heavy hit.                    penalty of -30 to your Agility until the bone has healed in 30 minus your Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Swollen Knee. Your knee swells up after a vicious blow, Your leg is useless (see under Amputated Parts) for the rest doubling in size as blood and fluid collect in the joint. of the encounter, afterwards counting as a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Broken Ankle. Your ankle snaps with a sharp crack.               You gain Prone and suffer a Broken Bone (Minor).",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Dislocated Kneecap. A heavy heel to the side of your knee        You gain Prone and Stunned (1). Also, your leg is useless (see punches the kneecap sideway. With your patella dislocated        under Amputated Parts) until the kneecap has been popped and standing out like an ugly bump from the side of your knee,   back into place. You can try to pop it back in place yourself, your leg is effectively locked in a painful bent position!       which is a Very Hard (-30) Test for either Cool, Endurance or Heal, depending on your method (which can consist of simply slamming your knee into something solid at a hopeful angle\u2026or a slightly more scientific proposal). Alternately, a friend or ally can attempt a Challenging (+0) Heal Test. After a successful pop, you\u2019ll instead count as having suffered a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 105,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Smashed Foot. Your foe stomps down hard on your foot, You gain Prone and Stunned (2). Also, you suffer a Broken grinding his heel in while bones shatter and break under it! Bone (Major).",
+      "effects": []
+    },
+    {
+      "min": 106,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Knee. Your very unsportsmanlike enemy slams a Gain Prone and Stunned (3). You suffer a Broken Bone powerful blow into the side of your knee, bending the knee (Major) and will automatically fail all Tests for long-term inwards in a most painful and unnatural manner, popping penalties. something inside the joint. Ligaments inside the knee have snapped, making the joint unstable and wobbly!",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Shin Stomp! Your foe slams you to the ground and then            Gain Prone, Bleeding (1) and Stunned (3). If you receive stomps on your shin, breaking both tibia and fibula. Those       Surgery within a week the injury will count as a Broken Bone two long bones shatter into sharp shards that tear out           (Major) except you\u2019ll fail all Tests for long-term penalties. through the skin like bony daggers!                              Otherwise you\u2019ll lose use of the leg permanently (see under Amputated Parts). Regardless, you contract a Festering Wound from the open fracture.",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Dislocated Hip. Whether from a powerful blow or some           Gain Prone and Stunned (4). The leg is useless (see under gruesome wrestler\u2019s move to force you into an involuntary      Amputated Parts). and hurtful split, your opponent dislocates your hip. This breaks off a fragment of the acetabulum, the part of the       If you receive Surgery within a week and spend a month pelvic bone forming the \u201ccup\u201d socket holding the head of the   bedridden and in traction (the leg detained in a crane-like thighbone in place, leaving you screaming in agony on the      scaffolding and held stretched out by pulleys and weights) ground.                                                        your leg will heal with the long-term penalties associated with failing all Tests after suffering a Broken Bone (Major). Otherwise the strain on blood vessels and nerves will result in avascular necrosis (bone death) in the joint and enduring nerve damage, making the leg permanently useless.",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 126,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Backflip! Your foe sweeps your legs out from under you with You are the latest and saddest example of the consequences such force that you make an impressive backflip. Sadly you of engaging in amateur acrobatics without proper smack the back of your head when you land, cracking your supervision. Yup, you just died! skull.",
+      "effects": []
+    }
+  ]
+}

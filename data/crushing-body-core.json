@@ -1,0 +1,168 @@
+{
+  "damageType": "crushing",
+  "location": "body",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Ooomph! You are winded but undeterred!                        You take your next Action last in the turn.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Rib Contusion. You get smacked over the ribs, providing you You gain Fatigued (1) which can be removed once you pass with a nice bruise.                                         an Average (+20) Endurance Test, rolling at the end of each of your subsequent turns.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Solar Plexus Hit. Your foe hits you with a solid blow to the You gain Stunned (1) but don\u2019t get any Fatigued Condition solar plexus, temporarily paralyzing your diaphragm. You once you\u2019ve recovered. gasp for air!",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Broken Rib. Your opponent cracks one of your ribs, making You gain Fatigued (1) for the rest of the encounter. deep breaths a painful experience for you.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hip Contusion. Your foe\u2019s weapon slams into the bony crest Pass a Challenging (+0) Endurance Test or go Prone. high on your hip.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cracked Pelvis. Your opponent\u2019s weapon crashes into your You suffer a Broken Bone (Minor) except the only effect is side near the hip, causing a hairline fracture in your pelvis. halving your M and you automatically pass the Endurance Test against long-term effects.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Contused Kidney. A painful blow into your side causes your Gain Stunned (2). pee to take on a reddish tinge for the next few days.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Groin Hit. A low blow\u2026enough said!                            Gain Stunned (3). You may find your chances of procreation reduced in the future. The GM has final say.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Collarbone. A hit on your shoulder cracks a collar Roll randomly for side, left or right. The arm on that side bone. Although not crippling for your arm function, the broken counts as having a Torn Muscle (Minor). ends grinding against each other are quite uncomfortable.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Multiple Rib Fractures. Snaps and pops announce the fact You suffer a Broken Bone (Major). that several of your ribs just broke! Breathing and moving just turned into a real pain.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cracked Shoulder Blade. As you try to twist away from your Roll randomly for side, left or right. The arm on that side foe\u2019s weapon, you still take a mighty whack across the back counts as having a Broken Bone (Minor). of your shoulder.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cracked Sternum. Your enemy\u2019s weapon slams into your Gain Stunned (2) and Prone. You also suffer a Broken Bone chest with a hideous crunch. Your breastbone, connecting (Major). all your ribs, is partially cracked!",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Fractured Vertebrae. A tremendous blow to your back cracks Gain Prone, except you can\u2019t rise or use your legs for a couple of vertebrae, temporarily paralyzing your legs as anything until you\u2019ve passed a Hard (-20) Endurance Test, your spinal column momentarily flexes and compresses the getting to roll at the end of each of your subsequent turns. spinal canal.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Punctured Lung. Splinters from a shattered rib punctures Gain Fatigued (3). For healing purposes, count as Torn Muscle one lung. Air leaking into the pleural space causes the lung (Major), with partial healing reducing your Conditions from to partly collapse, robbing you of much needed oxygen.       Fatigued (3) to Fatigued (1) which will be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Internal Bleeding. Blunt trauma or a splintered rib ruptures Gain Bleeding (1) which can only be removed through either the spleen or liver, causing serious internal bleeding. Surgery. Because the spleen is an important part of your immune system there is a 50% chance you\u2019ll lose the Resistance (Disease) Talent, if you have it.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Burst Intestine. A heavy blow to your gut ruptures a length Gain Stunned (2) and Prone. Also, you contract Blood Rot. of intestine, spilling fecal content into your abdominal cavity.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Spinal Injury. Your spine is snapped, cutting the spinal cord. Both your legs are now useless \u2013 Amputation (Hard). This results in you becoming a paraplegic with useless legs Needless to say, you are now also Prone. and poor bladder and bowel control. Tragic!",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Pierced Pericardium. Bone splinters from your chest Gain Fatigued (3) which will last until you\u2019ve had Surgery, wall penetrate to your heart, piercing the pericardial sac which will require a lengthy procedure and cause a surrounding this most vital organ.                         Festering Wound regardless of success or failure. Until success happens you also have a 10% chance of dying each day as the fragments migrate deeper.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Flail Chest. A combination of multiple rib fractures causes     Gain Unconscious, although you\u2019re strictly speaking awake, one side of your chest to essentially detach from the rest of   helpless and in great distress for the first Toughness Bonus the rib cage. Your diaphragm and other breathing muscles        turns before actually losing consciousness. Unless you find it very hard to work under these conditions, with much     receive Surgery within a day you\u2019ll expire. Successful grinding together of broken bone ends and ineffectual lung      Surgery will still not prevent you from contracting Blood inflation being the result.                                     Rot due to being unable to cough properly to ventilate your lungs and prevent pneumonia. Should you survive you\u2019ll be bedridden and helpless for 40+1d10 days while your chest pieces reconnect, and will afterwards gain Fatigued (1) permanently.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Squashed Like A Bug! The incredibly powerful swing You\u2019re very dead\u2026also a bit of a mess. If you were wearing punches your chest flat against your spine before breaking a breastplate, that is flat too! that too! All vital organs caught in between are pulped! Exaggerated!",
+      "effects": []
+    }
+  ]
+}

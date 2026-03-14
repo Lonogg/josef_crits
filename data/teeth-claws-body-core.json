@@ -1,0 +1,168 @@
+{
+  "damageType": "teeth-claws",
+  "location": "body",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Things That Go Bump! Your foe attempts to sink some teeth Pass an Average (+20) Agility Test or suffer a -10 penalty to and/or claws into your body, but only manages to connect your next rolled Test as you stumble back. with the back of a paw or the blunt end of its muzzle.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Fashion Vandal! Your foe manages to catch hold of your shirt/ Apart from the expenses incurred for repair, you also suffer jacket/coat/whatever and rips the front to shreds. Somebody a penalty of -10 to any Tests rolled until the beginning of your get this beast a scratching post!                             next turn.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Snatch And Grab! Your enemy latches on to a belt, scabbard, You go Prone. If, for some unfathomable reason, you went coat tail or other piece of gear or clothing, and tries to pull into battle naked, you instead gain Bleeding (1). you off your feet.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pecs For The Peckish! Your famished foe takes a bite out         Roll randomly for side, left or right. Any blows struck with the of your chest muscles, leaving you with a few less muscle        arm on that side suffer a penalty of -1 to your Strength Bonus, strands to work your shoulder with on that side. Your pecs       until healed. For healing purposes, count it as a Torn Muscle are indeed quite important for those heroic swings and           (Minor) with no other effect but the Strength Bonus penalty. mighty blows, as you quickly discover to your chagrin.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Thin Slices, Please! In mindless fury, your foe tears a strip Gain Bleeding (1). of flesh from your ribs. A yellowish rib winks at you for a moment before the view is obscured by upwelling blood.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Shoulder Cut. Your snarling foe leaps at you. As you try to Roll randomly for side, left or right. Suffer a Torn Muscle turn away, it ravages the back of your shoulder, its teeth/ (Minor) for the arm on that side. claws grating painfully against your shoulder blade.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Raked Hip. Howling, your foe rakes your hip, dealing you         For the rest of the encounter you suffer a penalty of -1 to your several long parallel gashes.                                    M and -10 to your Agility.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Just A Piece Off The Flank! Hurling itself at you, your foe Gain Bleeding (2). comes away with a mouthful\u2019s worth of lean flank meat.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Ooomph! Ferociously, your foe tries to dig into your belly but Gain Stunned (1). only manages to slam its muzzle or paw with great force into your solar plexus.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "One Rack Of Ribs, Please! Ribs bend and crack under your Suffer a Broken Bone (Minor). foe\u2019s animalistic assault.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Bestial Pounce! Roaring as it launches itself through the air, Gain Stunned (2), Bleeding (1) and Prone. your foe tears long strips of flesh from your back, exposing gleaming ribs and slamming you to the ground.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lung Lunch! Your vicious opponent digs its way through a         Gain Fatigued (2) which drops to Fatigued (1) after the end of couple of your upper ribs. The top of your lung is punctured,    the encounter. Because it\u2019s only a rather minor pneumothorax either by bone splinters or your foe\u2019s sharp natural             you\u2019ll get to remove the last Fatigued Condition after one implements. It partly collapses as air and blood leak into the   week as the lung inflates itself back again. pleural space, leaving you gasping for air.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Horrendous Hug! In an attack of mindless fury, your enemy Suffer a Broken Bone (Major). shatters multiple ribs and cracks your breastbone. You feel like you\u2019ve been hugged by a bear\u2026or maybe you just were?",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Respiratory Banquet! You find yourself very short of breath Gain Fatigued (3). For healing purposes, count as Torn Muscle as teeth or claws pierce your chest wall to perforate one lung. (Major), with partial healing reducing your Conditions from As air and blood fill the pleural space, your lung collapses!   Fatigued (3) to Fatigued (1) which will be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Eviscerating Slash. In a classic predatory disemboweling Gain Stunned (2). You must drop anything held in one hand to move, your foe catches you in the side, raking its natural hold your intestines in place until you\u2019ve received Medical killing tools across your belly. Your abdominal wall is pierced Attention. Also, you contract a Festering Wound. and a pink loop of intestine starts peeking out of the wound. Until you\u2019ve had Surgery you are unable to recover 2 of your lost Wounds.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Groin Groceries! Abandoning any sense of fair play, your Gain Bleeding (3) as the many blood vessels in that sensitive sadistic foe goes for your groin! Any witnesses wince at area are mauled and mistreated. Pass a Hard (-20) Endurance such cruelty!                                            Test or also gain Stunned (2).",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Belly Buffet! Shedding any last remnants of animal or human Gain Stunned (3) and Broken. You contract Blood Rot. Also, decency, your foe rams muzzle or paws into your abdomen, until you\u2019ve had Surgery you are unable to recover 3 of your trying to feed on you while you\u2019re still alive. This damages lost Wounds. your gastrointestinal tract, spilling content into your body cavity.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Gore Fest! Its small mind filled with images of gore and Gain Stunned (1) and Bleeding (3, the latter of which can only frenzied feeding, your foe digs into your flank, savaging a be removed using Surgery. kidney, the liver or some other organ rich in blood vessels. A crimson tide drenches the both of you!",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Gutted! Your blood-smeared foe politely belches after            Not really a survivable experience! You will expire within dragging out and ingesting a couple of feet of your small        half your Toughness Bonus days (round up), helpless and intestine. You sink to your knees, cradling the gaping tear in   slipping in and out of consciousness. If you receive magical your belly from which the rest of your mangled innards are       healing equivalent to Surgery* before then, you\u2019ll survive but spilling.                                                        suffer a permanent penalty of -15 to T and S as well as -2 to W plus a significant weight loss due to your now severely shortened digestive tract.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Partition! In a disturbing display of unbridled savagery and You and your two separate halves are utterly lifeless. You complete contempt for civilized behavior, your foe digs in have ceased to be. You are an ex-character! claws and fangs, braces itself, and then with a mighty burst of bestial strength simply tears you in half.",
+      "effects": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "damageType": "flames-energy",
+  "location": "head",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Hot Air. A wave of heat curls some of your facial hairs but you You take a penalty of -10 to your next rolled Test. are otherwise unscathed.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Heat Wave. Your eyebrows crinkle and your face reddens You may not take an Action on your next turns as you flinch from a close call with flaming death!                  from the heat.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "My Hair! Your hair catches fire!                                  You drop anything held in your primary hand to beat the (If you\u2019re bald, a hat or a beard will burn just fine instead.)   flames out. You can take a normal Action on your next turn.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Blistered Cheek. Your cheek blisters from the intense heat.       You take a penalty of -10 to any Tests you make until the end of your next turn.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Beard Blaze! Your facial and/or head hair really catches, You gain Blinded (2) and must spend your next Action going up in a burst of flame.                             (requiring at least one free hand) beating the blaze out.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Who Knew Ear Wax Burned So Well?! All you can hear is the A living proof that any kind of wax will make a good candle, sound of crackling flames!                                you gain Deafened (2) and suffer a penalty of -10 to all Tests until the Deafened Condition has been fully removed.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Temporarily Blinded. Half of your face blisters. One Gain Stunned (1). One eye is completely blinded (see under particularly large blister forms over your eyelid which swells Amputated Parts) until the end of the encounter. and throbs.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burnt Ear. One ear chars and sizzles, leaving only ugly Gain Deafened (2), with one Condition removed at the end of blackened remains of it.                                each day. Also, you suffer a penalty of -5 to your Fellowship whenever your crisped ear is visible.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Fiery Inhalation. You gasp and inadvertently inhale blistering Gain Stunned (2). After removing the Stunned Conditions you air and flame, scorching your mouth and throat.                gain Fatigued (1), as usual, except it\u2019ll last one full week due to swollen airways.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Disfiguring Scars. Your face is forever scarred by horrible You suffer a permanent penalty of 5 + 1d10/2 to your burns. Thankfully, you managed to squeeze your eyes shut, Fellowship. saving your sight.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Toasted Hearing Appendage. You take a blast to the side of You suffer the loss of one ear \u2013 Amputation (Average). Also, your head, burning away one ear and crisping the inner ear for the rest of the encounter you gain Fatigued (2) from the as well.                                                   dizziness as the fluids in the loop-shaped canals in your inner ear temporarily boil.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Corneal Damage. The corneas, the transparent front part of Gain Blinded (3). At the end of each of the next three days you your eyeballs, blister as you barely fail to close your eyes in need to pass an Average (+20) Endurance Test to remove one time.                                                           Condition. Failure makes one Blinded Condition permanent as your corneas scar and cloud. Any magical healing removing the Conditions will make the Test unnecessary.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Hot Lips. The lower part of your face takes terrible damage, This counts as a Broken Bone (Major) as the muscles burning away your lips, damaging your cheek muscles and controlling your lower jaw and tongue try to recover from the scorching your tongue.                                       broiling. Also, you suffer a permanent penalty of -20 to your Fellowship whenever your disfigured lipless mouth is visible.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Heat Shock. A ball of flame burns your scalp to the bone, Pass a Hard (-20) Endurance Test or gain Unconscious from almost boiling your brain inside the skull.               heat shock. If successful, instead gain Fatigued (2). You also suffer a Festering Wound and will never regrow your head hair, suffering a penalty of -10 to your Fellowship whenever the exposed bone of your skull becomes obvious.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Cooked Eye. The blast of flame sears one side of your face, Gain Stunned (3). You also lose the eye \u2013 Amputation (Hard). boiling one eyeball in its orbit.                           Apart from any Fellowship loss due to the lost eye you suffer an additional penalty of -10 to your Fellowship due to extensive scarring on that side of your face.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Spinal Blaze. A white-hot jet of flame bores its way into         You are temporarily paralyzed from the neck down, effectively the back of your neck, stunning your spinal cord. You hear        gaining the Unconscious Condition except you are awake strange noises inside your head as cerebrospinal fluid            and aware the whole time. Roll at the beginning of each bubbles and boils!                                                of your subsequent turns, needing to pass a Difficult (-10) Toughness Test to recover, removing the Condition.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Burned Airways. You inhale to scream out your pain as the Gain Stunned (3) and Fatigued (3). You get to roll once every fire wash over you, sucking the flames deep into your lungs\u2026 week for the next three weeks, a Challenging (+0) Endurance Test, to remove one Fatigued Condition. Failure makes one Fatigued Condition permanent as your lungs and airways scar and turn fibrous and stiff. Regardless, you also contract Blood Rot from pneumonia as bacteria thrive in your pus- filled airways.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Horrible Burns. The flesh of your head and face blackens,       Pass a Hard (-20) Endurance Test or gain Unconscious, cracks and peels as it fries under the relentless energies      otherwise gaining Stunned (4), Blinded (4) and Deafened (3). unleashed by your foe! If you survive this encounter you will   Roll an additional Challenging (+0) Endurance Test for each be unrecognizable as the person you once were, or even as       eye, ear and also your nose. Failure means you lose that part a human being!                                                  (see under Amputated Parts). The total loss of Fellowship for that cannot be less than a penalty of -30 as the scarring is very extensive even if individual features have survived.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. You barely manage to turn away in time to Gain Unconscious. Roll once on the Mental Corruption Table save your face, but the massive impact of thermal energy still when you wake up. This does not lose you any Corruption partly cooks your brain inside your skull.                     Points nor does it count towards your Corruption Limit.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Burnt Match Look-Alike. A blast of fire reduces your head to Your life literally just went up in a cloud of smoke! a greasy cloud of smoke, leaving only the blackened stump of your neck. The rest of your body drops limply to the ground, clothes smoldering.",
+      "effects": []
+    }
+  ]
+}

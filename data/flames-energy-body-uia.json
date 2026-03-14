@@ -1,0 +1,168 @@
+{
+  "damageType": "flames-energy",
+  "location": "body",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Hot Enough For You? Body hair crinkle from the extreme heat, You suffer a penalty of -10 to your next rolled Test. but you are otherwise unharmed.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Close Call. You stumble backwards from a wave of heat and You may not take an Action on your next turn. flame.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Duck And Cover! Flames start licking your clothing but you Gain Prone. Should you choose not to go Prone you instead manage to put them out by the old expedient of rolling on gain Ablaze (1). the ground.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Heat Rash! The flames raise blisters on your torso and set You suffer a penalty of -10 to all Tests taken until the end of your clothing to smoking dangerously.                      your next turn.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Heartburn. A ball of fire impacts your belly, the flames Gain Stunned (1). thankfully diverging to the sides rather than shooting up into your face.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Twisted Back. You attempt to twist away from the ball of flame For the next month you gain Stunned (1) any time you take a approaching and badly wrench your back in the process.         hit to the Body Location.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burning Clothes. Your clothes catch fire!                      Gain Ablaze (1), or gain one additional level if you are already Ablaze.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burning Equipment. Not just your clothes but your gear is Gain Ablaze (1), or gain one additional level if you are already starting to smolder!                                      Ablaze. If you are wearing anything flammable, like booze, gunpowder charges or paper, you lose it and gain an additional level of Ablaze. If not, the GM decides on some other item of gear worn or carried that gets destroyed or damaged.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "I Didn\u2019t Inhale! A tongue of flame lashes you chest, some of Gain Stunned (1). After removing the Stunned Conditions you it flashing up into your face, getting inhaled.              gain Fatigued (1), as usual, except it\u2019ll last 1d10 days as your upper airways swell up.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Pectoral Pain! Your chest muscles blacken and sizzle under Roll randomly for side, left or right. You suffer a Torn Muscle the impact of a jet of fire! Your pectorals happen to be a (Minor) for the Arm Location on that side. vital part of your shoulder musculature, so you\u2019ll find it both painful and difficult to perform those heroic mighty swings needed to vanquish your foes!",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Belly Burn. Your abdominal muscles are badly burned, For the rest of the encounter you\u2019ll have to pass a Challenging leaving you doubled over and unable to straighten up (+0) Endurance Test at the beginning of each of your turns or properly for the pain.                               suffer a penalty of -20 to all physical Actions and Tests as well as halved M for the rest of that turn.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Scorcher! A rapid transfer of thermal energy heats up your If you were wearing metal armor on your Body Location, chest armor to uncomfortable levels!                       such as chainmail or plate, you suffer a penalty of -20 to any Tests taken for the rest of the encounter or until you\u2019ve removed the armor. If you were not wearing metal armor on your Body, count this result as the \u201cExplosive Impact!\u201d result instead.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Explosive Impact! The rapid expansion of superheated air Gain Prone and suffer a Broken Bone (Minor). causes a detonation that sends you flying!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Do You Feel The Burn? The fire catches you low, setting fire Gain Stunned (1). Also gain Ablaze (1), or gain one additional to your clothes, most specifically your pants! You feel the level if you are already Ablaze. heat start to build up in some very uncomfortable areas\u2026     The damage to your dignity is immeasurably greater as your pants now consist only of the lower part of the leggings. Performing various bodily functions, as well as procreating, will be difficult and uncomfortable for a while due to heavy blistering both front and back.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Sizzling Muscles. Fire washes over you. Whether hit to the Gain Stunned (2). Both your arms also gain a Torn Muscle front or in your back, the flames burn chest muscles and/ (Major). or shoulder muscles vital to your arm and shoulder function. You contract a Minor Infection due to heavy loss of skin.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Spinal Burn. You take the impact in your back, against the Gain Prone, as well as Ablaze (1), or one additional level lower spine. The heat temporarily stuns your spinal cord and if you are already Ablaze. Both your legs are useless (see you collapse as you lose all control and feeling in both legs! under Amputated Parts). At the end of each turn you may roll a Hard (-20) Endurance Test to regain use of your legs. Apart from that, any Athletics Test you take to remove Ablaze Conditions will be one level harder while your legs are out of action.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Fried Ribcage. You take a ball of fire straight to the chest. Gain Prone and Stunned (3). You also suffer a Broken Bone Your breastbone cracks and turns brittle from the heat, the (Major), except you automatically fail any rolls for long-term cartilage connecting it to your ribs burning and sizzling. penalties. As the sternum is what basically connects your ribcage together this severely impacts your ability to both breathe and move properly!",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 110,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Broiled Lungs. The fiery impact cooks your lungs straight Gain Stunned (3) and Fatigued (3). You get to roll once through your thoracic wall. You also inhale some of the every week for the next three weeks, a Challenging (+0) flames, causing your airways to start swelling and scarring. Endurance Test, to remove one Fatigued Condition. Failure makes one Fatigued Condition permanent as your lungs and airways scar and turn fibrous and stiff. Regardless, you also contract Blood Rot from pneumonia as bacteria thrive in your pus-filled airways.",
+      "effects": []
+    },
+    {
+      "min": 111,
+      "max": 115,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Flash Cooked Intestines. A white-hot blast blows through      Gain Prone, Broken and Fatigued (3). Your M is reduced to 1 your abdominal wall, flash cooking several yards of your      and you cannot perform any physical Actions at all. Unless intestines. You are hurled backwards with a large smoking     you receive magical healing equivalent to Surgery* within 24 hole in your belly!                                           hours you\u2019ll expire, otherwise suffering a permanent penalty of -15 to T and S as well as -2 to W plus a significant weight loss due to your now severely shortened digestive tract.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Explosive Conflagration! A huge ball of fire impacts your \u201cAshes to ashes\u201d certainly describes your current state chest. For a brief moment flames shoot out of your mouth, rather well, don\u2019t you think? then the resulting explosive conflagration engulfs you totally, leaving little but a scorched skull and some broiled limbs lying amidst a couple of blackened ribs and vertebrae.",
+      "effects": []
+    }
+  ]
+}

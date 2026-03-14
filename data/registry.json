@@ -1,0 +1,124 @@
+{
+  "damageTypes": {
+    "cutting": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "crushing": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "piercing": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "bullets": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "arrows-bolts": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "teeth-claws": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "shrapnel-shot": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "sling": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "flames-energy": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    },
+    "unarmed": {
+      "locations": [
+        "head",
+        "arm",
+        "body",
+        "leg"
+      ],
+      "rulesets": [
+        "core",
+        "uia"
+      ]
+    }
+  }
+}

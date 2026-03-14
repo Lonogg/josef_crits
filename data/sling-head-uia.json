@@ -1,0 +1,168 @@
+{
+  "damageType": "sling",
+  "location": "head",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 3,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Near Miss. The sling bullet whizzes by so close you felt it tug Pass an Easy (+40) Cool Test or suffer a penalty of -10 to your at your cheek.                                                   next rolled Test. You don\u2019t get to roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 4,
+      "max": 6,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Parted Hair. The sling bullet grazed the top of your head, You suffer a penalty of -10 to your next rolled Test. If you were either just parting your hair or making a real racket if you wearing an Open Helm or Helm you gain Deafened (2) instead. were wearing a helmet.                                           Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Split Scalp. The sling bullet splits your scalp. Like most head- Gain Bleeding (1). Also roll for any Pummel Quality. wounds, this one is a bleeder!",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 15,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Black Eye. The sling bullet smacks you right underneath on Gain Blinded (2). Also roll for any Pummel Quality. eye, which will result in a real beauty of a shiner!",
+      "effects": []
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Mangled Ear. The sling bullet scrapes across the side of your Gain Deafened (2) and Stunned (1). Roll 1d10-5 with any skull, taking a good piece of your ear with it.                  positive number being the penalty you suffer to your Fellowship whenever the state of your torn ear is obvious. Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Nose. Pain stabs like lightning through your skull, Gain Blinded (2) and Stunned (1). Also roll for any Pummel making your eyes water, as the sling bullet smashes your Quality. nose flat. Within a day you\u2019ll also develop two magnificent black eyes.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Split Forehead. The sling bullet rings your bell, leaving a Gain Bleeding (1) and Blinded (2), the latter of which cannot shilling-sized thick flap of skin winking open above one eye. be removed until the Bleeding Condition has been removed. Blood starts pouring down your face and into your eyes.          Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Teeth. You take your foe\u2019s projectile straight in the Gain Stunned (2). You lose 1d10/2 teeth \u2013 Amputation (Easy). mouth and start spitting blood and tooth fragments.              Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Jaw. The projectile hits you in the chin, breaking your You suffer a Broken Bone (Minor). If it was a Lead Bullet you lower jaw.                                                       instead suffer a Broken Bone (Major) as the almond-shaped projectile punches in deep, tearing up the floor of your mouth. Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Smashed Ear. The sling bullet smashes into the side of your Pass an Easy (+20) Endurance Test or gain Unconscious, head, right in the ear, spalling fragments from the surrounding otherwise gaining Stunned (2). You lose the ear \u2013 Amputation bone.                                                            (Easy). Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Minor Concussion. The projectile slams into your head near Pass a Challenging (+0) Endurance Test or gain Prone. the temple, causing you to see stars, your peripheral vision Regardless, you gain Fatigued (1) which will last 1d10 days. graying out. You feel dizzy and nauseated!                       Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Blowout Fracture. The sling bullet smashes into the zygomatic      Gain Blinded (2). Pass a Challenging (+0) Endurance Test or arch of your cheekbone. This structure forms a part of the         also go Prone. The eye is useless, prevented from moving floor of the bony orbit of the eye, and the blow pushes parts of   properly in its socket (see under Amputated Parts). Unless you the shattered bone up against the eye.                             receive Surgery within a week the eye will be permanently lost. Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Crushed Larynx. The projectile slams into your Adam\u2019s apple,       You gain Fatigued (1) and will gain another level of Fatigued at distorting the cartilage of your windpipe and closing your         the end of each of your subsequent turns until the cartilage is airways. You start to choke.                                       popped back into place. This requires either a Hard (-20) Heal Test by yourself or a Challenging (+0) Heal Test by someone else. If successful all Fatigued Conditions are removed but you won\u2019t be able to speak for a week. If you reach Fatigued (10) you go Unconscious and die from suffocation in another Toughness Bonus rounds. You don\u2019t get to roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Smashed Mouth. The projectile slams into your mouth,               Pass a Challenging (+0) Endurance Test or gain Unconscious, breaking bone and shattering teeth.                                otherwise gaining Stunned (3). You also suffer a Broken Bone (Major) and lose 1d10 teeth \u2013 Amputation (Average).",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lost Eye. Your eye splatters in its orbit as the projectile Gain Blinded (3) and Stunned (2). Lose the eye \u2013 Amputation crumples the surrounding bone!                              (Hard). Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Fractured Skull. The projectile ricochets off the top of your    Pass a Hard (-20) Endurance Test or go Unconscious. head with a loud crack. Your skull has just been fractured!      Regardless, you also gain Fatigued (2) which will last until the plates of your skull have set again in 30 minus your Toughness Bonus days. Also roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Torn Throat. The bullet smashes into your neck with great        You gain Fatigued (1) and will gain another level of Fatigued force, tearing trachea and vocal cords. You start to choke       at the end of each of your subsequent turns. If you reach dramatically as blood, crumpled cartilage and torn soft tissue   Fatigued (10) you go Unconscious and die from suffocation block your upper airways.                                        in another Toughness Bonus rounds. The accumulation of Fatigued Conditions can be halted by another character If your worthy opponent was using the latest in sling            succeeding with a Hard (-20) Heal Test, sticking his fingers technology, meaning those nasty aerodynamic and heavy            down your throat to clear away the torn tissues and other gunk. lead sling bullets that tend to penetrate deeply, it\u2019s a toss- up as to whether you choke or bleed out first. You see, some If the projectile was a Lead Bullet you\u2019ll also gain Bleeding (2) large blood vessels were also in the way of the lead bullet\u2019s as the almond-shaped bullet penetrates deep enough to tear path through your neck area!                                   veins and arteries as well. You don\u2019t get to roll for any Pummel Quality.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 94,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Depressed Skull Fracture. The projectile crunches into your You go Unconscious and will stay that way until Surgery skull, fracturing it. Shards of bone press down on your poor removes the offending bone-shard and clears away the brain and a large subdural hematoma forms.                   large clot to relieve the pressure on the brain. This process is known as trepanation, and tends to take a full day. It is often attended by a large crowd of onlookers eager to see the latest in scientific medical advances. Should the surgery be successful you\u2019ll still have to pass a Challenging (+0) Endurance Test or contract Blood Rot from resulting meningitis.",
+      "effects": []
+    },
+    {
+      "min": 95,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. The projectile slams your noggin\u2019 so hard          You gain Unconscious. At the end of each subsequent day you you get an intracranial hematoma and not just one of             must roll a Hard (-20) Toughness Test. Success means you those comparatively benign subdural ones, but a genuine          wake up. Failure by -6 SL or more means you expire. subarachnoidal lesion deep inside your unfortunate brain! Pain like a gunshot is almost instantly replaced by blessed      When you wake up you are hemiplegic. Roll randomly for unconsciousness\u2026                                                 side, left or right. The arm and leg on that side are useless (see under Amputated Parts). If you\u2019re lucky enough to find a particularly knowledgeable Surgeon or a priestess or healer of Shallya, she\u2019ll realize the damage may not be totally permanent as you still have one intact hemisphere to pick up the slack \u2013 after one full month of proper rehabilitation and training you\u2019ll be down to a -10 penalty to any Tests using that arm as well as -1 to your M and -10 to Agility. *",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Splattered Brain. The projectile goes in at some point where Without a functioning brain, you sadly expire pretty much your skull is of less thickness and sturdiness than elsewhere, instantly. like the temple or through the rear of the orbit of one eye. It proceeds to smash your brain to a pulp. Regrettably for you, Of course, there is no need to roll for any Pummel Quality. this is not something you just walk off.",
+      "effects": []
+    }
+  ]
+}

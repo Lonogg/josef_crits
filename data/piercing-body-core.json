@@ -1,0 +1,168 @@
+{
+  "damageType": "piercing",
+  "location": "body",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "A Mere Prick! Your grandfather\u2019s pocket watch, a belt buckle, If on your next turn wish to do anything but attack the foe a small book of Sigmarite hymns or some other possibly who inflicted this hit you\u2019ll have to first pass an Easy (+40) valuable object took most of the blow, and you get away with Cool Test. merely the tiniest prick, causing a single drop of blood to well up from the tiny puncture.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "One To The Chest. The Human (or Elf, or Dwarf, or Halfling) You flinch from the sudden pain and suffer a penalty of -10 to chest wall is actually quite thick, easily saving you from a your next rolled Test. rather lackluster thrust.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "One To The Belly. The Human (or Elf, or Dwarf, but particularly You say \u201cOoomph!\u201d and suffer a penalty of -10 to all Tests Halfling!) abdominal wall is actually quite thick, easily saving until the beginning of your next turn. you from a rather mediocre stab on behalf of your erstwhile opponent.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Widened Bellybutton. You look down to see that your foe has You stumble backwards and gain Prone. just significantly widened up your bellybutton. If you were equipped with an \u201coutie\u201d it has now been transformed into an \u201cinnie\u201d.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Nicked Collarbone. A hasty thrust takes a chip out of your Roll randomly for side, left or right. On your next turn you collarbone near the sternum.                               cannot perform any attack with that arm and suffer a -10 penalty to all other Tests.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Rib Rake. Your enemy tries to ram his weapon between your Gain Bleeding (1). ribs but hits one of them square on. The tip rakes along it, tearing flesh and skin.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Hip Strike. Your opponent\u2019s weapon tears a red trench along Gain Stunned (1). the bony crest of your hip, leaving yellowish-white bone visible.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Bladder. Clear yellow urine drips from your Gain Stunned (2). Fortunately for you, urine is mostly sterile so adversary\u2019s weapon as he withdraws it from your body. you only contract a Minor Infection from this violation of your He just punctured your bladder! A faint smell of ammonia bodily integrity. Also, until the wound has closed in a week or spreads around you.                                      so you are prone to leaking, which reduces your Fellowship by -10 whenever you are near anyone with a sense of smell.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "The Gall Of It! Your foe\u2019s weapon drives into the upper right Gain Stunned (2) and Prone as you vomit violently. Also, you quadrant of your abdomen, lacerating the gall bladder and contract a Festering Wound. spilling its contents into your abdominal cavity.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Pierced Lung. The strike takes you just under the collarbone, Gain Fatigued (2) which drops to Fatigued (1) after the end of piercing the top of your lung which partly deflates as blood the encounter. Because it\u2019s only a rather minor pneumothorax and air enters the pleural space between lung and chest wall. you\u2019ll get to remove the last Fatigued Condition after one You start gasping for air.                                    week as the lung inflates itself back again.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Collapsed Lung. Your foe drives his weapon in between your Gain Fatigued (3). For healing purposes, count as Torn Muscle ribs, ripping into one lung which collapses. You find yourself (Major), with partial healing reducing your Conditions from desperately short of breath.                                   Fatigued (3) to Fatigued (1) which will be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Groin Job! Your unspeakably evil enemy rams his weapon Gain Bleeding (2) and Stunned (2). There is much wincing into the many and vulnerable blood vessels where thigh among the witnesses to your misfortune. meets abdomen, the area also known as your groin. Very bloody, very painful!",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Internal Bleeding. The tip of your antagonist\u2019s weapon Gain Bleeding (1) which can only be removed through Surgery. pierces your liver or spleen, depending on whether he saw his Because the spleen is an important part of your immune opening against your right or left upper abdominal quadrant. system there is a 50% chance you\u2019ll lose the Resistance The inflicted internal bleeding could well be your doom!      (Disease) Talent, if you have it.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Punctured Intestine. Your foe takes all the fun out of your Gain Stunned (2) and Prone. Also, you contract Blood Rot. You life by ramming his weapon into your gut, slicing up your can\u2019t recover 2 of your lost Wounds until you\u2019ve had Surgery. intestines and spilling fecal matter into your abdominal cavity.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Sucking Chest Wound. Your opponent plunges his weapon You gain Fatigued (1), gaining another level at the end of each deep into your chest. You suffer what is called a tension of your subsequent turns. When you have reached Fatigued pneumothorax, meaning your lung collapses as air enters the (10) you expire. This accumulation can only be stopped using pleural space between lung and chest wall, each breath you Surgery. If successful Surgery is applied your Fatigued try to take causing further air to enter but not get out as the Condition is immediately reduced to Fatigued (3). For healing edges of the wound act as a valve. As air builds up it starts purposes, count as Torn Muscle (Major) with partial healing obstructing the workings of the other lung and heart.           reducing your Condition from Fatigued (3) to Fatigued (1) which will be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Torn Diaphragm. Your adversary rams his weapon into your               Gain Fatigued (4) and Bleeding (2), the latter of which cannot solar plexus, rupturing the diaphragm muscles that are your            be removed without Surgery. Should you fail to bleed to death, main breathing musculature, also damaging your abdominal               then for healing purposes it\u2019ll count as a Torn Muscle (Major) aorta. It\u2019s even odds as to whether you die from suffocation           with partial healing reducing your Condition from Fatigued (4) or blood loss!                                                         to Fatigued (2), but full healing still leaving you permanently Fatigued (1).",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Punctured Kidney. The blow punches through a couple of Gain Stunned (2) and Bleeding (3), the latter of which cannot floating ribs in your side to lacerate a kidney. This results in be removed without Surgery. massive blood loss as the kidney\u2019s job is to filtrate your entire blood volume over and over again. You\u2019re in trouble!",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Broken Heart. A straight thrust to the middle of your chest            Gain Stunned (3). Every turn for the rest of the encounter there takes off a fragment of your breastbone. What you\u2019re about to          is a 10% chance the beating of your heart will migrate the discover, to your great detriment, is that the fragment pierced        fragment to where it\u2019ll lacerate your heart muscle, causing the pericardial sac surrounding your heart.                            instant death. Should you survive the encounter you\u2019ll only have to roll once every day. Removing the fragment will require Surgery, which will count as resolving an internal issue, complete with associated risks, as per described under the Surgery Talent.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "The Old Thrust And Twist! Your opponent slams his weapon               Umm\u2026no, that is not survivable. If you\u2019re out of Fate Points into your belly, then twists it cruelly with a flick of his wrist to   you may spend a Resilience Point instead, to twist away let air into the wound and break the suction of your abdominal         barely in time and take the foe\u2019s weapon into your side muscles clamping around the blade, before tearing it out in a          instead of straight into your gut. With your abdominal wall spray of blood and other more disgusting tissues.                      badly ripped but the abdominal cavity un-pierced, the effect would then be that you gain Prone, Stunned (3) and Bleeding (1) instead of a messy death. If the GM is nice your foe will still think you\u2019re dying and turn his attention elsewhere.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Impaled! In one side and out the other. Your foe has to pull You leave this life, with a very impressive pool of blood left mightily to free his weapon, but you just can\u2019t seem to care behind to mark your passage. as your vital organs were in the way.",
+      "effects": []
+    }
+  ]
+}

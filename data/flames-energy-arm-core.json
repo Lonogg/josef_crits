@@ -1,0 +1,168 @@
+{
+  "damageType": "flames-energy",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Finger Warmer. Heat engulfs your hand but you manage to You suffer a penalty of -10 to your next rolled Test. snatch it away before it becomes unbearable!",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hot-Hot-Hot! The clothes covering your arm catch fire.          Drop anything held in that arm so nothing impedes the (A leather wristband, arm hair, fur or any held object can also furious waving necessary to put the fire out. You may still catch fire if you\u2019re not wearing any clothing.)                 take a normal Action on your next turn.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Feel The Burn! Flames lick your upper arm, sending a blast of Gain Blinded (1). hot air into your face.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Blistered Hand. Blisters form on the back of your hand, You suffer a penalty of -10 to any Test using that arm until the popping and leaking fluid.                              end of your next turn.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "A Light Toasting. Flames roll along your arm from wrist to You suffer a penalty of -10 to any Tests using that arm for the shoulder, passing too quickly to burn deeply, still leaving your rest of the encounter. arm red and throbbing.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burnt Fingers. A wash of flame catches the outer digits on Pass a Challenging (+0) Endurance Test or drop anything the ulnar side of your hand, severely burning them.        held in that hand. Also, 1d10/5 fingers will be useless (see under Amputated Parts) for one week.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Flame-Grilled Shoulder. Fire crisps the skin over the shoulder Gain Stunned (1). You also contract a Minor Infection due to blade, red and bleeding meat visible through the cracks.       the extensive skin loss.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lightly Charred Appendage. The skin of your palm peels off Your hand is useless (see under Amputated Parts) for the rest in blackened shreds, exposing seeping red muscle and white of the encounter. tendons.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Skin Peel. Most of your lower arm is covered in blisters that Gain Stunned (1). You also suffer the effects of a Torn Muscle quickly start joining each other in large swathes of dead (Minor) as your skin tries to grow back. skin. It begins to come off in large shreds, exposing the raw tissues underneath.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "BBQ Pit. The smell of burnt hair surrounds you as flames Gain Stunned (1). The arm is useless (see under Amputated torch your armpit. This unlucky location causes great Parts) for one week, until enough new skin has formed. discomfort, with a combination of huge blisters and exposed seeping flesh making any movement of the arm too painful to contemplate as newly formed crusts keep cracking and bleeding.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Blackened Finger. You yank your hand away from a red-hot You lose one finger \u2013 Amputation (Easy). The blackened twig- blast, thinking yourself lucky until you notice the one finger like remains of it soon fall off of itself. that didn\u2019t make it out of the danger zone in time\u2026",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Shoulder Impact. A tongue of flame impacts your shoulder, Gain Blinded (2) and suffer a Torn Muscle (Major). burning your deltoid muscle deeply and causing flash burns to that side of your face.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Biceps BBQ. Fire engulfs your upper arm, eating away at Gain Stunned (2) and suffer a Torn Muscle (Major). muscle and tendons.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Debridement Case! Your elbow joint suffers the full wrath of Your arm is useless (see under Amputated Parts) for the rest your foe\u2019s deadly energies, muscle attachments and tendons of the encounter. Afterwards it\u2019ll count as having suffered a crisping and curling under the assault.                      Torn Muscle (Major). However, unless you receive Surgery within one week to painfully debride (cut away dead tissue) and straighten contracted muscles and tendons, only partial healing will be possible.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Exploded Hand. Your hand takes the brunt of a fiery impact, Roll 1d10/5 plus one for the number of fingers lost \u2013 sending fingers and shreds of charred flesh flying.         Amputation (Average). The hand will be useless for the rest of the encounter, regardless of how many fingers still remain.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Charbroiled Arm. Flames charbroil the length of your arm,      Gain Stunned (2) and contract a Festering Wound. You also fusing muscle, tendons and remains of clothing into a          suffer a Torn Muscle (Major) except only partial healing is charred mess. Pain quickly fades to numbness as free nerve     possible due to the amount of lost muscle and the stiff scar endings in the skin are devoured by the fire.                  tissue that will replace it.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Blackened Stump. A jet of fire reduces your hand to a brittle Gain Stunned (3). You lose the hand \u2013 Amputation husk of its former self. The better part of it crumbles to ash, (Challenging). leaving a black lump with a few metacarpal bone ends sticking out.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Amputation By Fire! A river of flame surges over your arm, Pass a Challenging (+0) Endurance Test or gain Unconscious, slicing through your upper arm like a cutting torch, not that otherwise gaining Prone and Stunned (4). You lose the arm \u2013 you would know what a cutting torch is, living as you do in a Amputation (Difficult). regrettably low-tech fantasy world.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Compartment Syndrome. Although looking rather nasty,              Gain Stunned (3). The arm is useless (see under Amputated the burn wound to your arm is about to turn even nastier!         Parts). If you don\u2019t receive Surgery within 48 hours to open Interstitial pressure starts building up inside a major fascial   up the compartment and relieve pressure you\u2019ll lose the arm compartment due to swelling and intramuscular edema.              permanently and contract Blood Rot as gangrene sets in. If Insufficient blood supply leads to oxygen deprivation and         you receive successful Surgery the injury will count as a necrosis!                                                         Torn Muscle (Major), although only partial healing will be possible.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Conflagration! A ball of fire envelops half your body. You are You\u2019re toast\u2026literally! thrown to one side, the arm a shriveled stump and the whole side of your body charred black.",
+      "effects": []
+    }
+  ]
+}

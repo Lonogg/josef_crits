@@ -1,0 +1,168 @@
+{
+  "damageType": "arrows-bolts",
+  "location": "leg",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Torn Footwear. The arrow takes a chunk off the heel of your        You need to pass an Easy (+40) Athletics Test or gain Prone. footwear, punching your foot sideways and making you               Also, your shoe/boot/whatever may need repair. stagger.                                                           If you were barefoot, lose one extra Wound as the bullet grazes your sole.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Near Miss! The shaft of the arrow slaps the inside of your Your M is halved (round up) on your next Turn as you stumble thigh as it passes between your legs.                      while looking down to assure yourself of being intact.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Grazed Ankle. The arrow nicks your ankle, causing a small You suffer a penalty of -1 to your M for the rest of the but painful cut on a malleolus that only hurts more as your encounter. You may make a Challenging (+0) Cool or footwear rubs against it for every step you take!           Endurance Test each turn to ignore the penalty, but a failure of -4 SL or more will prevent you from any more tests as you accidentally open the cut further. If you weren\u2019t wearing any footwear or take an Action to remove it you automatically pass the Test.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Minor Shin Injury. The arrow glances off your tibia. It feels You halve your M (round up) and suffer a penalty of -20 to any like getting kicked in the shin, only worse! Your enemy no Agility Tests the next 1d10/2 Turns. doubt feels very remorseful as he watches you jump around on one leg.                                                   No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hip Wound. The arrow tears a furrow along your hip, before You suffer a -20 penalty to your next Test rolled, and a penalty deflecting and going spinning off into the distance.       of -1 to your M and -10 to your Agility for the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pierced Buttock. The arrow homes in on your gluteus muscle         Gain Bleeding (1). Until the arrow is Extracted you\u2019ll also with unerring accuracy. Regardless of the incoming angle           suffer a halved M (round up) and a penalty of -20 to all Agility (from behind or the flank, slanting upwards or downwards),         Tests. you find yourself with an embarrassing length of arrow shaft sticking out of your rear. Very undignified! You are very upset! Due to the unfortunate placement Extraction will have to be performed by someone else. This will be an Average (+20) Other players may or may not choose to remind you of this Test and will take a full Action and require that you be Prone injury at appropriate intervals.                          if performed during an ongoing combat encounter.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Severed Toe Tendons. The arrow slices across the back of           Pass a Difficult (-10) Cool Test or lose your next Action as you your foot, damaging several of the extensor tendons to your        look down at your dysfunctional foot and see the twitching toes. This leads to you being able to curl but not properly        white shreds of tendon curling out from the exposed flesh. extend your toes, with ensuing impaired balance and risk of        You also suffer a Torn Muscle (Major), except your M is stumbling over things as the front of your foot connects with      unaffected. ledges, stair steps, tree roots, etc. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Patellar Tendon. The arrow hits your thigh just Until the arrow is Extracted your M is reduced to 1 and you\u2019ll above the knee, sinking into the large quadriceps tendon suffer a -30 penalty to all Tests involving the leg. attached to the patella, nailing the tendon to the underlying bone of the lower femur.                                      Extraction will be Challenging (+0) and requires both hands and one full Action, after which you\u2019ll count as having a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Severed Toe. The arrowhead pierces the front of your You lose one toe \u2013 Amputation (Easy). footwear. Next time you remove the footwear, one of your toes fall out. Disturbing!                               No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Impaled Calf. The arrow transfixes your calf muscle.               Gain Bleeding (1) and suffer a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Thigh Wound. The arrow sinks deep into your thigh, tearing Gain Bleeding (2) and suffer a Torn Muscle (Major). through both the quadriceps muscle in the front and hamstrings at the rear, the tip of the arrowhead poking out Extraction will be Challenging (+0). through the skin at the back of the leg.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lower Leg Injury. The arrow fractures the fibula, one of the      Gain Stunned (1) and Bleeding (2). Also, your M is reduced long bones in the lower leg, as it slams through, tearing a       to 1 and you\u2019ll suffer a -30 penalty to all Tests involving the gaping wound through the calf. Shards of the fibula can           leg until the bone has set in 30 minus your Toughness Bonus momentarily be seen before the flow of blood obscures them.       days.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Impaled Foot. The arrow transfixes your foot, crunching You suffer a Broken Bone (Minor) and while still upright through the tarsal bones of the ankle. Your foot is momentarily you are unable to move from the spot. At any time you can nailed to the ground, pinning you in place.                     voluntarily go Prone to break the pin, after which you can crawl away as usual.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Hip Fracture. The arrow slams into your hip, snapping the Gain Prone, Stunned (1) and suffer a Broken Bone (Major). neck of the femur. A fracture like that is difficult to set, with a good chance of healing crooked.                                     Extraction will be Hard (-20), requiring the arrowhead being pushed through to emerge from the lower gluteal region.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Pierced Knee. The arrow splits your patella before wrecking       You gain Prone, Stunned (2) and suffer a Broken Bone the rest of your knee joint, severing cruciform ligaments and     (Major), except even when healed you suffer a permanent cracking bone, finally jamming inside the joint. The lower        penalty of -1 to your M (round up) and -20 to your Agility for leg is now largely unattached to the upper, at least from a       any Tests requiring use of the leg. mechanical viewpoint. Surgery (Challenging) will be required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 105,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Tibia. The long shinbone shatters from the impact       You gain Prone, Stunned (3) and Bleeding (1). If you receive of the arrowhead, leaving only the thinner fibula to bear your    Surgery within a week it\u2019ll count as a Broken Bone (Major) entire weight\u2026which it cannot do, resulting in the fibula         except you automatically fail any test to avoid long-term snapping as well. The foot and lower half of your lower leg       effects. Otherwise the leg is permanently useless (see under now dangle freely, with shards of bone poking through the         Amputated Parts). Regardless, you contract a Festering skin. An ugly and complicated open fracture like that will ruin   Wound due to the open fracture. anyone\u2019s day! Extraction will be Challenging (+0).",
+      "effects": []
+    },
+    {
+      "min": 106,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Severe Thigh Wound. The arrow rips through your upper             Gain Bleeding (3). Also, suffer a Torn Muscle (Major). thigh, tearing through flesh and muscle, clipping the femoral     If you fail a Challenging (+0) Endurance Test you\u2019re also artery before lodging in the femur bone itself. Blood starts      unlucky enough to have had the artery severed high enough spurting and you begin to feel distinctly inconvenienced.         that an ordinary tourniquet is useless, in which case Surgery (and a long clamp) is necessary to remove the Bleeding Condition.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Nerve Damage. The arrowhead sinks into your hip, lacerating Gain Stunned (2) and Prone. The leg is useless (see under the femoral nerve, leaving your leg numb and useless.       Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Iliac Artery! The arrow slams into your hip near the groin. Gain Bleeding (3), which requires Surgery to remove. Should Cleaving through multiple smaller blood vessels it finally hits you survive you\u2019ll have a Torn Muscle (Major). the jackpot in the shape of the external iliac artery! Massive loss of blood ensues!                                           Surgery (Very Hard) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 126,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Pelvic Ruin! The arrow slashes through your pelvic region, You\u2019re very dead, probably with a disturbed expression on ripping through nerves and blood vessels. As you crash to the your face. ground the shaft breaks and the jolted arrowhead tears new bloody paths through your innards. Death quickly follows.     Don\u2019t bother about Extraction\u2026",
+      "effects": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# LevelDB lock file held open by Foundry while it is running
+packs/*/LOCK
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

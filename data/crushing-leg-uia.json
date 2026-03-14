@@ -1,0 +1,168 @@
+{
+  "damageType": "crushing",
+  "location": "leg",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "How High? You manage to make a heroic leap, your foe\u2019s You must pass a Challenging (+0) Athletics Test or you may weapon passing harmlessly underneath you.              not attack as your Action next turn.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Toe Whack. Your opponent\u2019s weapon bounces off the tip of You suffer a -10 penalty on all Tests until the beginning of your footwear, breaking a toe nail.                      your next turn.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Glancing Blow. You lose a good deal of skin to a blow that You suffer a -10 penalty to all Agility Tests for the rest of the scrapes along your leg. Exactly the kind of injury that oozes encounter. and stings and makes your pants stick to it\u2026yeech!",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Knee Smack. An unfair blow cuts your leg out from under You gain Prone. you.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hip Bash. A mighty whack to your hip makes a crunching You suffer a penalty of -1 to your M and -10 to your Agility for noise, leaving you to wonder if it was just muscle fibers or the rest of the encounter your pelvis that broke.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Shin. A subperiosteal bleeding, some impressive Due to a pronounced limp your M is halved (round up) and swelling and a nasty discoloration is the price you pay for you suffer a -20 penalty to your Agility for the next 1d10/2 fighting.                                                   days.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bruised Thigh. You take a major wallop to your thigh, causing Your leg is useless (see under Amputated Parts) until you an enormous bruise and the mother of all \u201ccharley horses\u201d pass a Hard (-20) Endurance Test, rolling at the end of each as your thigh muscles cramp painfully.                        of your subsequent turns. Pass a Challenging (+0) Athletics Test or gain Prone any time you take another hit to any Location. You\u2019ll recover fully from these effects at the end of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Ankle. Your ankle breaks with a nasty snap.             You suffer a Broken Bone (Minor).",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Fractured Foot. Your foe slams his weapon down on your foot, This is a complicated fracture, counting as a Broken Bone breaking several metatarsals and possibly a tarsal bone or (Minor) except you automatically fail any test to avoid long- two as well.                                                 term effects unless receiving Surgery within a week.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Smashed Toe. Your opponent\u2019s weapon comes down hard, You lose 1d10/3 toes (round up) \u2013 Amputation (Average). flattening one or more toes, leaving them hanging by shreds of tissue.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Dislocated Kneecap. A blow coming in from the side smacks You gain Prone and Stunned (1). Also, your leg is useless (see your patella sideways, effectively locking your knee joint up under Amputated Parts) until the kneecap has been popped in a most painful way.                                        back into place. You can try to pop it back in place yourself, which is a Very Hard (-30) Test for either Cool, Endurance or Heal, depending on your method (which can consist of simply slamming your knee into something solid at a hopeful angle\u2026or a slightly more scientific proposal). Alternately, a friend or ally can attempt a Challenging (+0) Heal Test. After a successful pop, you\u2019ll instead count as having suffered a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Fractured Pelvis. A painful hit on the bony crest high on your You gain Stunned (2). Also, you suffer a Broken Bone (Minor) hip, cracking your pelvis. Thankfully a stable fracture, but except the only effect is halving your M and you automatically still painful.                                                 pass the Endurance Test against long-term effects.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Hip. The hit either snaps the head of your femur (the You gain Prone and suffer a Broken Bone (Major). long bone in your thigh) or drives it into the acetabulum (the concave \u201ccup\u201d on the pelvic bone against which the hip articulates), cracking it. Setting a fracture like that is difficult work, with a good chance of it healing crooked.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Broken Femur. The blow snaps your thigh bone diagonally You gain Prone, Stunned (2) and Bleeding (1), also suffering (also called an oblique fracture), leaving knife-like edges a Broken Bone (Major). that lacerate the surrounding tissues.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shin Fracture. Your tibia is fractured. The leg is still You gain Prone, Stunned (2) and Bleeding (1), also suffering reasonably straight thanks to an intact fibula (the other a Broken Bone (Major) and contracting a Festering Wound thinner long bone in your lower leg) but any weight put upon due to the open fracture. it leads to excruciating pain as the broken bone ends grind against each other. Shards of bone poke out of the skin. Nasty!",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 105,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Kneecap. Your foe smashes your kneecap into You gain Prone and Stunned (3), also suffering a Broken multiple fragments, also cracking off pieces of the ends of Bone (Major) except you automatically fail any test to avoid the long bones coming together at the knee joint.           long-term effects unless receiving Surgery within a week.",
+      "effects": []
+    },
+    {
+      "min": 106,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Foot. Your opponent lands a terrible blow on your You gain Prone and lose the foot \u2013 Amputation (Hard). Also, foot, splintering many bones and mashing the softer tissues the maimed remains of the foot will have to be amputated into an unsightly paste.                                    within a week (requiring Surgery) or you\u2019ll contract Blood Rot as the shattered foot goes gangrenous.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Snapped Lower Leg. Both bones in the lower leg snap, You gain Prone, Stunned (3) and Bleeding (1). If you receive leaving your foot and lower part of the leg dangling. Pieces Surgery within a week it\u2019ll count as a Broken Bone (Major) of shattered bone poke out through the skin.                 except you automatically fail any test to avoid long-term effects. Otherwise the leg is permanently useless (see under Amputated Parts). Regardless, you contract a Festering Wound due to the open fracture.",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Artery. Your enemy crushes your pelvis, causing        You gain Prone, Stunned (3) and Bleeding (3), the latter of broken bone ends to tear your femoral artery where it          which is caused by a major artery severed high enough that branches off from the aorta deep inside your pelvic area.      an ordinary tourniquet is useless, requiring Surgery (and a The copious bleeding is all but guaranteed to end your life!   long clamp) to remove the Bleeding Condition. Should you fail to bleed to death you\u2019ll end up with Blood Rot and two useless legs (see under Amputated Parts) as the damage also extends to sensitive nerve structures and ruptured internal organs like the bladder or bowels.",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 126,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Crunch! Pretty much as above, except even messier, plus As if a paralyzed lower body, massive loss of blood and an a fatty embolus from the shattered bone structures travels embolism wasn\u2019t enough, the combined shock of it all also to your lungs and causes a massive pulmonary embolism to mercifully kills you. really ruin your day.",
+      "effects": []
+    }
+  ]
+}

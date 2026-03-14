@@ -1,0 +1,168 @@
+{
+  "damageType": "teeth-claws",
+  "location": "leg",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Chewed Shoe. You barely get your foot out of the way as your You suffer a -10 penalty on any Agility Test you do your next foe tears off the tip of your footwear.                      turn. If you\u2019re not wearing footwear the penalty is -20.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Foot Bump. Your overeager foe slams into your foot as it tries Pass an Easy (+40) Athletics Test to avoid gaining Prone. to clamp fangs or claws into your lower extremity.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Grazed Leg. Thirsting for your blood, your foe merely manages You suffer a penalty of -10 to your next rolled Test. to rob you of some skin and drench your legwear in slobber.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Raked Hip. With the scent of blood in its nostrils, your enemy You suffer a penalty of -1 to your M and -10 to your Agility for rakes your hip, dealing you several long parallel gashes.      the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Collision! As you attempt to dodge your enemy\u2019s slavering You gain Prone. You must pass an Average (+20) Dexterity attention you are taken unaware by a sudden rush. The Test or drop anything held in your primary hand, sending it ensuing collision sends you flying!                       flying 1d10 yards in a random direction.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Sprain. Your foe growls in satisfaction as it catches hold of You suffer a Torn Muscle (Minor). your leg. You manage to wrench it loose but suffer a sprain in the process.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Burger Feast! A credit to the culinary tastes of monsters You gain Bleeding (1) and suffer a Torn Muscle (Minor). Also, everywhere, your foe takes a couple of brass pennies\u2019 worth there is a rather large hole in your pants\u2026 of hamburger from your buttock.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Tastes Like Chicken! Its savagery knowing no limits, your You gain Bleeding (2) and suffer a Torn Muscle (Minor). enemy tears open your thigh, delighting in the flow of blood and your shouts of pain.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Severed Toe Tendons. Your growling foe removes flesh from         Pass a Difficult (-10) Cool Test or lose your next Action as you the back of your foot, damaging several of the extensor           look down at your dysfunctional foot and see the twitching tendons to your toes. This leads to you being able to curl        white shreds of tendon curling out from the exposed flesh. but not properly extend your toes, with ensuing impaired          You also suffer a Torn Muscle (Major), except your M is balance and risk of stumbling over things as the front of your    unaffected. foot connects with ledges, stair steps, tree roots, etc.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Achilles Atrocity! Displaying its predatory skills when it You gain Prone and the leg is useless for the rest of the comes to bringing down fleeing prey, your foe savages the encounter (see under Amputated Parts). Afterwards it\u2019ll back of your ankle, damaging the large Achilles tendon.    count as Torn Muscle (Major).",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Ankle. A hideous crackling sound assaults your ears You suffer a Broken Bone (Minor). as your savage foe breaks your ankle between its teeth and/ or claws.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Don\u2019t Like Fast Food! Making sure you can\u2019t get away, your Gain Prone and Bleeding (2). Also suffer a Torn Muscle foul foe prepares for its feast by tearing apart the large (Major). Your leg is useless (see Amputated Parts) until the hamstring muscles at the back of your thigh, sending you Torn Muscle has completely healed. crashing to the ground.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "This Little Piggy... One or more toes disappear down a You lose one toe \u2013 Amputation (Challenging), with one monstrous gullet or go flying, possibly in the direction of the additional toe lost for each full -2 SL levels of failure to the market\u2026                                                         Endurance Test.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Is Calf The Same As Veal? Your foe satiates its hunger by You gain Stunned (1), Bleeding (2) and Prone. Also, you suffer ripping off most of your calf muscle. Its prominent absence a Torn Muscle (Major) except only partial healing is possible leaves your two legs looking decidedly mismatched\u2026          as much muscle tissue is simply missing.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Is Thigh Dark Meat Or White Meat? Your foe clamps fangs Gain Bleeding (3) and Prone. For healing purposes the leg and/or claws around your thigh, worrying at the meat until counts as a Broken Bone (Major) except all tests for long- the muscle and flesh has almost completely detached from term penalties are automatically failed. the bone. Major veins and arteries are severed by this unkind treatment, resulting in major loss of blood.",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 105,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Knee d\u2019Oeuvre. Being the monster it is, your foe feels no         Gain Stunned (3) and Prone. For healing purposes it counts compunction going for your kneecap, tearing it out in a spray     as a Broken Bone (Major), except even when healed you of blood! The patella is left hanging by a few threads of still   suffer a permanent halved M (round up) and -20 to your intact tendon as you go down with a hideous scream of pain        Agility for any Tests requiring use of the leg. You also suffer and horror!                                                       a Festering Wound due to the wide open joint.",
+      "effects": []
+    },
+    {
+      "min": 106,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Eat Here Or To Go? Your foe\u2019s revolting appetites become Gain Stunned (2), Bleeding (2) and Prone. Lose the foot \u2013 obvious to all onlookers as it tears your foot off at the ankle! Amputation (Challenging).",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Could You Slice It For Me? Your lower leg is left stripped of    Gain Stunned (3), Bleeding (2) and Prone. The leg is lost \u2013 skin and flesh, the half-severed foot dangling limply. Shards    Amputation (Challenging). If you don\u2019t receive Surgery of the long bones, the tibia and ulna, stick out from the        within a week for a proper amputation you\u2019ll contract Blood gory mess. It\u2019s obvious it\u2019ll have to come off! Your foe looks   Rot as the remains go gangrenous. insufferably pleased with itself!",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "I Like My Steak Bloody! Always hungry for more gore, Gain Bleeding (3), which requires Surgery to remove. If you your brutish foe produces plenty of it! Your femoral artery fail to bleed to death, the leg will still be useless as the major is shredded at the junction between inner thigh and groin. nerves were also severed (see under Amputated Parts). The severed stump then withdraws into the pelvis, making it almost impossible to find and clamp the spurting vessel. Your world starts graying out at the edges\u2026",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 126,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Drum Stick! Your fell foe exults in thumbing its muzzle at all Your one-legged state is of only minor concern as you are things good and civilized, tearing and wrenching at your leg also a corpse nowadays\u2026 until it rips free from its socket at the hip. Death is mercifully quick, from loss of blood and sheer shock at your foe\u2019s ferocious strength!",
+      "effects": []
+    }
+  ]
+}

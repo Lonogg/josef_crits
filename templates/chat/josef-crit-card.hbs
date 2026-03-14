@@ -1,0 +1,76 @@
+{{!--
+  Josef critical hit chat card template
+
+  This template displays the result of a Josef critical roll in a
+  WFRP-style chat card. It accepts a context object matching the
+  JosefCritResult defined in scripts/roller.js. The card header
+  displays the critical name and the rule context (damage type,
+  location and ruleset). The body shows the roll result, optional
+  wounds value, the narrative description and a list of effects. Each
+  effect entry attempts to produce an inline link for conditions and
+  injuries using Foundry syntax (@Condition and @Injury). For wounds
+  and test modifiers the values are printed plainly. Any unparsed
+  text appears as a note.
+--}}
+<div class="post-item chat-card josef-crit-card" draggable="true">
+  <header class="card-header">
+    <img src="systems/wfrp4e/icons/blank.png" class="item-image" alt="Critical">
+    <h3 class="card-title">{{name}}</h3>
+    <span class="card-subtitle">{{displayDamageType}} - {{displayLocation}} ({{displayRuleset}})</span>
+  </header>
+  <div class="card-actions">
+    <a class="chat-button josef-apply-all" data-action="apply-all">Apply to Target/Selected</a>
+    <a class="chat-button josef-drag-handle" draggable="true" data-action="drag-apply" title="Drag onto a token to apply">Drag to Token</a>
+  </div>
+  <div class="card-content">
+    <p><strong>Roll:</strong> {{roll}}</p>
+    {{#if woundsIsTB}}
+      <p><strong>Wounds:</strong> <abbr title="Toughness Bonus — must be applied manually">TB</abbr></p>
+    {{else if wounds}}
+      <p><strong>Wounds:</strong> {{wounds}}</p>
+    {{/if}}
+    {{#if description}}
+      <p>{{description}}</p>
+    {{/if}}
+    {{#if effects.length}}
+      <hr/>
+      <ul class="josef-effects">
+        {{#each effects}}
+          <li>
+            {{!-- Display effect description using existing markup --}}
+            {{#if id}}
+              {{!-- Condition effect --}}
+              @Condition[{{id}}]{{#if value}} ({{value}}){{/if}}
+            {{else}}
+              {{#if itemName}}
+                {{!-- Injury effect --}}
+                {{#if uuid}}
+                  @Injury[{{uuid}}]{{#if itemName}} ({{itemName}}){{/if}}
+                {{else}}
+                  {{itemName}}
+                {{/if}}
+              {{else}}
+                {{#if scope}}
+                  {{!-- Test modifier effect --}}
+                  Test modifier {{value}} to {{scope}}{{#if duration}} for {{duration}}{{/if}}
+                {{else}}
+                  {{#if value}}
+                    {{!-- Wounds effect --}}
+                    {{value}} wounds{{#if location}} to {{location}}{{/if}}
+                  {{else}}
+                    {{!-- Note or fallback --}}
+                    {{text}}
+                  {{/if}}
+                {{/if}}
+              {{/if}}
+            {{/if}}
+          </li>
+        {{/each}}
+      </ul>
+    {{/if}}
+    <hr/>
+    <p><strong>Damage Type:</strong> {{displayDamageType}}</p>
+    <p><strong>Location:</strong> {{displayLocation}}</p>
+    <p><strong>Ruleset:</strong> {{displayRuleset}}</p>
+  </div>
+</div>

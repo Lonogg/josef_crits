@@ -1,0 +1,176 @@
+{
+  "damageType": "unarmed",
+  "location": "head",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 3,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Glancing Blow. A heavy punch skims your cheek, barely You suffer a penalty of -10 to your next rolled Test. failing to connect.",
+      "effects": []
+    },
+    {
+      "min": 4,
+      "max": 6,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Disorientating Blow. A blow to the side of the head You make not take an Action on your next turn. momentarily disorients you.",
+      "effects": []
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Box On The Ear. You get a good box on the ear which smarts Gain Deafened (2). something fierce and makes your ears ring.",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 15,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Off Balance! Your foe tries to twist your head off and comes Gain Prone. away with a handful of hair (or your scarf, hat or whatever if you happen to be bald). His attempt did send you off-balance and to the ground, however!",
+      "effects": []
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Raked Face. You enemy tries to gouge your eyes out but You suffer a penalty of -10 to any Tests taken until the end of merely manages to get his nails into your skin, raking your your next turn. The scratches also reduce your Fellowship face, leaving several long parallel oozing scratches.       characteristic by -10 for one week as people make wildly unfair speculations about their origin.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cheek Punch. A vicious punch crumples one cheekbone, Gain Stunned (1) except you do not gain any Fatigued making your face look decidedly battered.            Condition once the Stunned Condition has been removed.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Nostril Rip! Your opponent jams a couple of fingers up your Gain Blinded (2). nostrils and then savagely rips them out again, tearing the sensitive flesh. Your eyes tear up from the brutal treatment.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Ripped Ear. Your foe manages to grab one of your ears, Gain Deafened (2) and suffer a penalty of -5 to your Fellowship tearing it off and leaving it dangling by a few threads of flesh whenever your mangled ear is obvious. from the side of your head.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Loosened Teeth. You take one in the mouth, loosening several Gain Stunned (1). Roll an Average (+20) Toughness Test, teeth and mashing your lips bloody. Hey, at least you bruised losing one tooth for each SL of failure (see under Amputated your attacker\u2019s knuckles!                                     Parts).",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Fractured Cheekbone. A powerful punch mashes one side of Pass an Easy (+40) Endurance Test or gain Unconscious, your face, providing you with a magnificent black eye and otherwise gaining Stunned (2). fracturing the cheekbone.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Jaw. A solid roundhouse blow to your chin fractures Pass an Easy (+40) Endurance Test or gain Unconscious, your lower jaw.                                            otherwise gaining Stunned (2). Regardless, you suffer a Broken Bone (Minor).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Throat Punch. Your unsportsmanlike opponent punches you Gain Stunned (1). Once removed the Stunned Condition in the throat, causing your windpipe to spasm and close, is replaced by Fatigued (1), as usual, except you\u2019ll gain momentarily cutting off your airways.                    another Fatigued Condition each subsequent turn until you reach Fatigued (3) at which point you\u2019ll remove all Fatigued Conditions on your next turn as your throat recovers and you can breathe again.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Smashed Teeth. An elbow, boot or fist to your face sends Lose 1d10 teeth \u2013 Amputation (Challenging). teeth and blood flying.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Head-Butt! Your nemesis head-butts you in the face, Gain Stunned (2) and Blinded (2). flattening your nose, sending bolts of flashing pain shooting into your brain and a flood of involuntary tears from your eyes.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Knee To The Face! Your merciless opponent manages to grab Pass an Average (+20) Endurance Test or go Unconscious, hold of your ears (or hair, or hat) and yanks your face down otherwise gaining Stunned (3). You suffer a Broken Bone do connect with his ascending knee. The ensuing crunch is (Major) and lose 1d10+5 teeth (see under Amputated Parts). the sound of several teeth and your jaw shattering.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Tyson Move! The savagery of your opponent knows no You suffer an Amputation (Challenging). Roll 1d10 to find out bounds as he manages to get a good hold on your head and what got bitten off: proceeds to bite something protruding right off, spitting it out in a spray of blood.                                              1-3 The nose",
+      "effects": []
+    },
+    {
+      "min": 0,
+      "max": 0,
+      "severity": "cheek",
+      "wounds": "cheek",
+      "description": "and/or lip to gain you a permanent penalty of -10 to your Fellowship",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Gouged Eye. Your barbarous opponent jams a thumb into your You gain Stunned (3) and Blinded (2). You also lose the eye \u2013 eye, gouging it out or squishing it.                       Amputation (Hard).",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 94,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Skull Fracture. A brutal blow to your temple, whether Gain Unconscious. After you wake up you gain Fatigued (2) delivered by a heel, elbow, knuckledusters or hand, fractures which will last until the plates of your skull have set again in your skull.                                                   30 minus your Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 95,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Crushed Larynx. Your foe crushes your windpipe, crumpling You gain Fatigued (1) and will gain another level of Fatigued at the cartilage of your larynx. This blocks your airways and you the end of each of your subsequent turns until the cartilage is start choking dramatically!                                    popped back into place. This requires either a Hard (-20) Heal Test by yourself or a Challenging (+0) Heal Test by someone else. If successful all Fatigued Conditions are removed but you won\u2019t be able to speak for a week. If you reach Fatigued (10) you go Unconscious and die from suffocation in another Toughness Bonus rounds.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Broken Neck. Your enemy breaks your neck, either with a You and your lolling head are very much expired. mighty blow snapping your poor head back, or by grabbing you by chin and back of head, violently twisting until a loud crack is heard. Death is instantaneous!",
+      "effects": []
+    }
+  ]
+}

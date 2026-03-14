@@ -1,0 +1,168 @@
+{
+  "damageType": "teeth-claws",
+  "location": "head",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "A Close Call! You get away with a good scare and a faceful of Pass a Challenging (+0) Cool Test or suffer a -10 penalty to slobber and bad breath.                                       your next rolled Test, as you wipe away monster drool.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Face Hug! Your foe makes a lunge at your face, causing you Your next Action may not be an attack. to stagger back.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Ear Chomp! In an attempt to rip your face off, your foe nicks Gain Deafened (2). Roll 1d10-5; if the result is positive that your ear, tearing a piece of it away.                         is the penalty you suffer to your Fellowship whenever your mangled ear is visible.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Go For The Eyes, Boo! Growling, your foe rakes your face, Gain Blinded (2). only sheer luck stopping it from snacking on your eyeballs.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Going For The Jugular! Savagely going for your jugular, your Gain Bleeding (1). foe is nearly successful, nicking at least large one vein.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Scalp Snack! Ravening, your foe tears your scalp, causing Gain Bleeding (1) and Blinded (2), the latter of which cannot blood to stream down your face and into your eyes.        be removed before the Bleeding Condition is removed.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Face-Off! Managing to hook fangs or claws around the angle Gain Stunned (1). Roll 1d10/2, which will be the penalty to of your jaw, your slavering foe almost tears your whole lower your Fellowship whenever your scars from this encounter face off. Your mandible stays in place but bone and teeth are are obvious. visible through the tears!",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Neck Toss! Your slavering foe attempts to close his jaws and/ Gain Prone. If you were wearing a Hat, Leather Skullcap or or paws around your neck to tear your head off, but angular Open Helm, it goes flying 1d10 yards in a random direction. momentum sends you spinning out of the grip before fangs and/or claws sink in.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Chin Crunch! Pouncing, your foe targets your chin for some Suffer a Broken Bone (Minor). Also, roll 1d10-5; if the result proper mauling, tearing off most of any beard you may is positive that is the penalty you suffer to your Fellowship possess and breaking your jaw.                             whenever your scars and patchy beard are obvious.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "My Ear! Your snarling foe gets hold of one of your ears and Gain Bleeding (1) and lose the ear \u2013 Amputation (Easy). makes away with it!",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cheek Chomp! In a display of animalistic brutality, your foe     Gain Stunned (1) and Bleeding (1). Also, your face is now takes a bite out of your face, leaving most of one cheek torn    quite hideous, reducing your Fellowship by -10. Successful and dangling like an unsightly flap of meat, exposing teeth      use of Heal skill will reduce the loss to -5 by means of crude and tongue.                                                      stitching, while Surgery will realign the jigsaw-puzzle that is your face well enough to negate any loss.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Face Mangling! Fangs or paws close around your face. The Gain Stunned (2) and suffer a Broken Bone (Major). maxillary bone of your upper jaw deforms with a crunch and your lower jaw is dislocated by the savage assault!",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Nose Nibble! Your slavering enemy makes a tasty snack of Lose the nose \u2013 Amputation (Easy). your nose. There is now a very disturbing hole in the middle of your face!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Takedown! Your foe tears into the back of your neck, ripping     Gain Prone and Bleeding (2). Also, due to whip-lash trauma, muscles and nicking vertebrae, wrenching your neck cruelly.      you gain Fatigued (1), which goes away normally after a rest. You are born to the ground in a beautiful display of predatory   After the end of the encounter you will again gain Fatigued (1) hunting techniques, at the mercy of your feral foe!              any time you do anything physically strenuous (like fighting or an Athletics Test). At the end of each month from now you\u2019ll get to take a Hard (-20) Endurance Test to make this effect go away spontaneously. Alternatively, successful use of Surgery will get you a good neck brace that will clear it up in a couple of weeks, but while wearing it you\u2019ll be at -20 to your Agility.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lost Eye. Gnashing and growling, your enemy rakes you Gain Stunned (2). Also lose the eye \u2013 Amputation (Hard). You across one side of the face, leaving several parallel furrows, must also pass a Challenging (+0) Endurance Test or contract including one across the eye.                                  a Festering Wound.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Chewy-Chewy! Your whole head disappears inside fanged You lose parts \u2013 Amputation (Difficult). jaws or clawed paws. Some chewing and/or mauling later, you are neither whole, hale, hearty nor pretty!         Roll 1d10:",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Cracked Skull. The plates of your skull break under the bestial Pass a Hard (-20) Endurance Test or gain Unconscious. assault, leaving your head looking all warped and weird.        Regardless, you gain Fatigued (2), which will last 30 minus your Toughness Bonus days, when your bones have set again.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Snack! Proving why it was a bad idea to tangle with       Gain Unconscious. Roll once on the Mental Corruption Table something so well equipped in the ivory department, your foe    when you wake up. This does not lose you any Corruption cracks open your forehead, removing a piece of frontal lobe     Points nor does it count towards your Corruption Limit. brain matter. This results in some disturbing changes to your   Also, pass a Challenging (+0) Endurance Test or contract a personality.                                                    Festering Wound.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Torn Throat. Hungry for gore, your foe tears out a good piece Gain Bleeding (4). Should you survive, you\u2019ll also suffer the of your throat! Apart from a torn carotid artery, your vocal effects of a Broken Bone (Major), except you fail all rolls for apparatus is also mangled.                                    long-term effects automatically.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "I\u2019ll Bite Your Head Off! Your head is partly or entirely You are headless, lifeless and possibly about to be digested. separated from your body. In the latter case, swallowing may be involved. Either way, there\u2019s a whole lot of blood spurting from your neck hole.",
+      "effects": []
+    }
+  ]
+}

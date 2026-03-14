@@ -1,0 +1,176 @@
+{
+  "damageType": "piercing",
+  "location": "leg",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Whack! The haft or flat of the blade of the weapon smacks If you fail an Average (+20) Endurance Test your M is reduced into your shin. You swear.                                to zero on your next turn, as you jump up and down in place, cursing loudly.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Sliced Skin. The tip of your opponent\u2019s weapon leaves Pass an Easy (+40) Cool Test or miss your next Action as you a narrow flap of detached skin winking redly at the world wink back at the unsightly piece of loosened epidermis. around it.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Shallow Shin Stab. Your foe\u2019s weapon takes a small fragment You gain a penalty of -1 to your M for the rest of the encounter. off from your tibia.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Buttock Injury. You try to twist away from the unfriendly Suffer a -10 penalty to all Tests on your next Turn. Also, you implement but it still catches you in an unfortunate spot. Your are acutely embarrassed, with exact details up to your GM. trousers now have a hole and a slowly spreading red stain at the back.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Patellar Ligament. Your foe sinks the tip of his weapon in Your M is halved (round up) and you suffer a -10 penalty to just above your knee, into the large tendon connecting the all Agility tests requiring use of the leg for the rest of the kneecap to the quadriceps muscles of the thigh.            encounter.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Thigh Wound. Your adversary gifts you a shallow thrust to the   Any time you attempt a Dodge or Athletics Test (including thigh. Luckily the edges of the weapon go in along the grain    sprinting) requiring use of the leg for the next week, you of the muscle fibers, saving you from severe damage to your     automatically fail the test on an uneven result on the units thigh muscle.                                                   die as your injured leg betrays you.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Foot. Your foe\u2019s weapon stabs down into your foot, You suffer a Torn Muscle (Minor). sinking in between the metatarsal bones to emerge from the sole of your foot.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Calf. Your foe spears your calf, lacerating the muscle. You gain Bleeding (1) and suffer a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Deep Stab. A deep thrust and a savage twist opens up a You gain Bleeding (2) and suffer a Torn Muscle (Major). gaping wound in either your calf or your thigh. Blood gushes out in a small scarlet tide.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Severed Toe. One of your toes either goes flying or decides to You lose a toe \u2013 Amputation (Average). stick around a little longer\u2026at least until the shred of tissue still connecting it to the foot deteriorates.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Split Kneecap. Your opponent\u2019s weapon slams into your You gain Prone and suffer the effects as for a Broken Bone patella, splitting it in half.                        (Minor). The leg will have to be bound and held in place for proper healing, just as if it had been an actual fracture.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Severed Vein. Your antagonist spears your thigh, splitting You gain Bleeding (2) and suffer a Torn Muscle (Major). bundles of muscle fibers and tearing a large vein. Blood pours out of both the entrance and exit wounds on either side of the leg as your wrongdoer extracts his weapon.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lower Leg Fracture. Your foe spears your shin, cracking one You gain Prone and Stunned (1). Also, you suffer a Broken of the long bones in the lower leg. A disgusting snapping Bone (Major). sound accompanies your howl of pain.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Foot Fracture. Your enemy spears your foot near the ankle,      You gain Prone and Stunned (1). You also suffer a Broken his weapon crunching in among tarsal bones, ligaments,          Bone (Minor), except that Surgery will be required within tendons and nerves, making a right proper mess of that          a week or you\u2019ll have a lamed foot (see under Amputated delicate structure.                                             Parts). Otherwise you\u2019ll automatically lose function in 1d10/2 toes instead (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Damaged Achilles\u2019 Tendon. A stab to the back of your leg Gain Prone and Stunned (2). The leg is useless for 30 minus severs the major tendon there with a nasty snapping sound. your Toughness Bonus days (see under Amputated Parts), You crash to the ground as your leg folds under you.       after which you halve your M (round up) permanently as the ends of the tendon have shriveled up without reconnecting properly. If you received Surgery within a week of receiving the injury that M penalty is reduced to -1 after an additional",
+      "effects": []
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "severity": "your",
+      "wounds": "your",
+      "description": "Toughness bonus days.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Wrecked Knee. Your foe spears your knee, his weapon Gain Prone, Stunned (2) and Bleeding (2). Also, function in piercing the joint and severing the cruciform ligaments the leg is lost \u2013 Amputation (Challenging). anchoring the bones of the lower leg to the upper. He also If soccer ever catches on in the Old World, at least you never severs the popliteal artery behind the knee.               had anything to do with it!",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Groin Hit. Your unsporting enemy\u2019s weapon punches in at Gain Stunned (3) and Bleeding (3). If male, there is a risk the angle between leg and body, piercing into the groin. Rich you\u2019ll also end up having problems procreating. with blood vessels and other sensitive structures, this is an area that it well and truly sucks to be stabbed in!",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Nerve. An electric shock followed by complete Gain Prone, Stunned (2) and Bleeding (2). Also, function in numbness results from your foe\u2019s weapon penetrating deep the leg is lost \u2013 Amputation (Difficult). As you tumble to the into your upper thigh and severing the important femoral ground you wave your arms wildly, dropping everything held nerve.                                                   in both hands, the objects in question going flying 1d10 yards in random directions.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Femoral Artery. Your adversary\u2019s practical knowledge of Gain Bleeding (4) which cannot be removed without Surgery. anatomy allows him to precisely target the inside of your Should you fail to bleed to death you\u2019ll suffer a Torn Muscle thigh, tearing your femoral artery. A massive loss of blood (Major). is in your future!",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Impaled Pelvis. Your foe slams his weapon into your upper You leave a surprised-looking but reasonably pretty corpse. thigh at an angle. It proceeds tearing upwards into your hip, continuing on deep into your pelvis where it severs the major iliac artery. Resulting shock and blood loss kills you mercifully and quickly.",
+      "effects": []
+    }
+  ]
+}

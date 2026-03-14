@@ -1,0 +1,168 @@
+{
+  "damageType": "bullets",
+  "location": "body",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Ooomph! Your belt or some other sturdy item takes the hit, Your next Action may not be an attack. If for some odd leaving you unharmed and very relieved.                    reason you were not wearing anything at all, you lose one extra Wound as the bullet departed with some of your skin attached.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Just A Graze! The bullet leaves a line of oozing redness for You suffer a -10 penalty to your next rolled Test. you to remember it by. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Rib Contusion. The bullet whacks one of your lower ribs as it You gain Fatigued (1) which will be removed when you pass goes by, causing a hairline fracture.                         an Average (+20) Endurance Test, rolling at the start of each of your turns.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Shoulder Punch. The hit spins you around as it clips you high Pass a Challenging (+0) Agility Test or gain Prone. on the arm but fails to penetrate. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hip Punch. Although just a glancing blow against the You suffer a penalty of -1 to your M for the rest of the bony iliac crest on your hip, you still suffer a bonebruising encounter. contusion. Enough to make you weep\u2026or at least limp! No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Flank Wound. The bullet hits you in the side, digging through Gain Bleeding (1). the muscle of your abdominal wall at an acute angle but not managing to enter the abdominal cavity.                       Surgery (Easy) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Chest Wound. The bullet finds a gap between two ribs, Gain Bleeding (1). You also count as Fatigued (1) until you angling slightly upwards as it glances off the lower one. pass a Challenging (+0) Endurance Test (rolling at the start Tearing a furrow through the muscle and meat of your of each of your subsequent turns). chestwall it fails to penetrate your ribcage, ending up lodged underneath the upper rib.                                      Surgery (Hard) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Spinal Blow. The bullet hits you in the small of your back,     Gain Prone. You must pass an Easy (+20) Endurance Test cracking a vertebrae which temporarily deforms enough to        before you can rise, rolling at the start of each of your smack into your lumbar spinal cord, causing your legs to be     subsequent turns. Once you\u2019re up again you\u2019ll have a -1 momentarily paralyzed.                                          penalty to M and -10 to Agility for the rest of the encounter as your battered and stunned spinal cord recovers.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cracked Shoulder Blade. The bullet slams into the back of Roll randomly for side, left or right. The wound counts as a your shoulder as you twist around to dodge it. The blow is Torn Muscle (Minor) for the arm on that side. glancing but still manages to tear a furrow along your back and cause a minor fracture of the shoulder blade.           No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Groin Hit. Passing perilously close to even more sensitive Gain Stunned (3) and Bleeding (1). Also, you now have a areas, the bullet causes significant bleeding and plenty of couple of holes in your pants. pain as it enters low, making a short but bloody path through one side of the groin just underneath the skin, exiting through No Extraction is necessary. the horizontal gluteal crease, also known as the seat of your breeches.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Abdominal Wall Penetration. The bullet punches you in the Gain Stunned (3) and pass a Challenging (+0) Endurance stomach, penetrating into the abdominal cavity. Fortunately Test or also gain Prone. As the bullet settles inside your body, it was thus spent, failing to lacerate your intestines, instead a cyst forms, eventually encapsulating this foreign object. As nestling into the fatty tissue of the mesentery (the folds this takes place, you contract a Minor Infection. attaching the intestines to the abdominal wall). No Extraction is necessary or advisable.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Collapsed Lung. You take the bullet high on your chest, near Gain Fatigued (2). Because it\u2019s only a rather minor the shoulder. It punctures one of your lungs near its top, pneumothorax you\u2019ll remove one Fatigued Condition each causing it to partly collapse as air and blood leaks into the week spontaneously as the lung inflates itself back again. pleural space. You start feeling short of breath. Surgery (Difficult) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cracked Breastbone. The bullet hits you square in the You suffer a Broken Bone (Minor). sternum, cracking it. As this is the bone basically connecting all your ribs together both breathing and moving just got a lot No Extraction is necessary, as the bullet is lodged just under harder and more painful.                                        the skin close enough to the entry wound to allow even a clod like you to easily push it out.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Gut Shot! The bullet pierces your small intestine, causing Gain Stunned (2). You also contract Blood Rot. fecal matter to spill into your abdominal cavity. It\u2019ll take a strong constitution to survive such a wound!                   No Extraction is necessary or advisable.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Internal Bleeding. The bullet punches through some lower            Gain Bleeding (1) which can only be removed through ribs to lacerate either your liver or your spleen, depending        Surgery. on which side you got hit in. This is very serious, as any injury   Because the spleen is an important part of your immune to either of those organs can cause massive and fatal blood         system there is a 50% chance you\u2019ll lose the Resistance loss.                                                               (Disease) Talent, if you have it.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Major Chest Wound. One lung completely collapses as the             Gain Fatigued (3) and Bleeding (2). For healing purposes, bullet tears straight through your chest, exiting close to          count as Torn Muscle (Major), with partial healing reducing the spine. The resulting blood loss and acute respiratory           your Conditions from Fatigued (3) to Fatigued (1) which will distress brightens your foe\u2019s whole day!                            be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Kidney Injury. Going in just under the lower ribs, the bullet Gain Stunned (1) and Bleeding (3), the latter of which shreds one of your kidneys. This results in massive blood requires Surgery to remove. loss as the kidney\u2019s job is to filtrate your entire blood volume over and over again. You\u2019ll be emptied out in no time!           Surgery (Very Hard) is required for Extraction, which will count as resolving an internal issue due to the bullet being lodged inside a body cavity.*",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 110,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Spinal Column Severed. You\u2019ll have a hard time explaining Both legs are paralyzed \u2013 Amputation (Hard). the wound to your back but there it is\u2026a cleanly severed spinal cord, its protective vertebral column also pretty much Surgery (Hard) is required for Extraction. trashed. Your legs won\u2019t obey you anymore.",
+      "effects": []
+    },
+    {
+      "min": 111,
+      "max": 115,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Gutted! The bullet, having the temerity to deform and               Nope\u2026not really something a surgeon can fix! Really. flatten out for maximum tissue damage, tears through your           Maybe a magician or a priestess of Shallya? abdominal cavity one side to the other, making a spectacular exit hole through which your torn-up intestines start spilling.     The only thing that can save your life is a spell or prayer** Yuck!                                                               within your Toughness Bonus turns, in which case you\u2019ll live but gain Fatigued (4). Otherwise you\u2019ll perish.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Heartbreak! A well-aimed shot indeed! Why, you would You find yourself heartless\u2026Heartbroken? Well, in any case be very impressed with your opponent if you weren\u2019t so deceased. thoroughly dead from the ruptured heart and severed pulmonary veins!",
+      "effects": []
+    }
+  ]
+}

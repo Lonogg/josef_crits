@@ -1,0 +1,176 @@
+{
+  "damageType": "cutting",
+  "location": "leg",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Damaged Shoe. You barely get your foot out of the way as You suffer a -10 penalty on any Agility Test you do your your enemy\u2019s blade takes off the tip of your footwear.   next turn. If you\u2019re not wearing any footwear the penalty becomes -20.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Shin Hit. Your foe misses taking off your foot but the You must pass an Average (+20) Endurance Test or suffer a backswing catches your shin with the flat of the blade. There -10 penalty to all Agility Tests for the next 1d10 turns. is much cursing.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Calf Wound. A slash to the side of your leg gives you a For the rest of the encounter you suffer a -1 penalty to your shallow cut on the calf, weakening your stance.         M and a -10 penalty to all Agility Tests.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Minor Cut. Your opponent\u2019s blade lays open your leg, causing Gain Bleeding (1). blood to flow freely.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hip Strike. Though it fails to cut deeply, this solid strike Pass a Challenging (+0) Athletics Test or go Prone. For the nevertheless unbalances you badly.                           rest of the encounter you also suffer a -1 penalty to your M.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Lacerated Foot. Your foe sees an opening and slashes open a Gain Bleeding (1). For the rest of the encounter you suffer carelessly exposed foot. You really need to practice your foot a -1 penalty to your M. After the encounter you must work to avoid this sort of thing!                              pass a Challenging (+0) Endurance Test or lose one toe \u2013 Amputation (Average).",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Hewn-Open Thigh. Your enemy\u2019s blade lays open your thigh Gain Bleeding (2). Luckily the cut went along the grain lengthwise nearly to the bone. Although it misses the femoral of your thigh muscles rather than across, so most of your artery blood still gushes out in copious amounts.             muscle fibers are quite intact.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lacerated Hamstrings. Your wily opponent manages to hook You suffer a Torn Muscle (Minor) and must pass a his weapon around your leg and slashes open the back of Challenging (+0) Athletics Test or go Prone. your thigh, lacerating the muscles and tendons above the back of the knee.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cut To The Knee. A most ungentlemanly blow takes bone- You gain Prone, Stunned (1) and suffer a Broken Bone chips out of your knee-joint and clips your kneecap. Your leg (Minor). crumples underneath you.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "This Little Piggy. One or more toes go flying, possibly in the You lose one toe \u2013 Amputation (Challenging), with one direction of the market\u2026                                       additional toe lost for each full -2 SL levels of failure to the Endurance Test.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cracked Shin. With a resounding crack your tibia is cut in You gain Prone, Stunned (2) and Bleeding (1), also suffering half, leaving you unable to support yourself on that leg as a Broken Bone (Major). splintered bone ends grind against each other.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Severed Achilles Tendon. A sickening snap is heard as the Gain Prone and Stunned (2). The leg is useless for 30 minus major tendon behind your ankle is cut, crippling your use of your Toughness Bonus days (see under Amputated Parts), that foot.                                                   after which you halve your M (round up) permanently as the ends of the tendon have shriveled up without reconnecting properly. If you receive Surgery within a week of receiving the injury the M penalty is reduced to -1 after an additional",
+      "effects": []
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "severity": "your",
+      "wounds": "your",
+      "description": "Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Severed Hamstrings. A brutal draw-cut to the back of your Gain Prone and Bleeding (2). Also suffer a Torn Muscle knee severs major tendons and muscles, crippling your leg. (Major). Your leg is useless (see Amputated Parts) until the Torn Muscle has completely healed.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Groin Slash. Everyone witnessing your calamity winces as Gain Bleeding (2) and Stunned (3). If male, you may find your foe lands one in a most uncomfortable region, which yourself having problems procreating. also happens to be the home of several large blood vessels, adding severe bleeding to your misfortune.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Femoral Artery. A slash to the inside of your thigh cuts the Gain Bleeding (3). If you fail a Challenging (+0) Endurance femoral artery, resulting in some truly spectacular arterial Test you\u2019re also unlucky enough to have had the artery spurting.                                                    severed high enough that an ordinary tourniquet is useless, in which case Surgery (and a long clamp) is necessary to remove the Bleeding Condition.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Wrecked Knee. Your opponent\u2019s weapon cleaves through Gain Bleeding (2), Prone and Stunned (2). For healing your knee, shattering bone and ligaments, wrecking the joint purposes it counts as a Broken Bone (Major), except even thoroughly. You\u2019ll never dance again!                        when healed you suffer a permanent halved M (round up) and -20 to your Agility for any Tests requiring use of the leg.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Heel! Your foe\u2019s blade removes a large part of the rear of Gain Stunned (1). You also effectively lose your foot \u2013 your foot. What remains is sadly a very unstable platform to Amputation (Average), as too little of it remains to function stand on.                                                    properly.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Foot. Your foot goes to the great shoe store in the Gain Bleeding (2) and Stunned (2). Also, lose your foot \u2013 sky, departing the rest of your lower extremity in a spray of Amputation (Challenging). blood.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Call Me Stumpy. Your foe cleaves through your leg, severing Gain Bleeding (3) and Stunned (3). Also, lose your leg \u2013 it below the knee. You consider getting a peg leg.          Amputation (Hard).",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Timber! Your leg is completely or mostly severed at the thigh You are not merely one leg the poorer but also quite dead. near the hip, the blade possibly even continuing its path into the other leg as well. Regardless, the shock and huge loss of blood quickly sends you to Morr\u2019s realm.",
+      "effects": []
+    }
+  ]
+}

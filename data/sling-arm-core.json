@@ -1,0 +1,168 @@
+{
+  "damageType": "sling",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Finger Whack! The projectile whacks your fingers, causing Pass an Easy (+40) Endurance Test or drop whatever you you to yelp loudly!                                       held in that hand.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Scraped Hand. The sling bullet glances off the back of your You suffer a penalty of -20 to your next rolled Test using that hand, leaving scraped skin.                                 arm.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Arm. The projectile bounces off your upper arm, You suffer a Torn Muscle (Minor), except it heals in a quarter leaving an ugly bruise.                                 (round up) of the normal time.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Funny-Bone Injury. Your ulnar nerve at the elbow is smacked You drop anything held in that hand, and the arm is useless for by a hard-flung projectile, causing your hand to spasm.     the next 1d10/2 turns (as in Amputated Parts but temporary).",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Sprained Finger. The projectile catches the edge of your       Your hand is useless (although you don\u2019t drop anything hand, leaving one finger unnaturally bent. Fortunately the     held in it) until you pass a Challenging (+0) Endurance Test, bone is intact, requiring merely someone to yank the abused    rolling at the start of each of your subsequent turns. One finger back in place.                                          finger remains useless (see under Amputated Parts) until the end of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Battered Wrist. The projectile smashes into your wrist, You suffer a Torn Muscle (Minor) and need to pass a spalling a few bone fragments from the head of the long ulna Challenging (+0) Endurance Test or drop anything held in bone in your forearm. Although severely bruised and painful, that hand. your wrist remains basically intact.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cracked Collarbone. The projectile clips and cracks your Any time you want to use the arm for an Action during the clavicle. The fracture is stable but far from painless!  rest of the encounter you must first pass an Average (+20) Cool or Endurance Test. Failure means you lose the Action. (You can still roll for Opposed Melee Tests as the defender, as necessity trumps discomfort.)",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Broken Fingers. The projectile fractures phalangeal bones in Two fingers will be useless (see under Amputated Parts) until two of your fingers, leaving them bent and twisted.          the bones have set, which will take 30 minus your Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Fractured Shoulder. You take a hard hit on the roof of You suffer a Torn Muscle (Major). If you keep your arm your shoulder, breaking the acromion process, with its immobilized and in a sling the whole time it\u2019ll heal in half the attachments to various tendons and muscles. Though it\u2019ll normal time. heal you\u2019ll probably be bothered with aches and a stiff shoulder, leaving you plenty of reason to curse your dastardly foe in your old age.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Wrist. The hard-flung projectile breaks your wrist, You suffer a Broken Bone (Minor). snapping the head of the radius bone, leaving your hand at an odd angle.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Snapped Forearm Bone. The sling bullet snaps the long ulna You gain Stunned (1) and suffer a Broken Bone (Minor). bone in your forearm near your elbow. The other long bone, the radius, makes sure your arm stays straight but hardly in any condition to be used.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Humerus. The projectile manages to hit you in the       You gain Stunned (2) and suffer a Broken Bone (Minor). Also, groove between the biceps and triceps muscles on the side      until you\u2019ve spent an Action (using your other arm) sticking of your upper arm. Less protected by sheaths of muscle at      the broken limb into an improvised mitella or otherwise that location, your upper arm bone cracks. Your arm drops      accomplished some sort of makeshift immobilization limply at your side!                                           (like tucking it into your belt), the dangling extremity will unbalance and discomfort you enough for a -20 penalty to all Agility Tests.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Broken Hand. Your hand takes a hit right in the palm, breaking You gain Stunned (2) and suffer a Broken Bone (Minor), several metacarpal bones.                                      except any Tests for long-term penalties automatically fail. If the projectile was a Lead Bullet you also gain Bleeding (1) as the almond-shaped slug burrowed through your palm all the way to the wrist!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Broken Elbow. Your elbow gets crushed! The head of at You gain Stunned (2) and suffer a Broken Bone (Major). least one of the long bones snap off and turn the joint into a disaster site!",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Hand. The speeding projectile wrecks your hand,      Gain Stunned (2). You suffer a Broken Bone (Major), except smashing both metacarpal and carpal bones, ripping apart       any Tests for long-term penalties automatically fail. Also, you tendons and nerves. Any potential career with the violin       permanently lose function in 1d10/5 plus one fingers (see ends here and now\u2026                                             under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Fractured Forearm. The sling bullet snaps your forearm near         Gain Stunned (3). The hand is useless (see under Amputated the wrist, both the ulna and the radius breaking into multiple      Parts), but if you receive Surgery within one week it\u2019ll count fragments. With all the nerves and tendons that just got            as a Broken Bone (Major) instead, except all Tests for long- disrupted it\u2019s unlikely you\u2019ll regain full function in your hand.   term penalties automatically fail.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Nerve Damage. The sling bullet smashes through your Gain Stunned (3). Your arm is permanently useless (see collarbone, then batters the brachial nerve plexus, aided under Amputated Parts). further by fragments from the shattered collarbone. Your arm is paralyzed from the shoulder down.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Open Fracture. Your elbow gets hit hard, the head of the            Gain Stunned (3) and Bleeding (2). The arm is useless (see upper arm bone breaking into at least three pieces, with both       under Amputated Parts). Surgery will be required within one the medial and lateral epicondyles going separate ways.             week to amputate above the elbow, or you\u2019ll contract Blood Sharp bone fragments tear out from the skin, creating an            Rot as gangrene sets in. open complicated fracture!",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Internal Bleeding. The projectile crashes into the inside of You gain Stunned (2) and Bleeding (3), the latter of which can your upper arm near the armpit. The humerus (the long bone only be removed through Surgery. Should you survive you\u2019ll in the upper arm) cracks lengthwise into several fragments, also have Broken Bone (Major). resulting in long shards of sharp bone that tear through the surrounding soft tissues. One such bony knife rips through your brachial artery, causing massive internal bleeding!",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Arterial Disaster! Whether your opponent managed to Wow\u2026you actually got killed by getting hit in the arm by a pick a particularly sharp sling stone or used one of them thrown stone! Didn\u2019t see that one coming, did ya? newfangled lead bullets, he sure knew how to throw fast and hard! Either the projectile itself or a bone fragment from your shattered shoulder tears through your subclavian artery, causing massive internal hemorrhaging! Your consciousness and life quickly seeps away\u2026",
+      "effects": []
+    }
+  ]
+}

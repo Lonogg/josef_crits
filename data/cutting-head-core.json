@@ -1,0 +1,168 @@
+{
+  "damageType": "cutting",
+  "location": "head",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Heroic Scar. A pink to the cheek, resulting in a classical Once healed, the scar provides a bonus of +1 SL in appropriate dueling scar once healed, making you look very dashing social Tests. You can only gain this benefit once. indeed.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Clipped Ear. An earlobe or small section of your ear is severed Gain Deafened (2). or left dangling by a thread.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Glancing Blow. Your headgear goes flying or is dislodged as If this location is unarmored you gain Stunned (1). A Leather your foe\u2019s blade barely misses taking a chunk of your skull Skullcap or Open Helm is dropped. A Mail Coif or Helm cause with it.                                                    Blinded (2), except you can negate it immediately by using a single Action to adjust it back to its proper position. If wearing layered Flexible armor only the outermost armor is affected.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Slash Across The Forehead. Blood pours down your face and Gain Bleeding (1). Also, you gain Blinded (2) until the bleeding flows into your eyes. Very inconvenient!                  Condition is removed.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Nicked Vein. A vein in your neck is nicked, causing heavy Gain Bleeding (2). bleeding but fortunately missing the carotid artery.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Chipped Brain Pan. Your scalp is cut, the blade going deep Gain Stunned (2). enough to chip your skull. Your bell is well and truly rung!",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Severed Ear. One of your ears is completely removed, Gain Deafened (3) and Bleeding (1). Lose an ear - Amputation providing you with an unsightly hole in the side of your head (Average). rather than a proper hearing organ.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Facial Wound. Your head is whipped around by a slash Gain Stunned (2). Also, you must pass an Average (+20) across the face. Whether across the bridge of your nose, Endurance Test or gain Prone. cheek bone or chin, it sends a spray of blood across a wide arc, spattering your opponent liberally with your precious bodily fluids.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Flapping Cheek. A sloppily aimed blow leaves your cheek Gain Stunned (2). Also, your face is now quite hideous, dangling and flapping, exposing teeth and tongue. You\u2019re a reducing your Fellowship Characteristic by -10. Successful frightful sight!                                           use of Heal skill will reduce the loss to -5 by means of crude stitching, while Surgery will realign the jigsaw-puzzle that is your face well enough to negate any loss.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Cleft Jaw. A slash to the side of your head leaves teeth visible   Gain Stunned (2). Lose 1d10 teeth \u2013 Amputation (Challenging), through a gaping cut in your cheek, and cuts through the           plus suffer a Broken Bone (Major). Also, your lower jaw is mandibular bone on that side, severing it near the hinge that      now disturbingly unstable and so distracting that you suffer is your temporomandibular joint.                                   an additional -20 penalty to all Tests until you take an Action to stuff your beard, handkerchief or other suitable article into your mouth to bite down on in order to hold your jaw in place.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Damaged Eye. You take a cut across one eyelid, also injuring Gain Blinded (2), which cannot be removed until you have the eye beneath, causing excruciating pain.                  had Medical Attention. Also, you must pass a Hard (-20) Endurance Test or drop what you have in your primary hand to clap it to the injury. If unsuccessful, you may attempt another Average (+0) Endurance Test at the beginning of each of your next turns to remove the hand and use it normally again.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Injured Trachea. You barely avoid getting beheaded but your        Gain Bleeding (1) and Fatigued (2), the latter of which lasts foe\u2019s blade still nicks your trachea and takes a piece out of      until you have had Medical Attention to plug the hole. Also, your Adam\u2019s apple, giving you a small but disturbing extra         gain Broken Bone (Minor) as the injury also makes it difficult smile and making amusing whistling noises as air passes in         to talk properly and eating solid food comfortably until healed. and out through the hole.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Disfigurement. Your foe\u2019s blade bisects your face diagonally, Gain Stunned (3) and Prone. Also lose your nose \u2013 Amputation removing the major part of your nose as well as chunks of lip (Challenging), except a Gilded Nose cannot reduce the and part of one eyelid, leaving you horribly disfigured.      resulting Fellowship Characteristic loss as the scarring is too extensive.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Neck Injury. You take your foe\u2019s blade to the back of your Gain Bleeding (2). Also suffer a Torn Muscle (Major) which neck, not deep enough for serious spinal damage but still will affect all physical actions and Tests until your neck leaving your noggin\u2019 less attached than previously.        muscles have knitted back together well enough to stabilize your head.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Blinded. Your dastardly foe slashes you across the eyes, Gain Stunned (2) and Blinded (3), the latter of which will last cutting through the bridge of your nose and lacerating your until have had Medical Attention. After the encounter, make eyelids. Highly unsporting of him!                          an Easy (+40) Endurance Test for each eye or lose that eye (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Spurting Wound. Your foe lodges his blade in the angle Gain Bleeding (3). Also, until you\u2019ve had Surgery, even after between your neck and shoulder, failing in his desire to all Bleeding Conditions are removed, any Critical Hit to Head cleave you to the sternum but still damaging a major blood or Body will inflict a new Bleeding (1) as the wound reopens. vessel, causing a spurting arterial spray of blood.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Tongue. You take one straight in the mouth, losing Gain Prone, Stunned (3) and Bleeding (2). Lose tongue and tongue, many teeth and possibly a bit of jawbone, looking like 2d10 teeth \u2013 Amputation (Average). someone tried to give you a Glasgow Grin but became a little too enthusiastic with the slicing.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Lost Eye. The blow splits one side of your face from eyebrow Gain Prone, Stunned (3) and Bleeding (1). Lose one eye and down to the corner of the mouth, crumpling one side of your d10/2 teeth \u2013 Amputation (Hard). upper jaw. A glass eye and some wooden teeth may be in order!",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Split Skull. Your skull is cleft, causing a cerebral hemorrhage Pass a Very Hard (-30) Endurance Test to avoid gaining the as the blade sinks into the softness beneath, stopping just Unconscious Condition; otherwise gain Prone. If the Test was short of lobotomizing you.                                      an Impressive Failure (-4 SL or more) you gain Blood Rot due to resulting meningitis; otherwise you gain a Minor Infection. Also gain Broken Bone (Minor) and Fatigued (2), the latter of which will last until the bone has set.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Decapitation. Your head goes flying 1d10/5 yards; if the roll You are very much deceased. amounts to zero yards your head still remains attached but not by much. For extra amusement value, there are also optional \u201cApple Splitter\u201d versions in which the cut passes through a line somewhere above the neck but with otherwise similar results.",
+      "effects": []
+    }
+  ]
+}

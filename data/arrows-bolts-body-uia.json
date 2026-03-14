@@ -1,0 +1,168 @@
+{
+  "damageType": "arrows-bolts",
+  "location": "body",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Torn Clothing. An item of clothing or other gear cops it as the A pouch or pocket containing coins or other items is ripped arrow whizzes past.                                             open, or the cord of a medallion gets severed, a document gets torn\u2026other players may make suggestions but the GM decides! Just go for funny and annoying!",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Just A Graze! The arrow zips down your flank, leaving some Your next Action may not be an attack. torn skin and a spot of blood. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Sliced Rib. The arrowhead digs a furrow along one of your You take a -20 penalty to your next rolled Test. ribs, taking away a strip of flesh. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Thunk! The arrow is deflected or stopped by a belt buckle, You go Prone. If, for some unfathomable reason, you went scabbard or other item. It still delivers a good punch with all into battle naked you instead gain Bleeding (1). its kinetic energy transferred to your poor bruised self. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Whack! The arrow clips your shoulder, the shaft smacking You miss your next Action and gain Deafened (2). you on the side of your head as it whirls off into the distance. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Flank. The arrowhead enters and exits your flank, Gain Bleeding (1). Until the arrow is Extracted you\u2019ll suffer a leaving the shaft embedded in your side with the ends -10 penalty to any physical Tests. protruding front and back. Fortunately it\u2019s only stuck in the flesh and muscle of the abdominal wall, not having actually Extraction is easy, requiring only two hands and a full penetrated into the abdominal cavity.                            Action to snap and withdraw the shaft. The Heal skill is not necessary but if you lack it you must first pass an Average (+20) Cool Test to take the Action.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Hip Strike. The arrowhead embeds itself in the bony iliac Pass a Challenging (+0) Endurance Test or gain Stunned (1). crest of your hip, causing a minor fracture to the ilium bone Regardless you\u2019ll suffer a -1 penalty to your M, which will of the pelvis. Although painful every time you put your weight last until the bone has mended in 30 minus your Toughness on the leg on that side, it\u2019ll heal of itself in time.           Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Pectoral. The arrow nails one of your pectoral          Roll randomly for side, left or right. Until the arrow is Extracted muscles to your ribcage. Because your impressive pecs are       you\u2019ll suffer a penalty of -2 to your Strength Bonus and -20 to a vital part of your shoulder musculature you\u2019ll find it both   all other physically demanding Tests using that arm. painful and difficult to perform those heroic mighty swings needed to vanquish your foes.                                   Extraction will be Challenging (+0). If performed during an ongoing combat encounter it\u2019ll require two hands and a full Action.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Fractured Sternum. The arrow hits you straight on the You gain Fatigued (1), which will last for one week. breastbone, cracking it but failing to penetrate. Because the sternum is the structure connecting your ribs together you No Extraction is necessary as the penetration is very shallow suddenly find those deep breaths somewhat painful.              and the cracked bone does not grip the arrowhead. Just pluck it out!",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Punctured Abdomen. The arrowhead slices through flesh, Gain Stunned (2). Pass a Challenging (+0) Endurance Test or fat and muscle, penetrating into your abdominal cavity. go Prone. You also must pass a Hard (-20) Endurance Test or Fortunately its force was then spent and it failed to lacerate contract a Festering Wound. any of the organs there. Still, that\u2019s an infection waiting to happen!                                                         Extraction will be Difficult (-10), and as long as the arrow remains you\u2019ll suffer a penalty of -10 to any Endurance Tests required by the Infection.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Damaged Lung. The arrow hits you high in the chest, Gain Fatigued (2). Because it\u2019s only a rather minor puncturing the top of one lung, which partly collapses as air pneumothorax you\u2019ll remove one Fatigued Condition each and blood leak into the pleural space. You find yourself out of week spontaneously as the lung inflates itself back again. breath and coughing blood! Surgery (Difficult) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Pierced Bladder. The arrow hits low, between navel and           Gain Stunned (2). Fortunately for you, urine is mostly sterile groin. You\u2019re horrified to see urine start trickling down the    so you only contract a Minor Infection. Also, until the wound shaft. Your bladder was just pierced! A faint unmistakable       has closed in a week or so you are prone to leaking, which reek reaches your nostrils as you realize what has just          reduces your Fellowship by -10 whenever you are near happened.                                                        anyone with a sense of smell.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Internal Bleeding. The arrowhead goes in between a pair of       Gain Bleeding (1) which can only be removed through floating ribs and lacerates either your liver or your spleen,    Surgery. depending on whether your right or left side was turned          Because the spleen is an important part of your immune towards your arrow-slinging foe. These organs are rich in        system there is a 50% chance you\u2019ll lose the Resistance blood vessels and the ensuing internal bleeding will soon        (Disease) Talent, if you have it. become a very serious matter! Surgery (Difficult) will be required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lacerated Intestine. You take the arrow in the gut! The Gain Stunned (2) and Prone. Also, you contract Blood Rot. smell from the wound becomes clearly identifiable as fecal You can\u2019t recover 3 of your lost Wounds instead of the usual matter spill into your abdominal cavity. Peritonitis is already 1 Wound until the arrow is Extracted. knocking on your door! Surgery (Hard) will be required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Pneumothorax. The arrow punches into one side of your Gain Fatigued (3) and Prone. For healing purposes, count chest, missing the heart but tearing up one of your lungs as Torn Muscle (Major), with partial healing reducing your which collapses completely. Blood dribbles from your mouth Conditions from Fatigued (3) to Fatigued (1) which will be as you try to draw breath!                                      removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Major Chest Wound. The arrowhead narrowly misses your            Gain Fatigued (3) and Prone. For healing purposes, count heart, instead tearing through the bronchi and major blood       as Torn Muscle (Major) with partial healing reducing your vessels leading to the right lung, before ripping through that   Conditions from Fatigued (3) to Fatigued (2) which sadly will lung and coming out through your back right next to the          be permanent. spine. You\u2019ll just have to learn to live with only one lung\u2026 Extraction will be Difficult (-10) but at least you don\u2019t have to worry about causing further damage as that side of your chest is already pretty much wrecked.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Punctured Kidney. The arrow punches through one of your Gain Stunned (1) and Bleeding (3), the latter of which cannot floating ribs to lacerate a kidney. This results in massive be removed without Surgery. blood loss as the kidney\u2019s job is to filtrate your entire blood volume over and over again. You\u2019ll run out of blood in no time! Surgery (Very Hard) is required for Extraction, which will count as resolving an internal issue due to the arrowhead having ended up so deep inside a body cavity.*",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 110,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Spinal Cord Damage. The arrow slams into your lower back, Both your legs are now paralyzed and useless (see under penetrating deep enough to sever your lumbar spinal cord. Amputated Parts). Needless to say, you are now also Prone. Your legs collapse underneath you and you can no longer even feel them! A tragic fate for an up-and-coming hero!        Surgery (Difficult) will be required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 111,
+      "max": 115,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Massive Abdominal Trauma! You are bent slightly forward as Pass a Challenging (+0) Endurance Test or expire on the the arrow hits, possibly in the process of trying to duck. This spot from shock. Otherwise you\u2019ll live another Toughness only means the projectile now goes through your body the Bonus days before dying from any number of complications long way! It enters near your solar plexus, then rips through involving respiratory distress, peritonitis and blood your stomach sac, the thoracic diaphragm, the large and loss, being effectively helpless and sliding in and out of small intestine, and finally stops when it slams into the bones unconsciousness the whole time. If you receive magical of your sacrum. To say that it caused a bit of a mess is not an healing** before that you\u2019ll survive but will have contracted understatement!                                                 Blood Rot and a permanent state of being Fatigued (2).",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Transfixed Heart! The arrow cleanly transfixes your heart, What part of \u201ckilling you pretty much instantly\u201d and \u201cinstant killing you pretty much instantly. A most impressive instant kill shot\u201d didn\u2019t you understand? kill shot!",
+      "effects": []
+    }
+  ]
+}

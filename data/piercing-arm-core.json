@@ -1,0 +1,168 @@
+{
+  "damageType": "piercing",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "A Close Shave. Your enemy\u2019s weapon splits a couple of the You must pass a Challenging (+0) Cool Test or suffer a hairs on the back of your hand.                           penalty of -10 to your next rolled Test as you stare at the offending hairs.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Slashed Hand. The tip of your foe\u2019s weapon slashes across You must pass a Challenging (+0) Endurance Test or drop the back of your hand. All the important tendons survive but whatever you held in that hand. Even if you succeed you may you lose your grip on whatever you held in that hand as you not use that hand to attack as your next Action. yank it away.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Sliced Skin. A poorly aimed swipe still parts skin, leaving You suffer a penalty of -10 to all Tests using that arm until you glistening muscle tissue and tendons exposed and twitching. pass an Average (+20) Cool Test. An unnerving sight!",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pricked Bicep. A stab to your upper arm parts muscle fibers, You suffer a Torn Muscle (Minor). weakening the limb.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Deltoid. A quick thrust to the upper part of your arm You suffer a Torn Muscle (Minor). Also, gain Bleeding (1) and damages the deltoid muscle and causes your hand to spasm pass a Hard (-20) Endurance Test to avoid dropping whatever as the large nerve descending from the brachial plexus is you held in that hand. temporarily stunned from the blow.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Injured Hand. Your foe\u2019s well-aimed weapon drives into the For the rest of the encounter, at the beginning of each of your meat of your palm, causing leaking blood to make your grip turns, roll 1d10/2 and subtract one. Then treat the hand as unreliably slippery.                                       having lost that many fingers (see under Amputated Parts) during that turn only.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Perforated Muscle. Your enemy rams his weapon clear You suffer a Torn Muscle (Major). through your upper arm, piercing cleanly through one of the large muscles.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Shoulder. Your foe stabs into your shoulder, his You suffer a Torn Muscle (Minor) and gain Bleeding (2). weapon grinding against bone as it goes in.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lost Finger. A thrust to the hand wrecks a finger joint or You lose 1d10/5 fingers \u2013 Amputation (Easy). two. Either that or it severs several of the tendons inside the hand controlling the fingers. Regardless, you lose all finger function, whether the finger in question stays attached or is now rolling on the ground.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Stab To The Inside Of The Elbow. Your enemy\u2019s weapon sinks You suffer a Torn Muscle (Major) and gain Bleeding (2). into the soft tissues on the inside of the elbow\u2026you know, the large artery and important nerves and stuff? Those soft tissues?",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Impaled Hand. Your opponent cleanly spits either your hand Your hand is useless (see under Amputated Parts). For or your wrist on the end of his weapon. Ouch!              healing purposes it counts as a Broken Bone (Minor) except you automatically fail any test for long-term effects.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Pierced Forearm. Your lower arm is impaled, the weapon You gain Stunned (2) and Bleeding (1). You hand is useless for passing between the radius and the ulna (the two long bones the rest of the encounter (see under Amputated Parts) and in the forearm). Luckily for you, the edges of the weapon you also suffer a Torn Muscle (Minor). passed between most of the nerves and blood vessels on its path, rather than severing them.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ripped-Up Arm. The tip of your merciless enemy\u2019s weapon You gain Stunned (2) and Bleeding (2). Your arm is useless for drives into the biceps muscle near your elbow, ramming the rest of the encounter and you also suffer a Torn Muscle deep and then tearing a path up along the bone almost all the (Major) except only partial healing is possible without way to your shoulder. It opens up a long, deep and hideous Surgery. gash along the length of your upper arm. Horrid!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Split Elbow. Your foe\u2019s weapon slams into your elbow, You gain Stunned (2) and suffer a Broken Bone (Major). severing the head of one of the long bones making up the joint and effectively jamming the whole elbow. Painful!",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Clipped Lung. Your opponent thrusts deep into your shoulder, Gain Fatigued (2). Because it\u2019s only a rather minor his weapon going in under the collar bone, clipping the top of pneumothorax you\u2019ll remove one Fatigued Condition each your lung which partly collapses. You find yourself suddenly week spontaneously as the lung inflates itself back again. short of breath.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruined Hand. Your adversary messily impales your hand, and Roll 1d10. If the result is 5 or more, you lose the entire hand, not in a nice way. Rather than slipping between them, the otherwise that is how many fingers you lose. Amputation edges of his point split most of the metatarsals making up the (Average). palm of your hand in half, taking with them every tendon and nerve controlling your fingers.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severe Shoulder Injury. Your foe drives his weapon clean     Gain Stunned (3) and Bleeding (2). Your arm is useless. If your through your shoulder, wrecking joint, muscles, nerves       receive Surgery within a week it\u2019ll count as a Torn Muscle and blood vessels on its path before being stopped by your   (Major) except only partial healing is possible; otherwise the shoulder blade.                                              arm remains useless (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Wrecked Forearm. Your brutal antagonist\u2019s weapon impales Gain Stunned (3) and Bleeding (3). You lose your hand \u2013 your forearm, severing the long radius bone as well as Amputation (Challenging). important blood vessels and nerves. The remaining long bone, the fibula, then also snaps as your opponent yanks out his weapon with a cruel twist of his wrist. This leaves half your lower arm dangling while the blood spurts. Very distressing!",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Stabbed In The Armpit! Your sneaky nemesis manages Gain Stunned (2) and Bleeding (3), the latter of which requires to slam his weapon in under your arm, severing the large Surgery to remove. Should you fail to bleed to death the arm brachial artery. Have you made your peace with Morr?     will remain useless due to a wrecked brachial nerve plexus (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Shish Kebab! Your triumphant enemy\u2019s weapon enters You expire with a whimper, spitted like a lamb but not nearly through or under your shoulder, driving deep into your as cute. body, impaling heart and lungs. The crimson deluge as he withdraws his weapon is most impressive!",
+      "effects": []
+    }
+  ]
+}

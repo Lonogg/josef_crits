@@ -1,0 +1,168 @@
+{
+  "damageType": "bullets",
+  "location": "leg",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "That Was Close! You look down and see a bullet-sized hole You need to pass a Challenging (+0) Cool Test or lose your through the loose fabric at your crotch.                  next Action.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Torn-Off Heel. The bullet grazes the ground, passing You need to pass an Average (+20) Athletics Test or gain underneath your foot and tearing off the heel of your Prone. Also, your shoe/boot/whatever is ruined. footwear.                                             If you were barefoot, lose one extra Wound as the bullet grazes your sole.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Graze. The bullet scrapes your leg, causing a small but You suffer a penalty of -10 to all tests until the end of your painful injury.                                         next Turn.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Unfortunate Ricochet! The bullet actually hit the ground You gain Bleeding (1). in front of you, where it ricocheted and deformed into a spinning disk of lead that slashed your calf as it whirred past No Extraction is necessary. you.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Malleolus Mash. The bullet whacks either the lateral or You suffer a penalty of -1 to your M and -10 to Agility for the medial malleolus of your ankle, causing pain to shoot up your rest of the encounter. leg. As this battered bony protuberance is the anchoring point of several tendons of the ankle joint, this is effectively No Extraction is necessary. a sprained foot for you!",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Butt Shot! You get hit high on the leg\u2026very high. One of You miss your next Action as your eyes widen and you your buttocks now has two holes in it, one small, one slightly contemplate the nature of your new wound. You also suffer larger. Painful and embarrassing!                              a penalty of -1 to your M and -20 to your Agility for the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Hip injury. The bullet tears a red furrow along the bony iliac You gain Prone. crest on your hip. The impact spins you around and the strength of the leg fails you, sending you crashing to the No Extraction is necessary. ground.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Foot. The bullet penetrates your foot, breaking some Your M is halved (round up) and you suffer a -20 penalty of the metatarsal bones before exiting through the sole of to your Agility, lasting until healed. For healing purposes it the foot, leaving an ugly hole that you fortunately don\u2019t have counts as a Torn Muscle (Minor). to look at unless employing minor acrobatics. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Calf Wound. The bullet strikes the side of your lower leg, Gain Bleeding (1) and suffer a Torn Muscle (Minor). tearing through your gastrocnemius, the large muscle in the calf. The large exit wound is both unsightly and bloody.    No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Fractured Pelvis. The bullet hits the bony crest high on your   You gain Stunned (2). Also, you suffer a Broken Bone (Minor) hip, cracking the ilium bone of the pelvis. Although stable     except the only effect is halving your M (round up) and you the fracture is painful and leaves you unable to support your   automatically pass the Endurance Test against long-term weight properly on that leg.                                    effects.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Thigh Wound. The bullet bores through your thigh, creating Pass an Average (+20) Endurance Test or go Prone. Gain a gory wound canal just laterally of the femur, lodging Bleeding (2) and suffer a Torn Muscle (Minor). underneath the skin at the back of your leg. Surgery (Easy) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Femur. The bullet hammers into your thigh, piercing Gain Stunned (2), Bleeding (1) and Prone. Also suffer a flesh and muscle, then ricocheting off the long bone before Broken Bone (Minor). exiting off to one side in a spray of red. The bone cracks from the impact, sending you to the ground, groaning and cursing. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Hip Fracture. The bullet goes in near your hip, smacking You gain Prone and suffer a Broken Bone (Major). into the upper end of your thigh bone. The neck of the femur snaps. Setting a fracture like that is difficult work, with a Surgery (Hard) is required for Extraction. good chance of it healing crooked.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Wrecked Knee. Your foe kneecaps you, splintering your            You gain Stunned (2) and Prone. Also suffer a Broken patella and wrecking the cruciform ligaments anchoring the       Bone (Major), except all tests to avoid long-term effects bones of the lower leg to the upper. You\u2019ll live with either a   automatically fail. very stiff knee or a very unstable one, and you\u2019ll never dance again!                                                           Surgery (Average) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Shin. The bullet hits you square on the shin. The      You gain Prone, Stunned (2) and Bleeding (1). Also suffer resulting splintered mess leaves the lower end of your leg       a Broken Bone (Major) except all tests to avoid long-term dangling with sharp shards of bone poking out through the        effects are automatically failed. The open fracture also wound. An ugly complicated open fracture which cannot            causes you to contract a Festering Wound. possibly heal fully. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 105,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Severe Thigh Wound. The bullet slashes into your thigh,          Gain Bleeding (3). You also suffer a Torn Muscle (Major). deforming and causing a massive exit wound, leaving a great      Surgery will be required or the injury will heal only partially, flap of muscle that used to be a big part of your hamstrings     leaving you with a permanent penalty of -1 to M and -10 to dangling from the back of the leg.                               any Tests using that leg.",
+      "effects": []
+    },
+    {
+      "min": 106,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Wrecked Foot. The bullet enters your foot near the toes,         Gain Prone and Stunned (2). The foot is useless \u2013 Amputation then travels along the long metatarsal bones, ripping apart      (Difficult). tendons and blood vessels the whole way before deflecting        After the encounter you\u2019ll need to pass a Challenging (+0) upwards through the soft tissues to smash into the ankle,        Toughness Test to avoid having the foot go gangrenous, in shattering several tarsal bones. It finally exits near one of    which case you\u2019ll need Surgery (Average) to amputate the the malleolus prominences, having pretty much travelled the      foot within one week or you\u2019ll contract Blood Rot as the length of the foot, leaving nothing but ruin behind.             dead tissues poison your body.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Femoral Artery. The bullet tears through the flesh Gain Bleeding (3), which requires Surgery to remove. If you and muscle of your inner thigh, high up near the groin. The fail to bleed to death, you\u2019ll suffer a Torn Muscle (Major). femoral artery is torn, causing massive bleeding. A crimson fountain pumps rhythmically from the wound.                 Surgery (Hard) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Amputation Case! The bullet hits high on your hip, smashing      Gain Prone and Stunned (3). The leg is useless \u2013 Amputation in right between the lesser and greater trochanter               (Hard). protuberances near the head of the thigh bone, transforming it into a mess of splintered bone fragments. A complicated       After the encounter you\u2019ll need Surgery (Difficult) within a fracture like that will never heal and the dead bone fragments   week as the leg will have to be amputated at the hip or you\u2019ll will inevitably lead to infection and gangrene. The whole leg    contract Blood Rot as the extremity turns gangrenous. will have to come out! No Extraction is necessary, as any remaining bullet fragments not removed with the leg or coming out with the flood of pus won\u2019t really make much of a difference to your health.",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 126,
+      "severity": "D",
+      "wounds": "D",
+      "description": "A Right Mess! The bullet performs acrobatics in your Considering the current non-functionality of your various pelvic area, having entered through the hip. It ricochets lower body organs, you\u2019re probably best off dead anyway! back and forth between skeletal structures before taking an upward turn, ripping up through various organs like the bladder before hitting the lower part of the abdominal aorta at the bifurcation of the iliac vessels. Massive internal bleeding ensues, leading to rapid loss of blood pressure and consciousness followed by death.",
+      "effects": []
+    }
+  ]
+}

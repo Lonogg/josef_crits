@@ -1,0 +1,168 @@
+{
+  "damageType": "shrapnel-shot",
+  "location": "arm",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Graze. A fragment slices the skin on the back of your hand, You suffer a penalty of -10 to your next rolled Test using that stinging something fierce!                                  arm.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Jarred Hand. One of your knuckles is skinned as a shot Pass an Average (+20) Endurance Test to avoid dropping ricochets off it, causing your fingers to spasm.       anything held in that hand. If the item was held in both hands you may reroll once.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hot-Hot-Hot! A hot fragment embeds itself in your arm. A Until you have removed the fragment you suffer a penalty smell of burnt pork starts spreading as you wave your arm of -20 to any Tests using that arm. Removal requires nothing furiously to dislodge the offending metal.                more than the use of your other hand and a single Action to yank it out, no roll required.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Slashed Arm. Like a small deadly Frisbee, a sharp shard You suffer a Torn Muscle (Minor). slices into your upper arm, severing muscle fibers aplenty before spinning away.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bleeding Wound. Fragments pepper the inside of your elbow, Gain Bleeding (1) and suffer a Torn Muscle (Minor). damaging a blood vessel, sending strands of crimson flying any time you take a new swing.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Hand. A fiery piece of shrapnel slams into your hand,     Your hand is useless (see under Amputated Parts) until the lodging in the palm between a couple of the metacarpal            fragment has been removed, which requires an Average bones. Your hand won\u2019t work properly and the fragment is          (+20) Heal Test and the point of a dagger or some other uncomfortably hot!                                                suitable implement to dig it out. Afterwards, one of your fingers may be a little stiff but will work just fine if helpfully strapped to a functional neighboring digit.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Forearm Wound. Your forearm is badly torn by a hail of You suffer a Torn Muscle (Major). fragments or shot, leaving tendons, bone and twitching muscle visible.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lost Finger. Whatever you held in that hand is punched right Whatever you held in that hand goes flying 1d10/3 yards in out of your grip. When you look down at your hand one of a random direction. If the object was fragile it breaks rather your fingers is dangling by a small scrap of tissue.         than flies. You also lose one finger \u2013 Amputation (Easy).",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Severed Biceps. A whirling piece of hot metal severs most You suffer a Torn Muscle (Major) as well as a penalty of -2 of the top of your biceps, leaving the greater part of this big to your Strength Bonus for any attacks or actions using that muscle flopping down like a big useless lump under the skin arm. Unless you receive Surgery to stitch the ends together by your elbow.                                                  within one week a penalty to your Strength Bonus of -1 will be permanent even after the Torn Muscle has healed.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Smashed Wrist. A piece of shot smashes the head of the long You suffer a Broken Bone (Minor). radius bone by the wrist. Your hand is now bent at an odd angle and throbbing with pain.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Shredded Hand. Your hand takes the full brunt of the blast,       Drop anything held in that hand and suffer a Torn Muscle taking on the aspect of Morr\u2019s own hand. Tendons are sturdy       (Major). Although strictly speaking still able to flex and things but skin and flesh is shredded from bone! Although         extend your torn fingers, until at least partially healed you\u2019ll robbed of most sensation due to no longer having skin to feel     first have to pass a Difficult (-10) Cool or Endurance Test with, you are still very surprised to see your fingers curl and   (pick the worst) any time you wish to pick something up or flex at your command, tendons visibly stretching and pulling.     perform an Action using that hand, to be able to ignore the pain and surreal sensation of gripping with bare bone and twitching tendons!",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Torn Artery. A swarm of projectiles slices into the inside of Gain Bleeding (2) and suffer a Torn Muscle (Major). your upper arm, nicking the brachial artery and ripping up the triceps muscle. A discomforting amount of blood starts pouring from the tear in your arm.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Busted Humerus Bone. Two different heavy projectiles You suffer a Broken Bone (Major). smash into your upper arm, one cracking off the greater tubercle muscle attachment point near the shoulder, the other snapping the long body of the shaft halfway to the elbow. With your upper arm bone essentially in three pieces your poor upper extremity is in very poor shape!",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 109,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Did A Mole Just Hit Me? An enterprising projectile burrows        Gain Stunned (2) and Bleeding (2). Your arm is useless for through your upper arm the long way, entering near the            1d10 days (see under Amputated Parts) after which your elbow and taking a few twists and turns before exiting near       stunned brachial nerve recovers and you\u2019ll instead have a your armpit. Along the way, it makes a royal mess of various      Torn Muscle (Major). soft tissues and also dings your brachial nerve.",
+      "effects": []
+    },
+    {
+      "min": 110,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Jammed Elbow. A fragment wedges itself good inside your Gain Stunned (3). You also suffer a Broken Bone (Minor), elbow joint. Your arm is jammed in a painful position, half except it can\u2019t begin to heal until the fragment has been flexed and half extended. Every movement results in bolts of removed. Removal will require Surgery (Challenging). excruciating pain flashing up your arm.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Wrecked Hand. Fingers are sent flying as your hand explodes Roll 1d10/5 plus one for the number of fingers lost \u2013 from the impact of a tight grouping of multiple projectiles. You Amputation (Average). Gain Stunned (3) and Bleeding (1). stare in horror at the mangled mess at the end of your arm.      You also suffer a Broken Bone (Minor).",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Nerve Damage. Multiple fragments tear into your shoulder, Gain Stunned (3). Your arm is useless \u2013 Amputation one of them detouring up through the meat of your neck, (Challenging). shredding the brachial plexus. Your arm is instantly and irreversibly paralyzed from the shoulder down!",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 130,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Amputation Case! A hail of shot turns your arm into a grisly   Gain Stunned (3) and Bleeding (2). The arm is destroyed \u2013 minced mass of meat and fragmented bone. The lower             Amputation (Hard), and you\u2019ll need Surgery to amputate the part hangs from the upper by shreds of tendon and muscle,      remains within one week or you\u2019ll contract Blood Rot as leaving no choice but speedy amputation!                       gangrene sets in.",
+      "effects": []
+    },
+    {
+      "min": 131,
+      "max": 135,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Subclavian Artery. A piece of metal smashes in         Gain Stunned (2) and Bleeding (3), the latter of which can between the collarbone and upper ribs, ricocheting against     only be removed through Surgery. the inner surface of the shoulder blade before severing the    Should you fail to bleed to death you\u2019ll have a Broken Bone large subclavian artery branching off from the aorta to the    (Minor). arm. A pumping spray of bright red blood rises up from the wound in your shoulder near the neck!                          Unless the shrapnel is removed you\u2019ll be unable to recover one of your lost Wounds. Removal will require Surgery (Challenging).",
+      "effects": []
+    },
+    {
+      "min": 136,
+      "max": 136,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Blunderbuss Do Your Thing! The blast almost tears your You\u2019re quite perforated and very much a goner. shoulder off. Metal and bone fragments continue on to rip through your chest cavity, shredding your lungs and the large blood vessels connecting them to your heart.",
+      "effects": []
+    }
+  ]
+}

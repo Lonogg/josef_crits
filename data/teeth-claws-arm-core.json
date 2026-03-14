@@ -1,0 +1,168 @@
+{
+  "damageType": "teeth-claws",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Tug-Of-War. You wave your arm furiously to dislodge the Pass a Challenging (+0) Strength Test or you may not use monster that just got a grip on your sleeve/weapon/shield! that arm or anything held in it until the end of your next turn.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Raked Hand. Howling with primal bloodlust, your foe rakes You suffer a penalty of -10 to any Tests using that hand until your hand, leaving torn skin and bare flesh oozing red.   the end of your next turn.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Wrist Wound. Your hand spasms as your murderous foe You drop anything held in that hand. chomps down on or batters your wrist. A row of seeping indentations score a line across your lower arm, courtesy of fangs or claws.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Biceps Bite. Drooling with a lust for slaughter, your foe opens You suffer a Torn Muscle (Minor). up your arm, tearing muscle and flesh.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Deltoid Dinner. Your beastly foe cruelly tears a chunk of Gain Bleeding (1) and suffer a Torn Muscle (Minor). muscle from your upper arm, sending blood spurting over the both of you.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Forearm Food. In a display of pure savagery, your foe rips Gain Bleeding (1). Until the Bleeding Condition has been into your lower arm, damaging one of the arteries supplying removed you\u2019ll have to pass an Average (+20) Dexterity Test the hand. Your grip soon grows slippery with blood!         any time you want to perform an Action requiring an item held in that\u2019s hand, or lose your grip and drop the item.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Wrenched Arm. With bestial strength, your foe almost rips The arm is useless (see under Amputated Parts) for 1d10 your arm out of its socket!                               turns. Also, you drop any item held in that hand.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Savaged Hand. Phalangeal finger bones crackle and tendons Your hand is useless (see under Amputated Parts) for the creak as your hand becomes your foe\u2019s chew toy or miniature rest of the encounter. Afterward it\u2019ll be swollen and battered punching bag.                                               enough to count as a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Ri-i-i-i-ip! In an unparalleled exhibit of carnivorous cruelty,   Gain Stunned (2) and Bleeding (1). Also, suffer a Torn Muscle your enemy digs claws, fangs or other natural cutlery into        (Minor). You must pass a Challenging (+0) Cool Test before your forearm and proceeds to tear a long flap of skin and         you\u2019re allowed to use the arm for any Actions, rolling at the flesh off, all the way to the back of your hand, leaving muscle   start of each of your turns until you pass. and tendons exposed and glistening. A gruesome sight!",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Dislocated Shoulder. Your monstrous foe clamps on to your         Gain Prone. Your arm is useless (see under Amputated shoulder and bears down on you with its full weight, bearing      Parts) and the pain so severe you suffer a -10 penalty to you to the ground. Your shoulder joint is unable to take the      all Tests. You can try to pop it back in place yourself, which strain and your shoulder dislocates with a sickening pop.         is a Hard (-20) Test for either Cool, Endurance or Heal, Your screams are almost as loud as your enemy\u2019s howl of           depending on your method (which can consist of simply triumph.                                                          slamming yourself into something solid at a hopeful angle\u2026 or something slightly more scientific). Alternately, a friend or ally can attempt a Challenging (+0) Heal Test. This puts your arm back in action again without penalties. Otherwise the shoulder will pop back in place spontaneously during your next rest, but will be plenty sore enough for a -10 penalty to any Tests performed with that arm for the next 24 hours.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Crunchy And Tasty! Your foe ferociously latches on to your Gain Bleeding (1). You must also pass a Challenging (+0) lower arm, twisting and pulling until there is a distinct crack Strength Test or go Prone. You suffer a Broken Bone (Minor). as your wrist snaps.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Finger Food! Feeling a bit puckish, your enemy decides to Gain Stunned (1). Lose one finger \u2013 Amputation (Easy). indulge in a snack. You stare in horror at the raw bleeding stump of one of your fingers!",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Pit Stop! Like the beast it is, your foe manages to catch hold Gain Bleeding (2) and suffer a Torn Muscle (Major). of the triceps muscle at the back of your arm near the armpit. A chunk of tissue detaches and blood sprays from a severed artery!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Dislocated Elbow. Spittle flying, your foe strikes with inhuman Gain Stunned (1). Your arm is useless (see under Amputated strength, nearly tearing your arm off. The elbow joint fails Parts) and the pain so severe you suffer a -10 penalty to first, dislocating as ligaments and tendons tear and stretch all Tests for the rest of the encounter. The arm will remain in ways not designed by nature. The pain is unbelievable!       useless until given Medical Attention after the encounter, which requires a Challenging (+0) Heal Test, which can be repeated once per day. If successful it\u2019ll count as a Torn Muscle (Minor) rather than a lost limb.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Marrow Munch! Like the culinarily sophisticated monster Gain Stunned (2) and pass a Challenging (+0) Strength Test that it is, your foe attempts to get at your delicious bone to avoid also going Prone. You suffer a Broken Bone (Major). marrow by the most direct route possible. The long humerus bone of your upper arm splinters and cracks!",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Digit Delight! Your hand is engulfed by fanged jaws or Gain Stunned (2) and Bleeding (1). You also lose 1d10/2 clawed paws. When they depart, several of your fingers fingers \u2013 Amputation (Challenging). If five fingers are lost depart as well!                                        you lose the entire hand.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Meat Off The Bone! With a truly monstrous disregard for Gain Stunned (2) and Bleeding (2). Your arm is permanently civilized table manners, your vicious foe strips most of the useless \u2013 Amputation (Hard). You also contract as Festering meat and muscle from your upper arm and shoulder.            Wound due to no longer having much of a skin barrier to protect what remains of your limb from filth and germs.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Bite Size! Giving itself entirely to its primal hunger, your Gain Bleeding (3). Pass a Very Hard (-30) Cool or Endurance foe slakes its appetite by helping itself to most of your arm, Test to avoid also gaining Stunned (3). Needless to say, you which is severed near the elbow, leaving ragged flesh and a lose the arm \u2013 Amputation (Challenging). splintered stub of bone.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Donate Blood, Anyone? You lift your arm to defend yourself        Gain Bleeding (3) which requires Surgery to remove, probing but your feral and wily foe goes in under your guard to tear      deep into the torn mess to find an intact piece of artery to into the soft flesh at the armpit, ripping your brachial artery   clamp. Should you survive, you also suffer a Torn Muscle to shreds. Blood covers both your foe and your whole side!        (Major).",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Dismemberment! Fell and feral, your foe clamps down on Having just been deprived of one arm and almost a quarter of your shoulder near the angle of the neck. With merciless your torso, you expire speedily! brutality it proceeds to tear your whole shoulder off. The shoulder blade and pieces of several ribs come away as well, exposing lung and splintered bone in the ensuing gaping hole.",
+      "effects": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "damageType": "arrows-bolts",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Grazed Arm. The arrow only narrowly grazes you anywhere Pass an Average (+20) Cool Test or take a -10 penalty to your between hand and shoulder, drawing a few drops of blood next rolled Test. from the shallowest of cuts. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Nicked Wrist. The arrow nicks your wrist, opening up a small You may not use that arm for any Action on your next Turn, but painful wound.                                           but you do not drop anything held in it.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Forearm Wound. The arrow goes in almost parallel to your Until the arrow has been Extracted you suffer a -10 penalty to forearm, digging into the muscles at the upper part near the all Tests using that arm elbow, leaving the arrow sticking out at a sharp angle. Extracting it needs only a single Action using your other hand to yank it out. No Heal skill is required.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pierced Deltoid. The arrow goes into the deltoid muscle Gain Bleeding (1). Also, you must pass a Hard (-20) Endurance at the junction between upper arm and shoulder, causing Test or drop anything held in that hand. your whole arm to spasm. Fortunately it did not hit bone and should be easy to push out the opposite side.                Extraction will be Easy (+40).",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Impaled Bicep. The arrow slams into the large bicep muscle Gain Bleeding (1) and suffer a Torn Muscle (Minor). on your upper arm, the arrowhead slicing it up pretty good before coming out the other side, all red and glistening with Extraction will be Very Easy (+60). your blood.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Perforated Hand. The arrow impales your hand through the The hand is useless (see under Amputated Parts) until the middle of the palm, passing between the metacarpal bones. arrow is Extracted. Anything held in the hand is dropped and Anything you held in the hand is punched out of your grip! flies 1d10 yards backwards. After Extraction it\u2019ll count as a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Pierced Wrist. The arrow pierces your wrist, slamming Gain Stunned (1) and suffer a Broken Bone (Minor). through the carpal bones and coming out the other side. If If you were carrying any shield larger than a Buckler it is you were carrying a shield it is now nailed to your forearm! now nailed to your forearm, reducing its Shield Rating by 1. (Note that the Up In Arms supplement handles that Quality differently than the Rule Book.)",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Sliced Fingers. The arrow slices across the back of your          Pass a Difficult (-10) Cool Test or lose your next Action as you hand or fingers, tearing the extensor tendons of several          stare at the twitching tendons and gleaming bone. You also fingers and nicking the underlying metacarpal or phalangeal       suffer a Torn Muscle (Major). You can still flex the fingers, bones. The sight of gleaming white bone and exposed torn          just not extend them very well, so you don\u2019t drop anything tendons curling up from the flesh is quite upsetting! Also, you   held in that hand. find yourself quite unable to open up your grip properly! No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Impaled Forearm. The arrow thumps into your lower arm, Gain Stunned (1) and Bleeding (1). The arm is useless for the scraping the long bones as it punches through between the rest of the encounter. Also, you suffer a Torn Muscle (Minor). ulna and radius, poking out the opposite side. Extraction will be Average (+20).",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Elbow Wound. The arrowhead slices into the crook of your          Gain Bleeding (2) and suffer a Torn Muscle (Minor). Also, the elbow, severing one of the arteries to the lower arm where        blood streaming down your arm is good enough for an extra it branches off from the larger brachial artery. Blood starts     -10 penalty to any Tests using that hand due to a slippery grip, spurting!                                                         until the Bleeding Conditions have been removed.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lodged In Bone! The arrow pierces your forearm, the Gain Stunned (1). The arm is useless until the arrow has been arrowhead lodging in the ulna bone. It\u2019s stuck in there good! Extracted. After that it\u2019ll count as a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lost Finger. You look down at your hand, suddenly finding Lose one finger \u2013 Amputation (Very Easy). Also, the blood yourself a finger short and a raw bleeding stump richer. Was streaming from your hand is good enough for a -10 penalty that the \u201cWhack!\u201d noise you heard as that arrow flew by?     to any Tests using that hand due to a slippery grip, until you\u2019ve had some sort of Medical Attention (or the end of the encounter, whichever comes first).",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Cracked Scapula. Your foe\u2019s shot fractures your scapula, Gain Stunned (2) and suffer a Broken Bone (Minor). either cracking the shoulder blade or snapping one of the protruding bony processes that are part of the shoulder joint. Extraction will require Surgery (Challenging) as the Sure sucks to be your arm right now!                           arrowhead has lodged in bone.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Pierced Humerus. The enemy\u2019s arrowhead decides to take a Gain Stunned (2) and Bleeding (1). The arm is useless until liking to your upper arm bone, jamming itself deep into it after the arrow has been Extracted. After that it\u2019ll count as a Torn tearing through flesh and muscle.                                Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Jammed Elbow. The arrow lodges in your elbow, severing Gain Stunned (3) from the blinding pain. Also, suffer a Broken the head of one of the long bones of the forearm and jamming Bone (Major), except it cannot begin to heal until the arrow the delicate elbow joint at a very painful 90-degree angle!  is Extracted.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Brachial Artery. The arrow rips the brachial artery, the Gain Bleeding (3). major blood vessel running along the inside of your upper arm, causing a spurting crimson deluge. Within seconds the Extraction will be Challenging (+0) and any failure will result whole side of your body is drenched in blood!              in gaining one Bleeding Condition as the arrow tears the artery up even further.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Nerve Damage. Your foe\u2019s arrow passes through the meaty         Gain Stunned (1) and Bleeding (1). The arm is useless (see part where neck joins shoulder, above the clavicle, tearing     under Amputated Parts), and unless you receive magical through the nerves of the subclavian plexus supplying the       healing counting as applied Surgery (any spell or prayer arm.                                                            capable of recovering more than one Wound, see also the Preface And Clarifications document) the paralysis will be permanent. Ordinary Surgery will not help.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Subclavian Artery. The arrow goes in under the collarbone Gain Bleeding (3) which requires Surgery to remove. and severs the subclavian artery leading from the aorta to the arm. A scarlet fountain pulses up from the angle between Extraction will be Challenging (+0). your neck and shoulder!",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Wrecked Shoulder. Your foe really does a number on your Gain Prone, Stunned (3) and Bleeding (2), the latter of which shoulder, his arrow piercing bone, nerves and blood vessels, requires Surgery to remove. Also, the arm is permanently finally punching out from your split and cracked shoulder useless (see under Amputated Parts). blade. Extraction will be Hard (-20).",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Under The Armpit! The shot goes in under your arm, ripping Oh you\u2019re dead alright! through part of your triceps muscle before punching into your armpit. From there it continues into your torso, embedding itself to the fletching as it impales both your lungs. You cough once, producing an eruption of blood from your mouth, and then croak.",
+      "effects": []
+    }
+  ]
+}

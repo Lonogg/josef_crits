@@ -1,0 +1,168 @@
+{
+  "damageType": "sling",
+  "location": "body",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Near Miss. The sling bullet causes but a glancing hit, whirring If you were wearing anything fragile, like a draught bottle, a away into the distance. You pat yourself down to make sure monocle hanging from a pocket chain, or some similar thing, you\u2019re unhurt\u2026                                                  there\u2019s a 50% chance one random such item will be smashed to pieces.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Flank Hit. The projectile smacks into your side, leaving a bit You flinch and falter in your step, suffering a penalty of -10 to of a bruise and some scraped skin.                             your next rolled Test.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Bruised Rib. The sling bullet impacts the side of your chest, You gain Fatigued (1) which can be removed once you pass causing a hairline fracture to one of your ribs. Moving and an Average (+20) Endurance Test, rolling at the end of each weaving through the fight now causes you quite a bit of of your subsequent turns. discomfort!",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Clipped Shoulder. The sling bullet clips your shoulder, Gain Deafened (2). You also need to pass an Average (+20) spinning you around and ricocheting up to smack your ear Athletics Test or go Prone. painfully.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Belly Button Punched! You take a hit right in the stomach, Gain Stunned (1), except you don\u2019t gain any Fatigued getting the wind knocked out of you.                       Condition once the Stunned Condition has been removed.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Aiming Low! The projectile, undoubtedly aimed even lower, Gain Prone as you go to your knees and dribble a bit. hits you hard beneath the navel. A wave of nausea doubles Depending on when you last had dinner there may even be you over and you taste vomit at the back of your throat!  some actual hurling!",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bruised Shoulder Blade. As you try your skills at acrobatic Roll randomly for side, left or right. The arm on that side dodging, you get hit on the back of your shoulder. Skin and suffers a Torn Muscle (Minor). muscle is mashed against bone, possibly even chipping it a bit.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Why Am I Peeing Red? You take one heck of a whack to Gain Stunned (2). the flank, your lower ribs flexing under the strain. Your poor kidney is contused, causing you to pee red for a few days.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cracked Sternum. Right in the middle of the sniper\u2019s triangle, You gain Fatigued (1) which will last one whole week before you take one to the middle of your chest, causing a stable but the bone has started setting. painful fracture of your breastbone, making deep breaths a real drag.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Pelvis Fracture. The sling bullet slams into the bony crest Gain Stunned (1). You\u2019ll suffer a penalty of -1 to your M and high on your hip, cracking the wing of the ilium bone.      -20 to any Agility Tests until the bone has set in 30 minus your Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Bull\u2019s Eye! You take the sling bullet right in the groin! Gain Stunned (3). Depending on the nature of the bruising Uncomfortable for you and highly amusing for your foe.    you may encounter difficulties procreating for a while.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Ribs. The projectile breaks several of your ribs. This You suffer a Broken Bone (Minor). will make any breathing and physical exertions a proper pain in your patookas!                                             If the projectile was a Lead Bullet you reroll the result once. If the result comes up as Pneumothorax or any higher result you use the Pneumothorax result instead as the bullet penetrates your chest. On any other result, use the Broken Ribs result instead.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Burst Spleen. The sling bullet smashes into your left side,      Gain Bleeding (1) which can only be removed through some of your floating ribs gaining hairline fractures as they    magical healing.* Surgery or ordinary Heal Tests don\u2019t work flex under the impact. The blow bursts your spleen, causing      as the bleeding is inside the fibrous capsule surrounding the heavy internal bleeding!                                         spleen, impossible to get at. Fortunately, the capsule also contains the bleeding, which will stop after 1d10+5 turns, causing the Bleeding Condition to be removed. Because the spleen is an important part of your immune system you\u2019ll lose any Resistance (Disease) Talent that you had.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Breastbone. The sling bullet lands with such force You suffer a Broken Bone (Major). that your sternum is shattered to pieces. As it is connected to pretty much every rib you have, helping hold the whole ribcage together, this severely impacts your ability to take a deep breath and be a chill dude.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruptured Bowel. A hard-flung projectile to the belly ruptures Gain Stunned (2) and Prone. Also, you contract Blood Rot. a length of intestine, spilling fecal matter into your abdominal cavity, leading to a serious infection and peritonitis.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Pneumothorax. The pleural sac of one of your lungs is torn,        Gain Fatigued (3). For healing purposes, count as Torn Muscle either by the bone shards from ribs fractured by a Stone           (Major), with partial healing reducing your Conditions from Bullet or by a Lead Bullet punching through your chest wall.       Fatigued (3) to Fatigued (1) which will be removed once fully Your lung collapses as air and blood enters the pleural space!     healed.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Kidney Injury. The sling bullet slams into your right flank,       Gain Stunned (1) and Bleeding (3), the latter of which breaking one of the lower ribs. The jagged end of it gets          requires Surgery to remove. punched deep, where it lacerates one of your kidneys. As           Should you survive, you\u2019ll still have a Broken Bone (Minor). the kidneys\u2019 job is to filtrate your entire blood volume over      Because stopping the bleeding probably required clamping and over again, this is bad news indeed.                           off the whole organ, you\u2019ll incidentally also have only one kidney left\u2026",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 110,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Pierced Pericardium. Bone splinters from a shattered rib Gain Fatigued (3) which will last until you\u2019ve had Surgery, penetrate to your heart, lacerating the pericardial sac which will require a lengthy procedure and cause a surrounding this most vital organ.                       Festering Wound regardless of success or failure. Until success happens you\u2019ll have a 10% chance of dying each day as the fragments migrate deeper.",
+      "effects": []
+    },
+    {
+      "min": 111,
+      "max": 115,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Cardiac Tamponade. You experience high-energy trauma to    Gain Stunned (2). You also gain Fatigued (1), gaining another your chest, the resulting shearing forces partly detaching level at the end of each of your subsequent turns. When you your ascending aorta from the heart. Blood immediately     have reached Fatigued (10) you expire. starts filling the pericardial sac surrounding your heart, Only magical healing can save you, requiring a spell or causing what is called a hemopericardium.                  prayer equivalent to Surgery** to stop further accumulation of Fatigued Conditions. Ordinary Surgery won\u2019t do any good. The accumulation of blood prevents your heart from beating If you survive you\u2019ll be able to remove one level of Fatigued effectively, rapidly reducing your cardiac output.         Condition every second day.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Broken Heart. The projectile slams into the center of your Since a working heart is required for proper living (being chest with deadly force.                                   undead doesn\u2019t count) you die tragically.",
+      "effects": []
+    }
+  ]
+}

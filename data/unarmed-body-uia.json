@@ -1,0 +1,168 @@
+{
+  "damageType": "unarmed",
+  "location": "body",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Staggered! You stagger backwards but right yourself.               You suffer a penalty of -10 to your next rolled Test.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Body Blow! A blow to the ribs just under an armpit sends You make not take an Action on your next turn. you reeling.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Tackle! Your opponent slams into you, shoulder first.              Make an Opposed Strength Test \u2013 failure means you gain Prone.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Collarbone Chop! Your foe makes a vicious chop at your You take a penalty of -10 to all Test until the end of your next collarbone.                                            turn.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Solar Plexus Punch! You take one straight in the gut, Gain Stunned (1) except you do not gain any Fatigued slamming the breath from your body.                   Condition once the Stunned Condition has been removed.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Take-Down! The sound of ribs creaking accompanies the Gain Prone and Stunned (1) except you do not gain any whoosh of your forcefully expelled breath as your foe knocks Fatigued Condition once the Stunned Condition has been you to the ground.                                           removed.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Fractured Rib. Your opponent\u2019s blow causes a hairline You gain Fatigued (1) for the rest of the encounter. fracture in one of your ribs, making deep breaths a painful experience for you.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Kidney Punch! Your ribs flex and creak under the assault. Gain Stunned (2). After the encounter you have a good scare as your pee turns red from a contused kidney!",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Dislocated Collarbone. A blow to the angle between neck Roll randomly for side, left or right. The arm on that side is and shoulder dislocates the collarbone on that side.    useless for 1d10 turns (see under Amputated Parts).",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Twisted Back. You wrench your back badly, something that Gain Stunned (1). For the next month, any time you take a hit will come back and haunt you for a while.                to the Body Location, you\u2019ll gain Stunned (1) again.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Hip Bruise. A savage kick to the hip leaves a huge bruise.         You suffer a penalty of -1 to your M and -10 to all Agility Tests for the rest of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Groin Hit. Your despicable foe manages to land a good one to Gain Stunned (3). your crotch area, upsetting you greatly!",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Ribs. Your enemy pummels your ribs, breaking You suffer a Broken Bone (Minor). several of them.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Arrhythmia. A powerful blow to the chest bruises your Roll an Extended Challenging (+0) Endurance Test at the breastbone and makes your heart start beating irregularly. start of each of your subsequent turns. Failure means you gain Unconscious. An Astounding Failure (-6 SL) means you die. Accumulating 4 SL means your heart starts beating normally again.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Smashed Ribcage. Your foe gets a good grip on you and Gain Stunned (2) and suffer a Broken Bone (Major). savagely slams his knee over and over again into your side, breaking several ribs and contusing a lung.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruptured Spleen. A vicious kick to your left flank ruptures your   Gain Bleeding (1) which can only be removed through spleen. Because this organ functions as an important blood         magical healing.* Surgery or ordinary Heal Tests don\u2019t work filter, this naturally causes serious bleeding! Fortunately        as the bleeding is inside the fibrous capsule surrounding the the fibrous capsule surrounding the spleen remains intact,         spleen, impossible to get at. Fortunately, the capsule also which may save your life\u2026                                          contains the bleeding, which will stop after 1d10+5 turns, causing the Bleeding Condition to be removed.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Body Slam! Your opponent picks you up bodily and then You gain Unconscious. slams you back first into the ground. Not only does this punch the air out of your lungs, you also hit the back of your head and everything goes dark\u2026",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 110,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Pneumothorax. Repeated blows to your chest fractures a rib Gain Fatigued (3). For healing purposes, count as Torn Muscle badly enough to pierce one lung. You cough blood and start (Major), with partial healing reducing your Conditions from feeling very short of breath as the lung collapses.        Fatigued (3) to Fatigued (1) which will be removed once fully healed.",
+      "effects": []
+    },
+    {
+      "min": 111,
+      "max": 115,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Internal Bleeding. Your merciless foe\u2019s blows break several Gain Bleeding (2), which requires Surgery to remove. Should of the floating ribs protecting your right flank, driving sharp you fail to bleed to death you\u2019ll still suffer a Broken Bone fragments into your body and lacerating your liver.             (Minor).",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Broken Spine. Your enemy slams you down on your back Pass a Challenging (+0) Toughness Test or die from the across his knee with irresistible force, breaking your spine! shock. Success still leaves you Stunned (4) with two useless legs (see under Amputated Parts).",
+      "effects": []
+    }
+  ]
+}

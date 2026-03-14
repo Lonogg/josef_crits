@@ -1,0 +1,168 @@
+{
+  "damageType": "cutting",
+  "location": "arm",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Jarred Arm. The flat of your foe\u2019s blade smacks your fingers Pass a Challenging (+0) Endurance Test or drop whatever or elbow, causing your hand to spasm.                        you held in that hand. A two-handed item or weapon held in both hands isn\u2019t dropped but can\u2019t be used your next turn.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Minor Cut. A long but shallow wound is opened along your Gain Bleeding (1). arm, bleeding freely.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Sliced Muscle. You take a blow to the deltoid muscle near You suffer a Torn Muscle (Minor). the shoulder, severing muscle fibers and weakening your arm.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Biceps Injury. The major muscle of your upper arm is carved You suffer a Torn Muscle (Minor) and gain Bleeding (1). open; exposing glistening red tissue for a moment before upwelling blood fills the gash.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Bleeding Hand. You take a cut across your hand, nicking Before taking an Action that requires you to hold something tendons and making your grip slippery with blood.       in that hand, you need to pass a Very Easy (+30) Dexterity Test to avoid having that object slip from your hand. If object is held in two hands you may reroll a failed Test. This effect lasts until the end of the encounter.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Forearm Injury. Your opponent lands a blow to your lower Gain Stunned (1) and Bleeding (1). You also suffer a Torn arm near the elbow, slicing through muscle to the very bone. Muscle (Minor) and must pass a Challenging (+0) Endurance Test to keep your grip on any item held in that hand. A two- handed weapon or item isn\u2019t dropped but can\u2019t be used your next turn if the Test is failed.",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Tissue Loss. A meaty chunk of muscle from the flesh of your Suffer a Torn Muscle (Major). upper arm and shoulder hangs by a few threads of tissue after a clean solid slice. Your new dangly bit will have to come off after the fight is over. A sharp pair of scissors will do the trick.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Nerve Damage. Your foe\u2019s blade finds important nerves and Gain Stunned (1) and Bleeding (1). You also suffer a Torn blood vessels nestled between the bones of your forearm, Muscle (Major). not quite managing to completely sever those important structures, yet badly weakening your grip.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 75,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Gaping Wound. Your biceps muscle is almost entirely Gain Bleeding (2). You also suffer a Torn Muscle (Major). severed from its tendonous attachments, leaving a gaping bleeding gash. An ugly wound indeed!",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Severed Clavicle. The blade comes down on your shoulder, You drop anything held in that hand and your arm is useless the cracking sound of your collarbone snapping under the until you manage to succeed on a Difficult (-10) Endurance edge not quite as loud as your scream of pain.           Test to overcome the pain, rolling at the start of your turn. Regardless, you suffer a -10 penalty to all tests involving any physical movement and -20 to any tests involving that arm until the bone has set in 20 minus your Toughness Bonus days.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Lost Finger. You stare in horror at the bloody stump that used Gain Stunned (1). You also lose one finger \u2013 Amputation to be a perfectly functional finger.                           (Average).",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Split Hand. Your foe\u2019s blade comes down between your            You must pass a Challenging (+0) Cool Test or gain Stunned middle and ring finger, cleaving your hand lengthwise almost    (2) from the horrible sight. Fortunately the blade passed to the wrist, leaving the hand split like a grotesque lobster   between the metacarpal bones, keeping nerves and tendons claw. Gruesome!                                                 in the hand intact. The hand is useless for the rest of the encounter (see under Amputated Parts), but will count as a Torn Muscle (Major) after the encounter when you\u2019ve had a chance to wrap the two halves of the split hand together again with a bandage or rag.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Busted Arm. The blade cuts through flesh and muscle to Gain Stunned (2) and suffer a Broken Bone (Minor). break your upper arm. You shout in pain as your arm drops to your side, no longer straight nor powerful. Your opponent congratulates himself on a job well done.",
+      "effects": []
+    },
+    {
+      "min": 96,
+      "max": 109,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruined Elbow. The end of one of the forearm bones is Gain Stunned (2) and Bleeding (2). Also, you suffer a Broken severed near the elbow, leaving the arm muscles no Bone (Major). leverage to work with as the tendons try in vain to work with a suddenly mobile attachment point.",
+      "effects": []
+    },
+    {
+      "min": 110,
+      "max": 115,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruined Hand. You suddenly become less accomplished at Gain Stunned (2) and Bleeding (1). You also lose 1d10/2 math as your foe cuts half your hand off. If you still have both fingers \u2013 Amputation (Challenging). If five fingers are lost feet you can count to ten on your toes instead.                  you lose the entire hand.",
+      "effects": []
+    },
+    {
+      "min": 116,
+      "max": 120,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruined Shoulder. Your shoulder joint is deeply hacked into, Gain Stunned (3). You also suffer a Broken Bone (Major) and sending bone splinters into the top of your lung, puncturing will be Fatigued (2), removing one Fatigued Condition per it. This causes a minor pneumothorax to complicate your week until your deflated lung has inflated again. breathing, as your lung partly collapses when air enters the pleural space.",
+      "effects": []
+    },
+    {
+      "min": 121,
+      "max": 125,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Wrist. Your foe cuts through your forearm, sending Gain Stunned (3) and Bleeding (2). Also, lose your hand \u2013 your hand on its merry way.                                Amputation (Difficult).",
+      "effects": []
+    },
+    {
+      "min": 126,
+      "max": 130,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Useless Arm. The blow comes down at an angle and scrapes Gain Stunned (4) and Bleeding (3). Also, lose use of your arm along the bone, practically peeling the flesh off the length of permanently \u2013 Amputation (Hard). your upper arm, severing nerves and tendons, leaving the arm a horrid, dripping, crippled and useless mess.",
+      "effects": []
+    },
+    {
+      "min": 131,
+      "max": 135,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Severed Arm. Your upper arm is severed near the shoulder. Gain Stunned (4) and Bleeding (4). Also, lose your arm \u2013 You miss it already.                                      Amputation (Very Hard).",
+      "effects": []
+    },
+    {
+      "min": 136,
+      "max": 136,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Dismemberment. Your foe\u2019s unstoppable weapon cleaves You end your life as a less than whole person. through your arm and keeps going on its bloody path into your neck or chest. Either way, catastrophic damage is done to your vital areas and you expire pretty much instantly.",
+      "effects": []
+    }
+  ]
+}

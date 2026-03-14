@@ -1,0 +1,168 @@
+{
+  "damageType": "piercing",
+  "location": "head",
+  "ruleset": "uia",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 3,
+      "severity": "T",
+      "wounds": "T",
+      "description": "You Flinched! Your opponent\u2019s stab passes so close to your If you fail a Challenging (+0) Cool Test your next Action may eye you\u2019re certain you must have lost a couple of eyelashes! not be an attack.",
+      "effects": []
+    },
+    {
+      "min": 4,
+      "max": 6,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Pricked Cheek. A shallow stab wound appears in your cheek, You suffer a penalty of -10 to your next rolled Test as you courtesy of your wily enemy.                               contemplate how close to your eye that one came.",
+      "effects": []
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Split Nose Tip. The tip of your opponent\u2019s weapon neatly You become so enraged you suffer a penalty of -10 to all bisects the very end of your nose. You find this very upsetting. Tests until the beginning of your next turn. Also, the resulting prominent scab lowers your Fellowship by -5 until it falls off in a week\u2019s time.",
+      "effects": []
+    },
+    {
+      "min": 10,
+      "max": 15,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Slashed Chin. The point of your enemy\u2019s weapon scores a You stumble backwards and must pass an Average (+20) line of red across your chin, bisecting any beard you may Athletics Test or gain Prone. have.",
+      "effects": []
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Ripped Ear. Your foe\u2019s thrust glances along the line of your Gain Bleeding (1) and a -5 penalty to Fellowship whenever jaw, barely missing your carotid artery before tearing into your mangled ear is obvious. A nice hat or a new haircut is your ear, removing a good piece of it, as well as any earring an obvious solution to hide your embarrassment. you were wearing.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Sliced Eyelid. Your eye barely escapes serious harm but your You gain Blinded (2). eyelid is lacerated.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Forehead Stab. You manage to duck enough to prevent You gain Bleeding (1) and Blinded (2), the latter of which having an eye put out, but the point of your enemy\u2019s weapon cannot be removed until the Bleeding Condition has been still crunches into your forehead. Luckily the penetration is removed. shallow, but like most head injuries it bleeds profusely, blood pouring into your eyes.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Vocal Apparatus Injury. A potentially lethal stab to the neck You gain Bleeding (2). Also, due to your altered voice quality fails to go deep enough. However, either your vocal cords or you will suffer a permanent penalty of -5 to any Fellowship the recurrent laryngeal nerve controlling them is damaged. Tests requiring smooth talking. Your voice will forever more sound hoarse and rasping.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Scalp Wound. Your foe\u2019s weapon scrapes along your skull, You gain Bleeding (2) and Blinded (2). If you ask your GM tearing a long hideous furrow through your scalp. Your whole nicely he may allow the hair along the scar to come out pure head is soon covered with blood.                             white, giving you a dashing white streak to set you off from the common crowd.",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Neck Vein. Your foe prepares to celebrate your imminent You gain Bleeding (3). demise as he stabs through a blood vessel in your neck. Luckily the gush of blood is the dark red flow of a large vein rather than the bright crimson spurts of a severed carotid artery.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Stabbed In The Face! Your foe\u2019s weapon crunches into your You gain Stunned (2). Also, you need to pass an Average (+20) face, penetrating into the sinuses of your upper jaw bone Endurance Test or contract a Festering Wound. near the nose. You\u2019ll have a heck of a scar!",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Stabbed In The Mouth! Your opponent\u2019s thrust pierces your Lose 1d10 teeth \u2013 Amputation (Challenging). cheek and shatters several teeth as it goes through.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Lacerated Neck Muscles. Your foe\u2019s weapon slices into the Trying to keep your head moving in the direction you want muscles on the side of your neck. The resulting imbalance in it as you duck and weave through the battle is distracting the amount of working muscle fibers makes your head feel enough to cause you to count as Fatigued (1). Also gain decidedly wobbly on your shoulders.                          Bleeding (1).",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Split Jaw. Your evilly grinning enemy slams his weapon You suffer a Broken Bone (Minor). Also, your lower jaw is into the side of your face near the angle of your lower jaw, now disturbingly unstable and so distracting that you suffer splitting the bone near the hinge of the mouth.              a -10 penalty to all Tests until you take an Action to stuff your beard, handkerchief or other suitable article into your mouth to bite down on in order to hold your jaw in place.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ear Puncture. Your opponent, by intent or accident, thrusts      You gain Stunned (1), the subsequent Fatigued Condition his weapon into your ear. Its tip temporarily jams in the bony   gained after removing the Stunned Condition explained by parts of the ear canal before being withdrawn, but your inner    your now disturbed sense of balance due to the damage to ear is quite ruined.                                             your inner ear. Also, you lose the ear \u2013 Amputation (Easy).",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Ruined Mouth. Your unreasonably mean foe rams his weapon You gain Stunned (1) and Bleeding (2). Also, lose 1d10 teeth into your mouth, shattering teeth and severing your tongue. and your tongue \u2013 Amputation (Challenging). At least now he doesn\u2019t have to listen to your taunts.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Pierced Eye. A malicious poke in the eye bursts your eyeball! You gain Stunned (2) and Blinded (3). Also, lose the eye \u2013 Amputation (Hard).",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 94,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Deep Neck Wound. A deep thrust to the neck tears through You gain Stunned (1), Fatigued (2) and Bleeding (2), the latter blood vessels and windpipe. You start to choke on your own of which requires Surgery to remove. Also, due to damaged blood in a most dramatic (and for you foe highly entertaining) vocal cords you\u2019ll suffer a permanent penalty of -10 to any manner.                                                        Fellowship Tests requiring smooth talking.",
+      "effects": []
+    },
+    {
+      "min": 95,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Brain Damage. Your enemy\u2019s blade crunches through your You gain Unconscious. There is a 50% chance the thrust went temple, penetrating to the brain. The resulting cerebral through your eye socket rather than the temple, in which case trauma comes with disturbing changes to your personality. you also lose an eye (see under Amputated Parts). Roll once on the Mental Corruption Table when you wake up. This does not lose you any Corruption Points nor does it count towards your Corruption Limit. You must also pass a Challenging (+0) Endurance Test or contract Blood Rot due to meningitis from the bacteria deposited inside your skull by the weapon.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "Split Open! Pick a spot \u2013 either neck, mouth or the bridge You couldn\u2019t possibly be any more dead. of your nose between your eyes. That\u2019s the entry point. The exit point is the back of your head. There; we have now determined the path of your victorious foe\u2019s weapon!",
+      "effects": []
+    }
+  ]
+}

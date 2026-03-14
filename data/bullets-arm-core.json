@@ -1,0 +1,168 @@
+{
+  "damageType": "bullets",
+  "location": "arm",
+  "ruleset": "core",
+  "die": "1d100",
+  "rows": [
+    {
+      "min": 1,
+      "max": 10,
+      "severity": "T",
+      "wounds": "T",
+      "description": "Fingertipped! The bullet clips the end of a finger, leaving you You may not use that hand for anything on your next turn but with a black and blue nail. Annoying!                           you don\u2019t drop anything held in it.",
+      "effects": []
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Grazed Arm. You lose a strip of skin as the bullet grazes your You suffer a -10 penalty to your next Test using that arm. arm. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "severity": "1",
+      "wounds": "1",
+      "description": "Hand Wound. The bullet cuts a track across the meat at the Until you take an Action to wipe off the blood you suffer a -10 base of your thumb, causing blood to well up and make your penalty to any Tests using that hand. grip slippery. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "severity": "1",
+      "wounds": "1",
+      "description": "It Went Clean Through! The bullet makes a small neat hole You suffer a Torn Muscle (Minor). through the triceps muscle at the back of your upper arm, passing through cleanly.                                  No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Lost Finger. You look down at your hand, which is suddenly You lose one finger \u2013 Amputation (Easy). one digit short! No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Cracked Collarbone. The bullet passes through the meaty         Any time you want to use the arm for an Action during the part between shoulder and neck, clipping and cracking           rest of the encounter you must first pass an Average (+20) the clavicle on the way. The fracture is stable but far from    Cool or Endurance Test. Failure means you lose the Action. painless!                                                       (You can still roll for Opposed Melee Tests as the defender, as necessity trumps discomfort.)",
+      "effects": []
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Biceps Injury. The bullet smacks into the large muscle of Gain Bleeding (1) and suffer a Torn Muscle (Minor). your upper arm, passing through most of its length before lodging against the bone.                                 Surgery (Easy) is required for Extraction.",
+      "effects": []
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "severity": "2",
+      "wounds": "2",
+      "description": "Shoulder Wound. You suffer the classic heroic injury of Gain Bleeding (1), drop anything held in that hand, and suffer having your shoulder pierced yet remaining strangely almost a Torn Muscle (Minor).",
+      "effects": []
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Tunneling! The bullet enters near the deltoid muscle of your You suffer a Torn Muscle (Major). upper arm, tunnels through the soft tissues on the outside of the shoulder blade and finally makes an exit through the No Extraction is necessary. back of your neck.",
+      "effects": []
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Hole In The Hand! You stretch out your hand in a vain attempt You suffer a Broken Bone (Minor). Your middle finger might to ward off the projectile and it punches straight through be a bit stiff afterwards but that is easily fixed by strapping it the palm, allowing you to see your insufferably pleased to the more flexible and functional ring finger. opponent through the hole. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Crater! The bullet smashes into your shoulder blade. The        Gain Stunned (1) and Bleeding (2). You suffer a Torn Muscle projectile flattens and then shatters against the bone, the     (Major). pieces tearing a ragged shallow crater as they spread outward from the impact and strip the shoulder blade of         Surgery (Average) is required for Extraction of the bullet flesh and muscle. Grisly!                                       fragments still remaining in the wound.",
+      "effects": []
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "severity": "3",
+      "wounds": "3",
+      "description": "Broken Bone. The bullet ricochets off your humerus on its Gain Stunned (1) and Bleeding (1). You suffer a Broken way through your upper arm, breaking the bone. The arm Bone (Minor). Also, until you\u2019ve spent an Action (using falls limp at your side and the slightly deformed bullet lodges your other arm) sticking the broken limb into an improvised just underneath the skin near your armpit.                       mitella or otherwise accomplished some sort of makeshift immobilization (like tucking it into your belt), the dangling extremity will unbalance and discomfort you enough for a -10 penalty to all Agility Tests.",
+      "effects": []
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "severity": "4",
+      "wounds": "4",
+      "description": "A Burrower! The bullet enters near the wrist, then burrows The arm is useless until you\u2019ve had some form of Medical a path along the long bones in your forearm, exiting the arm Attention (see under Amputated Parts), after which it\u2019ll count near the elbow, making a mess of muscles and tendons as a Torn Muscle (Major). along the way. No Extraction Is necessary.",
+      "effects": []
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Shattered Forearm. The bullet shatters the radius, one of Gain Stunned (2). You suffer a Broken Bone (Major). Also, the long bones in the forearm, causing a nasty-looking open the open fracture requires you to pass a Challenging (+0) fracture with shards of bone poking through the skin.       Endurance Test or gain a Festering Wound.",
+      "effects": []
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Collapsed Lung. The bullet enters your shoulder just             Gain Fatigued (2). Because it\u2019s only a rather minor underneath the collarbone, exiting your back through             pneumothorax you\u2019ll remove one Fatigued Condition each the shattered shoulder blade. Either the bullet or a bone        week spontaneously as the lung inflates itself back again. fragment pierces the top of your lung, which partly collapses    You also suffer a Broken Bone (Minor). as air and blood enters the pleural space. No Extraction is necessary.",
+      "effects": []
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "severity": "4",
+      "wounds": "4",
+      "description": "Jammed Shoulder. The bullet makes a mess of your shoulder, Gain Stunned (2). The arm is useless (see under Amputated splintering bones and finally lodging inside the joint. You can Parts). If you receive Surgery (Difficult) for Extraction of the no longer move your arm! Highly inconvenient!                   bullet and to set the broken bones it\u2019ll count as a Broken Bone (Major). Otherwise the arm remains useless.",
+      "effects": []
+    },
+    {
+      "min": 91,
+      "max": 93,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Shattered Wrist. The bullet pierces your wrist, shattering Gain Stunned (1) and Bleeding (1). The hand is useless \u2013 the heads of the long bones of the forearm as well as Amputation (Average). several carpal bones, also severing the nerves and tendons controlling the fingers. The hand in question now hangs No Extraction is necessary. limply from what remains of your wrist.",
+      "effects": []
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Wrecked Elbow. The bullet hits you in the elbow where the Gain Stunned (2) and Bleeding (2). The arm is useless \u2013 long bones of the upper and lower arm meet in a delicately Amputation (Challenging). balanced joint. The wickedly aimed projectile shatters the heads of several of the bones and tears up the nerves and Surgery (Average) is required for Extraction. blood vessels passing through the joint. You\u2019ll never bend your arm again as the elbow is either completely jammed or entirely disconnected.",
+      "effects": []
+    },
+    {
+      "min": 97,
+      "max": 99,
+      "severity": "5",
+      "wounds": "5",
+      "description": "Amputation Case! The bullet whacks into your shoulder,           Gain Stunned (3). The arm is useless \u2013 Amputation (Hard). pancaking and flattening as it slams into the top of your humerus, shattering the head and tuberosities (where             After the encounter you\u2019ll need Surgery (Challenging) the muscles attach), transforming them into a cascade of         within a week as the arm will have to be amputated at the fragments. A complicated fracture like that will never heal      shoulder or you\u2019ll contract Blood Rot as the extremity turns and the dead bone fragments will inevitably lead to infection    gangrenous. and gangrene. It was a good arm\u2026hope you weren\u2019t too attached to it?                                                  No Extraction is necessary, as any remaining bullet fragments not removed with the leg or coming out with the flood of pus won\u2019t really make much of a difference to your health.",
+      "effects": []
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "severity": "D",
+      "wounds": "D",
+      "description": "A Spurting Mess! The bullet goes in high on your arm, You are absolutely covered in your own blood! Oh, and also ricochets its way through various bony structures on its quite dead. way into your chest before ripping up the subclavian artery where it branches off from the aorta, finally exiting in a spray of bright arterial blood near your neck. The fountain of crimson keeps pumping rhythmically as you collapse.",
+      "effects": []
+    }
+  ]
+}
