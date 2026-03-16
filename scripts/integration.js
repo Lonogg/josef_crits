@@ -49,7 +49,9 @@ export function initIntegration() {
     if (typeof loc === 'string') {
       s = loc.toLowerCase().trim();
     } else {
-      const str = loc.value ?? loc.name ?? '';
+      // WFRP4e hitloc objects use .result for the key (e.g. "rArm", "lLeg", "body")
+      // Fall back to .value / .name / .key for other object shapes
+      const str = loc.result ?? loc.value ?? loc.name ?? loc.key ?? '';
       s = String(str || loc).toLowerCase().trim();
     }
     // Exact matches for WFRP4e's canonical hit location names
@@ -243,8 +245,18 @@ export function initIntegration() {
         if (debug()) console.warn('JosefCrit: Could not infer damage type for weapon', weapon);
         return;
       }
-      // Determine hit location from result
-      const locRaw = result.hitloc || result.hitLocation || result.location || test.hitloc || test.location;
+      // Determine hit location from result.
+      // Prefer a called shot (preData.selectedHitLocation) so the targeted body part is always honoured.
+      // WFRP4e hitloc is an object with .result holding the key string (e.g. "rArm"); unwrap it.
+      const preData = test?.preData || test?.data?.preData || {};
+      const selectedHitLoc = preData?.selectedHitLocation;
+      let locRaw;
+      if (selectedHitLoc && selectedHitLoc !== 'roll' && selectedHitLoc !== 'none') {
+        locRaw = selectedHitLoc;
+      } else {
+        const hitlocObj = result.hitloc || result.hitLocation || result.location || test.hitloc || test.location;
+        locRaw = (hitlocObj && typeof hitlocObj === 'object') ? (hitlocObj.result ?? hitlocObj.value ?? hitlocObj.key ?? hitlocObj.name) : hitlocObj;
+      }
       const location = normaliseLocation(locRaw);
       if (!location) {
         if (debug()) console.warn('JosefCrit: Could not determine hit location from', result);
@@ -343,8 +355,17 @@ export function initIntegration() {
             // Determine weapon and defender from the test object
             const weapon = testArg?.weapon || testArg?.data?.weapon || testArg?.attacker?.weapon;
             const damageType = mapWeaponToDamageType(weapon);
-            // Attempt to find a hit location from either the result or the test
-            const locRaw = resultArg?.hitloc || resultArg?.hitLocation || resultArg?.location || testArg?.result?.hitloc || testArg?.result?.hitLocation || testArg?.result?.location;
+            // Attempt to find a hit location from either the result or the test.
+            // Prefer a called shot; unwrap WFRP4e hitloc objects (.result holds the key string).
+            const preDataArg = testArg?.preData || testArg?.data?.preData || {};
+            const selectedHitLocArg = preDataArg?.selectedHitLocation;
+            let locRaw;
+            if (selectedHitLocArg && selectedHitLocArg !== 'roll' && selectedHitLocArg !== 'none') {
+              locRaw = selectedHitLocArg;
+            } else {
+              const hitlocObj = resultArg?.hitloc || resultArg?.hitLocation || resultArg?.location || testArg?.result?.hitloc || testArg?.result?.hitLocation || testArg?.result?.location;
+              locRaw = (hitlocObj && typeof hitlocObj === 'object') ? (hitlocObj.result ?? hitlocObj.value ?? hitlocObj.key ?? hitlocObj.name) : hitlocObj;
+            }
             const location = normaliseLocation(locRaw);
             if (damageType && location) {
               // Use the defender's actor (or defender if already an actor) so
