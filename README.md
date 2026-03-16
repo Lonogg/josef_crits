@@ -38,3 +38,13 @@ for each of the locations `Head`, `Arm`, `Body`, and `Leg`, and both the **Core*
 
 The data tables are stored in the `data/` folder as JSON files and are generated from the original PDF.
 If you wish to modify the entries, edit the appropriate JSON file and reload the module.
+
+
+## Credits
+
+This module would not exist without the work of **Josef Tham**, whose *Expanded Critical Hits for Warhammer Fantasy Roleplay 4e* is the entire foundation of what this module does. All critical hit tables are his original creation. If you get value out of this module, the credit belongs to him.
+
+- **Original Content**: Josef Tham – *Expanded Critical Hits for WFRP4e*
+- **Foundry Module**: Lonogg
+
+https://www.windsofchaos.com/?page_id=19
